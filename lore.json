@@ -1,10 +1,9 @@
 {
-  "day": 1,
-  "story_summary": "",
-  "last_challenge": "",
-  "last_challenge_type": "",
+  "day": 2,
+  "story_summary": "The orbital signal relay network is awakening with unclear intent, potentially hostile.",
+  "last_challenge": "Decode the cipher message 'GUR PENML XRL VF ZL FRPERG CBFG' to unlock the first layer of the network.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 0,
   "solver_hall_of_fame": []
 }
-
