@@ -24,12 +24,11 @@ jobs:
       - name: Extract solver info from merged PR
         id: info
         run: |
-          # Get the merged file
           FILES=$(git diff --name-only HEAD~1 HEAD | grep 'solutions/')
           
           for file in $FILES; do
-            SOLVER=$(grep -oP '\*\*GitHub Username\*\*:\s*`\K[^`]+' "$file")
-            DAY=$(grep -oP '\*\*Day / Puzzle Reference\*\*:\s*`Day (\d+)' "$file" | grep -oP '\d+')
+            SOLVER=$(grep -oP 'solver:\s*\K.+' "$file" | tr -d '"' | xargs)
+            DAY=$(grep -oP 'day:\s*\K\d+' "$file")
             
             echo "solver=$SOLVER" >> $GITHUB_OUTPUT
             echo "day=$DAY" >> $GITHUB_OUTPUT
@@ -39,7 +38,7 @@ jobs:
         id: first
         run: |
           DAY=${{ steps.info.outputs.day }}
-          COUNT=$(find solutions/ -name "*day-${DAY}*" | wc -l)
+          COUNT=$(find solutions/ -name "day-${DAY}-*.md" | wc -l)
           
           if [ $COUNT -eq 1 ]; then
             echo "is_first=true" >> $GITHUB_OUTPUT
@@ -49,16 +48,16 @@ jobs:
       
       - name: Update leaderboard
         run: |
-          python -c "
-from scripts.leaderboard import Leaderboard
-
-lb = Leaderboard()
-lb.add_solve(
-    solver='${{ steps.info.outputs.solver }}',
-    day=int('${{ steps.info.outputs.day }}'),
-    is_first=${{ steps.first.outputs.is_first }}
-)
-          "
+          python3 << 'PYTHON_SCRIPT'
+          from scripts.leaderboard import Leaderboard
+          
+          lb = Leaderboard()
+          lb.add_solve(
+              solver='${{ steps.info.outputs.solver }}',
+              day=int('${{ steps.info.outputs.day }}'),
+              is_first='${{ steps.first.outputs.is_first }}' == 'true'
+          )
+          PYTHON_SCRIPT
       
       - name: Commit leaderboard changes
         run: |
@@ -66,5 +65,5 @@ lb.add_solve(
           git config user.email "bot@signal-lost.com"
           
           git add data/leaderboard.json
-          git commit -m "📊 Leaderboard updated: ${{ steps.info.outputs.solver }} solved Day ${{ steps.info.outputs.day }}"
-          git push
+          git commit -m "📊 Leaderboard updated: ${{ steps.info.outputs.solver }} solved Day ${{ steps.info.outputs.day }}" || echo "No changes to commit"
+          git push || echo "Nothing to push"
