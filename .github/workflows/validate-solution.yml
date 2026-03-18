@@ -65,8 +65,8 @@ jobs:
         id: solver
         run: |
           # Extract solver name from solution file
-          SOLVER=$(grep -oP '\*\*GitHub Username\*\*:\s*`\K[^`]+' ${{ steps.validate.outputs.solution_file }})
-          DAY=$(grep -oP '\*\*Day / Puzzle Reference\*\*:\s*`Day (\d+)' ${{ steps.validate.outputs.solution_file }} | grep -oP '\d+')
+          SOLVER=$(grep -oP 'solver:\s*\K.+' ${{ steps.validate.outputs.solution_file }} | tr -d '"' | xargs)
+          DAY=$(grep -oP 'day:\s*\K\d+' ${{ steps.validate.outputs.solution_file }})
           
           echo "solver=$SOLVER" >> $GITHUB_OUTPUT
           echo "day=$DAY" >> $GITHUB_OUTPUT
@@ -97,37 +97,33 @@ jobs:
           
           echo "streak=$STREAK" >> $GITHUB_OUTPUT
       
-      - name: Generate response
-        id: response
-        env:
-          SOLVER: ${{ steps.solver.outputs.solver }}
-          DAY: ${{ steps.solver.outputs.day }}
-          IS_VALID: ${{ steps.validate.outputs.valid }}
-          IS_FIRST: ${{ steps.first_solve.outputs.is_first }}
-          STREAK: ${{ steps.streak.outputs.streak }}
-          FEEDBACK: ${{ steps.validate.outputs.feedback }}
-        run: |
-          # Generate immersive response
-          python scripts/generate_response.py \
-            --solver "$SOLVER" \
-            --day "$DAY" \
-            --valid "$IS_VALID" \
-            --first "$IS_FIRST" \
-            --streak "$STREAK" \
-            --feedback "$FEEDBACK" \
-            > response.txt
-          
-          # Set output
-          echo "message<<EOF" >> $GITHUB_OUTPUT
-          cat response.txt >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-      
-      - name: Comment on PR
+      - name: Comment on PR - Valid Solution
+        if: steps.validate.outputs.valid == '0'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const message = `${{ steps.response.outputs.message }}`;
+            const solver = '${{ steps.solver.outputs.solver }}';
+            const day = '${{ steps.solver.outputs.day }}';
+            const isFirst = '${{ steps.first_solve.outputs.is_first }}' === 'true';
+            const streak = parseInt('${{ steps.streak.outputs.streak }}');
+            
+            let message = `🎯 **SIGNAL ACQUIRED**\n\n`;
+            message += `The orbital relay has accepted your transmission, ${solver}. Your decryption was flawless.\n\n`;
+            message += `> *The network hums with approval. Another node awakens.*\n\n`;
+            message += `**Status:** AUTHENTICATED ✅\n`;
+            message += `**Day:** ${day}\n`;
+            
+            if (isFirst) {
+              message += `\n🏆 **FIRST SOLVER BONUS**\n\nYou are the FIRST to crack Day ${day}!\n`;
+              message += `**Achievement Unlocked:** 🥇 *Pioneer Signal*\n`;
+            }
+            
+            if (streak >= 3) {
+              message += `\n🔥 **${streak}-DAY STREAK**\n\nYour consistency impresses the network.\n`;
+            }
+            
+            message += `\n**✅ Ready to merge manually!**`;
             
             await github.rest.issues.createComment({
               owner: context.repo.owner,
@@ -136,33 +132,32 @@ jobs:
               body: message
             });
       
-      - name: Auto-merge if valid
-        if: steps.validate.outputs.valid == '0'
-        uses: pascalgn/automerge-action@v0.16.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MERGE_METHOD: squash
-          MERGE_COMMIT_MESSAGE: "✅ Solution accepted: Day ${{ steps.solver.outputs.day }} by @${{ steps.solver.outputs.solver }}"
-      
-      - name: Auto-close if invalid
+      - name: Comment on PR - Invalid Solution
         if: steps.validate.outputs.valid != '0'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const solver = '${{ steps.solver.outputs.solver }}';
+            const feedback = `${{ steps.validate.outputs.feedback }}`;
+            
+            let message = `❌ **SIGNAL LOST**\n\n`;
+            message += `Your decryption attempt failed, ${solver}. The relay rejects your transmission.\n\n`;
+            message += `> *The network remains silent. Your key is incorrect.*\n\n`;
+            message += `**Status:** AUTHENTICATION FAILED\n`;
+            message += `**Feedback:** ${feedback}\n\n`;
+            message += `**Retry:** PERMITTED\n\n`;
+            message += `*The satellites watch. They wait for your next attempt.*`;
+            
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: '**❌ Solution Rejected**\n\nYour PR has been automatically closed because the solution is incorrect. Please review the feedback above, fix your solution, and submit a new PR.\n\n*The relay encourages you to try again. Persistence is key.*'
+              body: message
             });
-            
-            await github.rest.pulls.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-              state: 'closed'
-            });
+      
+      # REMOVED AUTO-MERGE - You must merge manually now!
+      # REMOVED AUTO-CLOSE - Invalid PRs stay open for retry
       
       - name: Add labels
         uses: actions/github-script@v7
@@ -171,23 +166,25 @@ jobs:
           script: |
             const labels = [];
             
-            if (${{ steps.validate.outputs.valid }} === 0) {
-              labels.push('✅ valid-solution', 'auto-merge');
+            if ('${{ steps.validate.outputs.valid }}' === '0') {
+              labels.push('✅ valid-solution');
             } else {
               labels.push('❌ invalid-solution');
             }
             
-            if (${{ steps.first_solve.outputs.is_first }} === 'true') {
+            if ('${{ steps.first_solve.outputs.is_first }}' === 'true') {
               labels.push('🥇 first-solve');
             }
             
-            const streak = parseInt(${{ steps.streak.outputs.streak }});
+            const streak = parseInt('${{ steps.streak.outputs.streak }}');
             if (streak >= 3) labels.push('🔥 streak');
             if (streak >= 7) labels.push('⚡ legendary');
             
-            await github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              labels: labels
-            });
+            if (labels.length > 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: labels
+              });
+            }
