@@ -28,8 +28,9 @@ jobs:
           FILES=$(git diff --name-only HEAD~1 HEAD | grep 'solutions/')
           
           for file in $FILES; do
-            SOLVER=$(grep -oP '\*\*GitHub Username\*\*:\s*`\K[^`]+' "$file")
-            DAY=$(grep -oP '\*\*Day / Puzzle Reference\*\*:\s*`Day (\d+)' "$file" | grep -oP '\d+')
+            # Extract from YAML frontmatter
+            SOLVER=$(grep -oP '^solver:\s*\K.*' "$file" | tr -d '[:space:]')
+            DAY=$(grep -oP '^day:\s*\K.*' "$file" | tr -d '[:space:]')
             
             echo "solver=$SOLVER" >> $GITHUB_OUTPUT
             echo "day=$DAY" >> $GITHUB_OUTPUT
