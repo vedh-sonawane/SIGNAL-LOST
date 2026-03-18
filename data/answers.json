@@ -21,17 +21,10 @@
     "hint_3": "Use isupper() and islower()."
   },
   "day_4": {
-    "type": "cipher",
-    "answer": "PLACEHOLDER FOR DAY 4",
-    "hint_1": "Future puzzle...",
-    "hint_2": "Coming soon...",
-    "hint_3": "Stay tuned..."
-  },
-  "day_5": {
-    "type": "logic",
-    "answer": "42",
-    "hint_1": "Future puzzle...",
-    "hint_2": "Coming soon...",
-    "hint_3": "Stay tuned..."
+    "type": "code",
+    "function_name": "replace_terms",
+    "hint_1": "Use regular expressions for case-insensitive replacement...",
+    "hint_2": "The re.IGNORECASE flag is your friend...",
+    "hint_3": "Apply replacements sequentially."
   }
 }
