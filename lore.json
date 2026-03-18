@@ -1,9 +1,9 @@
 {
-  "day": 4,
-  "story_summary": "The orbital signal relay network is awakening with unclear intent, potentially hostile. Yesterday's cipher message remains unsolved.",
+  "day": 5,
+  "story_summary": "The orbital signal relay network is awakening with unclear intent, potentially hostile. The cipher message remains unsolved.",
   "last_challenge": "Decode the cipher message 'GUR PENML XRL VF ZL FRPERG CBFG' to unlock the first layer of the network.",
   "last_challenge_type": "cipher",
   "last_challenge_solved": false,
-  "total_solvers": 1,
+  "total_solvers": 2,
   "solver_hall_of_fame": []
 }
