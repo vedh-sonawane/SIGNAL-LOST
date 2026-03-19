@@ -1,29 +1,23 @@
-# Orbital Signal Relay Network 
-## Day 4 of ∞
-The silence is deafening. The cipher message remains unsolved, and the network's intent grows more ominous by the hour. We've seen activity from potential solvers, but the code remains unbroken. **vedh-sonawane** has stepped forward to attempt a solution, but the puzzle persists.
+# Orbital Signal Relay Network: Awakening
+Day 5 of ∞
+## Status Update
+The network remains partially active, with unclear intentions. The cipher message 'GUR PENML XRL VF ZL FRPERG CBFG' remains unsolved, and the tension builds. New potential solvers have emerged, including vedh-sonawane, who have submitted their attempts to decode the message.
 
-### Current Status
-The orbital signal relay network is awakening, but its purpose and intentions are still unclear. The cipher message 'GUR PENML XRL VF ZL FRPERG CBFG' remains a mystery, and the first layer of the network remains locked.
+## How to Play
+To participate in the awakening of the orbital signal relay network, follow these steps:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is where you'll share your solution to the daily puzzle.
+2. **Suggest Lore**: Open an Issue to suggest new lore twists or ideas. This helps shape the narrative and could influence future puzzles.
+3. **Follow Progress**: Check back daily for updates on the network's status, new puzzles, and credits for solvers and lore contributors.
 
-### How to Play
-To participate in uncovering the secrets of the orbital signal relay network:
-1. **Solve the daily puzzle**: Find the solution to the puzzle presented below.
-2. **Submit your solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. **Contribute to the lore**: Open an Issue to suggest new twists and turns in the story.
+## Hall of Fame
+Currently, no solvers have cracked the code to be inducted into the Hall of Fame.
 
-### Hall of Fame
-Currently, no solvers have been added to the Hall of Fame. Will you be the first?
+## Credits
+- **New Solvers**: vedh-sonawane for their attempt to decode the cipher message.
+- **Lore Suggesters**: None at this time.
 
-### Credits
-**vedh-sonawane** has attempted to solve yesterday's cipher, but the challenge remains. We await the solution that will unlock the next layer of the network.
+### Day 5 Puzzle — Coding Challenge
+Given a string of binary digits (0s and 1s) representing the current state of a signal relay, write a function `signalStatus(binaryString)` that returns the number of consecutive '1's in the longest sequence of '1's. For example, given the string "10111010", the function should return 3, as "111" is the longest sequence of '1's.
 
-### Day 4 Puzzle — Coding Challenge
-Write a Python function that takes a string as input and returns the string with all occurrences of 'signal' replaced with 'relay', and all occurrences of 'network' replaced with 'array'. The function should be case-insensitive and should not modify any other parts of the string.
-
-```python
-def replace_terms(input_string):
-    # Your solution here
-    pass
-```
-
-#
+## Call to Action
+Will you be the one to unlock the next layer of the network? Submit your solution to the Day 5 puzzle and help unveil the mysteries of the orbital signal relay network.
