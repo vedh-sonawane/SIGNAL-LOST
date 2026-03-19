@@ -1,4 +1,4 @@
-## Contributing to SIGNAL // Living README
+## Contributing to SIGNAL // Living README 
 
 Welcome aboard. This repository is a living alternate reality game (ARG) that runs entirely through `README.md`, Issues, and Pull Requests.
 
