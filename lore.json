@@ -1,5 +1,5 @@
 {
-  "day": 7,
+  "day": 8,
   "story_summary": "The orbital signal relay network is awakening with unclear, potentially hostile intent. The initial cipher message remains unsolved.",
   "last_challenge": "Create a Python function that takes a list of integers as input and returns the longest increasing subsequence.",
   "last_challenge_type": "coding",

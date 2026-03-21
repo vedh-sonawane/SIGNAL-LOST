@@ -1,48 +1,26 @@
 # Orbital Signal Relay Network
-Day 6 of ∞
-=====================================
+## Day 7 of ∞
+The silence is oppressive, punctuated only by the faint hum of awakening systems. We have yet to crack the initial cipher message, and the network's intentions remain unclear. The last challenge, a coding puzzle, was not solved, and the darkness deepens.
 
-### Transmission Received
-
-The network continues to stir, its intentions unclear. The initial cipher message remains a mystery, and the silence is deafening. The stakes are rising, and the fate of the network hangs in the balance.
-
-### Current Status
-
-* Initial cipher message: 'GUR PENML XRL VF ZL FRPERG CBFG' (unsolved)
-* Network activity: increasing
-* Threat level: elevated
+### Update
+No new solvers or lore suggesters have come forward in the last 24 hours. The void is unsettling.
 
 ### How to Play
-
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit solutions to puzzles.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists or ideas.
-3. **Follow Progress**: Check this README daily for updates on the network's status and new puzzles.
+To participate, follow these steps:
+1. **Solve the puzzle**: Read the challenge below and come up with a solution.
+2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Suggest lore**: Open an Issue with your idea for a new twist in the story.
+4. **Check back tomorrow**: See if your solution was correct, and if you've been added to the Hall of Fame.
 
 ### Hall of Fame
+Currently empty. Will you be the first to claim a spot?
 
-* Notable solvers: (none)
-* Lore contributors: (none)
-
-### Credits
-
-Today's new solvers: (none)
-Today's lore suggesters: (none)
-
-### Day 6 Puzzle — Coding Challenge
-
-Create a Python function that takes a list of integers as input and returns the longest increasing subsequence. The subsequence should be non-contiguous, and the function should return the length of the subsequence.
-
-Example input: `[1, 2, 3, 4, 5]`
-Example output: `5`
-
-### Submit Your Solution
-
-Add a file under `solutions/` with your Python function, and open a Pull Request.
-
-```python
-def longest_increasing_subsequence(sequence):
-    # Your code here
-    pass
+### Day 7 Puzzle — Cipher
+We've received a new transmission, encoded in a simple substitution cipher. Decode the message to uncover a crucial piece of information:
 ```
+GUR PENML XRL VF ZL FRPERG
+```
+This cipher uses a Caesar cipher with a fixed shift. Can you figure out the shift and decode the message?
 
----
+## Credits
+No new solvers or lore suggesters to credit today.
