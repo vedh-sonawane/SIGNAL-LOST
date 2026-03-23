@@ -1,28 +1,30 @@
 # Orbital Signal Relay Network
-## Day 8 of ∞
-The silence is deafening. The network stirs, its intentions unclear. The initial cipher message remains a mystery, and the task of uncovering the longest increasing subsequence has gone unfulfilled. The shadows deepen, and the tension builds. Will you be the one to shed light on this enigma?
+## Day 9 of ∞
+The silence is deafening, punctuated only by the faint hum of awakening relays. The network stirs, its intentions unclear. Two cipher messages have been intercepted, but their secrets remain locked, awaiting deciphering. The fate of our understanding hangs in the balance.
 
-### Current Status
-The orbital signal relay network continues to awaken, its purposes unknown. The community has yet to crack the initial cipher or complete the coding challenge. The wait is oppressive, and the weight of uncertainty grows.
-
-### How to Play
-To participate in this evolving mystery, follow these steps:
-1. **Solve the daily puzzle**: Read the README carefully, and attempt to solve the challenge presented.
-2. **Submit your solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This will be your official entry.
-3. **Contribute to the lore**: If you have a theory or a twist to add to the story, open an Issue to share your ideas.
-4. **Check back daily**: The README will update with new challenges, credits to solvers, and lore developments.
-
-### Hall of Fame
-Currently, no solvers have been credited. Will you be the first to claim a spot?
+### Yesterday's Cipher Remains Unsolved
+The community's efforts to decode the latest message have yet to yield results. The clock ticks on, and with each passing day, the importance of unlocking these secrets grows.
 
 ### Credits
-No new solvers or lore suggesters have contributed in the last 24 hours. The silence is palpable.
+- **New Solvers:** None
+- **Lore Contributors:** None
 
-### Day 8 Puzzle — Cipher
-A new message has been intercepted from the orbital signal relay network. Decode the following cipher to uncover a crucial piece of information:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a classic encryption technique. Can you decipher the message?
+### How to Play
+1. **Solve the Puzzle:** Each day, a new puzzle will be presented here in the README. Solve it based on the information provided.
+2. **Submit Your Solution:** Create a Pull Request adding your solution under the `solutions/` directory, following the template in `solutions/TEMPLATE.md`.
+3. **Contribute to the Lore:** Have an idea about the network or its intentions? Open an Issue to share your thoughts.
 
-# JSON Lore State
+### Hall of Fame
+The following individuals have significantly contributed to our understanding:
+- **None yet.** Will you be the first to crack the code and earn a place here?
+
+### Day 9 Puzzle — Coding Challenge
+Given a string of binary digits (0s and 1s) representing the status of signal relays, write a function that calculates the maximum number of consecutive relays that are active (1). The function should take a string of binary digits as input and return the maximum count of consecutive active relays.
+
+Example Input: "10111010"
+Example Output: 3
+
+Your task is to write this function in Python.
+
+# Community Updates
+Check back tomorrow for updates on who has solved today's challenge and any new lore contributions.

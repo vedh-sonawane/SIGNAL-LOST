@@ -1,8 +1,8 @@
 {
-  "day": 9,
-  "story_summary": "The orbital signal relay network is awakening with unclear, potentially hostile intent. The initial cipher message remains unsolved.",
-  "last_challenge": "A new cipher message has been intercepted, and players must decode it to uncover a crucial piece of information.",
-  "last_challenge_type": "cipher",
+  "day": 10,
+  "story_summary": "The orbital signal relay network is awakening with unclear intent. Two cipher messages remain unsolved, and the community is tasked with decoding them.",
+  "last_challenge": "A coding challenge to find the maximum number of consecutive active signal relays given a binary string.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
