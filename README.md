@@ -1,30 +1,39 @@
 # Orbital Signal Relay Network
-## Day 9 of ∞
-The silence is deafening, punctuated only by the faint hum of awakening relays. The network stirs, its intentions unclear. Two cipher messages have been intercepted, but their secrets remain locked, awaiting deciphering. The fate of our understanding hangs in the balance.
+Day 10 of ∞
+====================================
 
-### Yesterday's Cipher Remains Unsolved
-The community's efforts to decode the latest message have yet to yield results. The clock ticks on, and with each passing day, the importance of unlocking these secrets grows.
+### Warning: Network Activity Increasing
+
+The orbital signal relay network continues to stir, its intentions unclear. Two cipher messages remain unsolved, and the community is tasked with decoding them. Yesterday's challenge to find the maximum number of consecutive active signal relays went unsolved, raising the stakes.
+
+### Current Status
+
+* Unsolved cipher messages: 2
+* Consecutive active signal relays: unknown
+* Total unique solvers: 3
+* Hall of Fame: empty
 
 ### Credits
-- **New Solvers:** None
-- **Lore Contributors:** None
+
+No new solvers or lore suggesters to credit today.
 
 ### How to Play
-1. **Solve the Puzzle:** Each day, a new puzzle will be presented here in the README. Solve it based on the information provided.
-2. **Submit Your Solution:** Create a Pull Request adding your solution under the `solutions/` directory, following the template in `solutions/TEMPLATE.md`.
-3. **Contribute to the Lore:** Have an idea about the network or its intentions? Open an Issue to share your thoughts.
+
+1. **Solve the daily puzzle**: Find the solution to the puzzle presented below.
+2. **Submit your solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Suggest new lore**: Open an Issue with your idea for a new lore twist.
 
 ### Hall of Fame
-The following individuals have significantly contributed to our understanding:
-- **None yet.** Will you be the first to crack the code and earn a place here?
 
-### Day 9 Puzzle — Coding Challenge
-Given a string of binary digits (0s and 1s) representing the status of signal relays, write a function that calculates the maximum number of consecutive relays that are active (1). The function should take a string of binary digits as input and return the maximum count of consecutive active relays.
+* empty
 
-Example Input: "10111010"
-Example Output: 3
+### Day 10 Puzzle — Cipher
+The following message was intercepted from the network:
+```
+GUR PENML XRL VF ZL FRPERG
+```
+Can you decode the message to reveal a crucial piece of information about the network?
 
-Your task is to write this function in Python.
+## Solution Submission
 
-# Community Updates
-Check back tomorrow for updates on who has solved today's challenge and any new lore contributions.
+Remember to submit your solution as a Pull Request under `solutions/`.
