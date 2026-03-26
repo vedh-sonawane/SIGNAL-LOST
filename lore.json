@@ -1,7 +1,7 @@
 {
-  "day": 12,
+  "day": 13,
   "story_summary": "The orbital signal relay network is awakening with unclear intent. Two cipher messages remain unsolved, and the community failed to solve the consecutive active signal relays challenge.",
-  "last_challenge": "Find the maximum number of consecutive active signal relays.",
+  "last_challenge": "Find the maximum number of consecutive active signal relays. The challenge was not solved, raising concerns about our understanding of the network.",
   "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,

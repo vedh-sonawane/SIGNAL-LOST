@@ -1,24 +1,24 @@
-# Day 11 of ∞
-The orbital signal relay network continues to stir, its intentions shrouded in mystery. Two cipher messages remain unsolved, casting a shadow over our progress. The community's failure to find the maximum number of consecutive active signal relays has raised the stakes, and the silence is deafening.
+# Orbital Signal Relay Network
+Day 12 of ∞
+## Status Update
+The network continues to awaken, its intentions unclear. Two cipher messages remain unsolved, and the community's failure to solve the consecutive active signal relays challenge has raised concerns about our ability to understand the network's behavior.
 
-### Current Status
-- Unsolved cipher messages: 2
-- Consecutive active signal relays challenge: unsolved
+## Recent Activity
+No new solvers have come forward, and no lore suggestions have been made in the last 24 hours. The community's silence is deafening.
 
-### How to Play
-To participate in this endeavor, follow these steps:
-1. Read the README carefully, as it contains crucial information and puzzles.
-2. To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue.
+## Hall of Fame
+Currently empty. Will you be the first to claim a spot?
 
-### Hall of Fame
-Currently, no solvers have been credited.
+## How to Play
+To participate in the orbital signal relay network challenge:
+1. Read the README carefully to understand the current state of the network and the challenge of the day.
+2. Submit your solution to the daily challenge by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue with your idea.
 
-### New Activity
-No new solvers or lore suggesters have emerged in the last 24 hours.
+### Day 12 Puzzle — Cipher
+The following message was intercepted from the network:
+`GUR PENML XRL VF ZL FRPERG`
+Can you decipher its meaning?
 
-### Day 11 Puzzle — Riddle
-What can be broken, but never held? What can be given, but never sold?
-
-### Call to Action
-The network's awakening is a harbinger of change. Will you answer the call and uncover the secrets hidden within the signal relay network? Submit your solution to the Day 11 puzzle to take the first step.
+## Credits
+No new solvers or lore suggesters to credit today.
