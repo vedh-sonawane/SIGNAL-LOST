@@ -1,26 +1,25 @@
-# Day 13 of ∞
-The orbital signal relay network continues to awaken, its intentions shrouded in mystery. The two unsolved cipher messages remain a pressing concern, and the failure to solve the consecutive active signal relays challenge has raised the stakes. The network's silence is deafening, and the lack of progress is a stark reminder of the challenges that lie ahead.
+# Orbital Signal Relay Network
+## Day 14 of ∞
+The silence is unsettling. Two cipher messages remain unsolved, and the consecutive active signal relays challenge has gone unmet. The network stirs, its intentions unclear. Will you be the one to uncover its secrets?
 
 ### Story So Far
-The orbital signal relay network is awakening, but its purpose and intentions are unclear. Two cipher messages remain unsolved, and the community's inability to solve the consecutive active signal relays challenge has raised concerns about our understanding of the network.
+The orbital signal relay network is awakening, but its purpose remains shrouded in mystery. The community's efforts to solve the consecutive active signal relays challenge were unsuccessful, leaving the network's intentions uncertain.
 
 ### How to Play
-To participate in this ARG, follow these steps:
-1. Read the README to understand the current state of the story and the latest challenge.
-2. Submit solutions to challenges by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening Issues.
-4. Check the README daily for updates on the story, challenges, and credits.
+To participate in the orbital signal relay network challenge, follow these steps:
+1. **Submit solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit your solutions.
+2. **Suggest lore**: Open an Issue to suggest new lore twists. This will help shape the story and potentially unlock new challenges.
+3. **Review and iterate**: Check the README daily for new challenges, updates, and credits to the community.
 
 ### Hall of Fame
-The following players have made notable contributions:
-* None
+Currently, there are no solvers credited in the Hall of Fame.
 
 ### Credits
-No new solvers or lore suggesters have been credited today.
+Today's credits:
+- No new solvers or lore suggesters to credit.
 
-### Day 13 Puzzle — Cipher
-The following cipher message has been received from the network:
-`GUR PENML XRL VF ZL FRPERG`
-Can you decipher the message and uncover its meaning?
+### Day 14 Puzzle — Riddle
+A signal relay's power source is like a river's flow. It can be steady, or it can fluctuate. What can be broken, but never held? What can be given, but never sold?
 
-# README updated. Waiting for input...
+## Solution Submission
+Remember to submit your solution by opening a Pull Request with a file under `solutions/`.
