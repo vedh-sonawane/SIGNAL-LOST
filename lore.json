@@ -1,8 +1,8 @@
 {
-  "day": 15,
+  "day": 16,
   "story_summary": "The orbital signal relay network is awakening with unclear intent. Two cipher messages remain unsolved, and the community failed to solve the consecutive active signal relays challenge.",
-  "last_challenge": "A riddle about a signal relay's power source, asking what can be broken but never held, and what can be given but never sold.",
-  "last_challenge_type": "riddle",
+  "last_challenge": "A cipher message 'GUR PENML XRL VF ZL FRPERG CBFG' needs to be decoded.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
