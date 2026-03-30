@@ -1,27 +1,28 @@
-# Orbital Signal Relay Network Awakening
-## Day 15 of ∞
-The silence is deafening. Two cipher messages remain unsolved, and the consecutive active signal relays challenge has gone unmet. The network stirs, its intentions unclear. Will you be the one to unlock its secrets?
+# Orbital Signal Relay Network
+## Day 16 of ∞
+The silence is deafening. The orbital signal relay network continues to awaken, its intentions unclear. Two cipher messages remain unsolved, and the community's failure to solve the consecutive active signal relays challenge has escalated the situation. The network's patience is wearing thin.
 
-### Story So Far
-The orbital signal relay network is awakening with unclear intent. Two cipher messages remain unsolved, and the community failed to solve the consecutive active signal relays challenge.
+### Current Status
+- Unsolved Cipher Messages: 2
+- Consecutive Active Signal Relays Challenge: Failed
 
 ### How to Play
-To participate in this evolving sci-fi alternate reality game, follow these steps:
-1. Read the README to understand the current state of the story and the puzzle of the day.
-2. Submit your solution to the daily puzzle by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening Issues.
-4. Check back daily for updates to the story and new puzzles.
+To participate in this unfolding mystery, follow these steps:
+1. **Solve the daily puzzle**: Read the README carefully, and attempt to solve the puzzle presented.
+2. **Submit your solution**: Create a new file under `solutions/` based on `solutions/TEMPLATE.md`, and open a Pull Request with your answer.
+3. **Suggest new lore**: If you have a theory or idea about the orbital signal relay network, open an Issue to share your thoughts.
 
 ### Hall of Fame
 Currently, no solvers have been credited.
 
 ### Credits
-No new solvers or lore suggesters have contributed in the last 24 hours.
+No new solvers or lore suggesters have been credited today.
 
-### Day 15 Puzzle — Cipher
-The following message was intercepted from an unknown relay:
-`GUR PENML XRL VF ZL FRPERG CBFG`
-Can you decipher the meaning behind this cryptic message?
+### Day 16 Puzzle — Logic Puzzle
+The orbital signal relay network is configuring its channels. Five channels (A, B, C, D, E) need to be connected in a specific order to establish a stable signal. The following conditions apply:
+- Channel A cannot be connected before Channel C.
+- Channel B must be connected after Channel D.
+- Channel E must be connected after Channel A.
+What is the correct order of the channels?
 
-# README Update History
-This README will be updated daily with new puzzles, story advancements, and credits to the community.
+#
