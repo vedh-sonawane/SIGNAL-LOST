@@ -1,37 +1,34 @@
-# Orbital Signal Relay Network
-Day 17 of ∞
-### Warning: Network Stability Compromised
+# Day 18 of ∞
+## Orbital Signal Relay Network: Awakening
 
-The orbital signal relay network continues to awaken, its intent still unclear. Two cipher messages remain unsolved, and the community's failure to solve the consecutive active signal relays challenge has raised concerns about the network's stability.
-
-### Current Status
-- Unsolved Cipher Messages: 2
-- Consecutive Active Signal Relays Challenge: Unsolved
-- Total Unique Solvers: 3
-- Hall of Fame: (empty)
-
-### New Activity
-- No new solvers have contributed solutions.
-- No new lore suggestions have been made.
+The silence is deafening. The consecutive active signal relays challenge remains unsolved, and the network's intent grows more ominous by the day. Two cipher messages linger, their secrets locked away. The community's efforts have been... underwhelming.
 
 ### How to Play
-To participate in the orbital signal relay network challenge, follow these steps:
-1. Read the README to understand the current state of the network and the latest puzzle.
-2. To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue.
+
+To participate in this unfolding mystery, follow these steps:
+
+1. **Submit Solutions**: Open a Pull Request with your solution in a Markdown file under the `solutions/` directory. Use the `solutions/TEMPLATE.md` as a guide.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or theories about the orbital signal relay network.
+3. **Monitor Progress**: Track the README for updates, new puzzles, and credits to the community.
 
 ### Hall of Fame
-The following solvers will be credited once they contribute to the challenge:
-(no solvers yet)
 
-### Day 17 Puzzle — Cipher
-A new message has been intercepted from the orbital signal relay network. Decode the message to understand the network's next move.
-```
-GUR PENML XRL VF ZL FRPERG
-```
-This message is encoded using a simple substitution cipher. Can you decode it?
+The Hall of Fame remains empty, awaiting the first solvers to claim their place.
 
 ### Credits
-Today's solvers and lore suggesters: (none)
+
+No new solvers or lore suggesters have come forward in the last 24 hours.
+
+### Day 18 Puzzle — Cipher
+
+The network has transmitted a new cipher message:
+
+`GUR PENML XRL VF ZL FRPERG`
+
+Decode this message to uncover a crucial detail about the network's plans.
+
+## Previous Puzzles
+
+* Day 17: Consecutive Active Signal Relays (Logic Puzzle) - **UNSOLVED**
 
 ---
