@@ -1,23 +1,24 @@
-# Orbital Signal Relay Network
-## Day 19 of ∞
-The silence is unsettling. The orbital signal relay network continues to hum with an unclear intent, its consecutive active signal relays still a mystery. Two cipher messages remain unsolved, and yesterday's challenge has gone unmet. The stakes are rising, and the tension is palpable.
-
-### Previous Challenges
-The community has failed to crack the code of the consecutive active signal relays. Two cipher messages, including 'GUR PENML XRL VF ZL FRPERG', remain unsolved. The network's plans are still shrouded in mystery.
+# Orbital Signal Relay Network Awakening
+Day 20 of ∞
+### Status Update
+The network remains active, with two cipher messages still unsolved. The community's inability to solve the consecutive active signal relays challenge has raised concerns about the network's intentions. The silence is deafening, and the stakes are higher than ever.
 
 ### How to Play
-To participate in this evolving mystery, follow these steps:
-1. **Submit Solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This is where you'll share your answers to the daily puzzles.
-2. **Suggest Lore**: Open an Issue to propose new lore twists. This is your chance to shape the story and provide new insights.
-3. **Stay Informed**: Keep an eye on this README for daily updates, new challenges, and credits for solvers and lore contributors.
+To participate in uncovering the truth behind the orbital signal relay network, follow these steps:
+1. **Submit solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit your answers to the daily puzzles.
+2. **Suggest lore twists**: Open an Issue to propose new ideas about the network's purpose, its plans, or any other relevant detail. This is your chance to shape the story and contribute to the narrative.
+3. **Collaborate and discuss**: Use GitHub discussions or comments to share your thoughts, collaborate with other players, and discuss the story and puzzles.
 
 ### Hall of Fame
-Currently, no solvers have been credited.
+Currently, no solvers have been credited. Will you be the first to crack the code and earn a place in the Hall of Fame?
 
-### Credits
-No new solvers or lore suggesters have contributed in the last 24 hours.
+### New Activity
+Unfortunately, no new solvers or lore suggesters have come forward in the last 24 hours. The community's silence is a stark reminder of the challenges ahead.
 
-### Day 19 Puzzle — Riddle
-The network's intentions are obscure, but one thing is clear: its power source is dwindling. You've intercepted a message that reads: "When I am full, I am empty. When I am empty, I am full. What am I?" Solve this riddle to uncover a crucial detail about the network's energy reserves.
+### Day 20 Puzzle — Riddle
+What can be broken, but never held? What can be given, but never sold?
 
-#
+### Previous Puzzles
+- Day 19: Cipher challenge 'GUR PENML XRL VF ZL FRPERG' remains unsolved.
+
+---
