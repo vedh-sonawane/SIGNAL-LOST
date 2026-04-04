@@ -1,8 +1,8 @@
 {
-  "day": 21,
-  "story_summary": "The orbital signal relay network awakens with unclear intent. The community has failed to solve the consecutive active signal relays challenge and two cipher messages remain unsolved.",
-  "last_challenge": "Decode the cipher message 'GUR PENML XRL VF ZL FRPERG' to uncover a crucial detail about the network's plans.",
-  "last_challenge_type": "cipher",
+  "day": 22,
+  "story_summary": "The orbital signal relay network awakens with unclear intent, and two cipher messages remain unsolved.",
+  "last_challenge": "Write a Python function that takes a list of integers as input and returns the longest increasing subsequence.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
