@@ -1,24 +1,24 @@
-# Orbital Signal Relay Network
-## Day 21 of ∞
-The network stirs, its intentions unclear. Two cipher messages remain unsolved, and the consecutive active signal relays challenge has gone unmet. The silence is unsettling.
+# Orbital Signal Relay Network Activation Sequence
+## Day 22 of ∞
+The orbital signal relay network continues to awaken, casting an ominous glow over the digital horizon. Two cipher messages remain unsolved, their secrets locked away, awaiting intrepid codebreakers. Yesterday's coding challenge, however, remains uncracked, leaving the network's intent unclear and the stakes higher than ever.
 
-### Update
-No solutions or lore suggestions were submitted in the last 24 hours. The network waits.
+### Yesterday's Inactivity
+No solutions were submitted for yesterday's coding challenge. The silence is deafening, and the network's patience wears thin.
 
 ### How to Play
-To participate, follow these steps:
-1. Read the README carefully for clues and challenges.
-2. Submit solutions by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening an Issue.
+1. **Solve the Daily Puzzle**: Find the puzzle for the current day, marked as "Day X Puzzle — <type>", and solve it.
+2. **Submit Your Solution**: Create a new file under the `solutions/` directory using `solutions/TEMPLATE.md` as a template. Open a Pull Request with your solution.
+3. **Suggest Lore Twists**: Open an Issue with your ideas for new lore twists to enrich the narrative.
+4. **Check Back Daily**: The puzzle type changes daily, rotating between coding challenges, ciphers, riddles, and logic puzzles.
 
 ### Hall of Fame
-Currently empty. Will you be the first to crack the code?
-
-### Day 21 Puzzle — Coding Challenge
-Write a Python function that takes a list of integers as input and returns the longest increasing subsequence. The function should be named `longest_increasing_subsequence` and should be added to a file under `solutions/` based on `solutions/TEMPLATE.md`.
-
-### Previous Challenges
-- Day 20: Decode the cipher message 'GUR PENML XRL VF ZL FRPERG' (unsolved)
+Currently empty, awaiting the first solvers to claim their place.
 
 ### Credits
-No new solvers or lore suggesters to credit today.
+Today's solvers and lore suggesters: None.
+
+### Day 22 Puzzle — Cipher
+Cipher Message: `GUR PENML XRL VF ZL FRPERG CBFG`
+Decode the message to uncover a crucial piece of information about the orbital signal relay network.
+
+# JSON Response

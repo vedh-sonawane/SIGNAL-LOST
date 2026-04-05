@@ -1,7 +1,7 @@
 {
-  "day": 22,
-  "story_summary": "The orbital signal relay network awakens with unclear intent, and two cipher messages remain unsolved.",
-  "last_challenge": "Write a Python function that takes a list of integers as input and returns the longest increasing subsequence.",
+  "day": 23,
+  "story_summary": "The orbital signal relay network awakens with unclear intent, and two cipher messages remain unsolved. Yesterday's coding challenge was not solved, raising the stakes.",
+  "last_challenge": "Yesterday's challenge was to write a Python function that takes a list of integers as input and returns the longest increasing subsequence. However, it remains unsolved.",
   "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
