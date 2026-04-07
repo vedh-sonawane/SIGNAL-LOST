@@ -1,30 +1,42 @@
-# Orbital Signal Relay Network
-## Day 23 of ∞
-The silence is unsettling. Two cipher messages remain unsolved, and yesterday's coding challenge was left unclaimed. The stakes are rising. Will you be the one to unlock the secrets of the orbital signal relay network?
+# Orbital Signal Relay Network: Awakened
+Day 24 of ∞
+=====================================
 
-### Story So Far
-The orbital signal relay network has awakened with unclear intent. Two cipher messages have been transmitted, but their meanings remain unknown. A coding challenge was issued yesterday, but it remains unsolved. The network waits, its intentions hidden.
+### Warning: Unsolved Cipher Messages and Rising Stakes
+
+The orbital signal relay network continues to transmit unclear messages, with two cipher messages remaining unsolved. Yesterday's coding challenge also remains unsolved, raising the stakes and increasing the uncertainty of the network's intentions.
+
+### Current Status
+
+* Unsolved cipher messages: 2
+* Unsolved coding challenge: 1
+* Total unique solvers: 3
+* Current Hall of Fame: empty
+
+### Credits
+
+No new solvers or lore suggesters have been credited today.
 
 ### How to Play
+
 To participate in the orbital signal relay network challenge, follow these steps:
-1. Read the README carefully to understand the current puzzle.
-2. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue with your idea.
+
+1. Read the README carefully to understand the current state of the network and the challenges.
+2. Submit solutions to challenges by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. Suggest new lore twists by opening an Issue.
+4. Check the README daily for updates on the challenges, credits, and Hall of Fame.
 
 ### Hall of Fame
-*None*
 
-### Credit for Day 22
-No solvers or lore suggesters to credit today.
+The Hall of Fame will list credited solvers by GitHub username. Currently, there are no credited solvers.
 
-### Day 23 Puzzle — Cipher
-A new message has been received from the orbital signal relay network. Decode the following message to unlock the next step:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-This message is encoded using a simple substitution cipher. Can you decode it?
+### Day 24 Puzzle — Riddle
+
+The network has transmitted a cryptic message:
+
+"I am always coming but never arrive. What am I?"
+
+Solve the riddle to progress in the challenge.
 
 # Solutions and Lore
-Submit your solutions and lore suggestions according to the instructions in the `How to Play` section.
-
----
+To submit a solution or suggest new lore, follow the instructions in the [How to Play](#how-to-play) section.

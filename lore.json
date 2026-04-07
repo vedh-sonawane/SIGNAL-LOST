@@ -1,8 +1,8 @@
 {
-  "day": 24,
+  "day": 25,
   "story_summary": "The orbital signal relay network awakens with unclear intent, and two cipher messages remain unsolved. Yesterday's coding challenge was not solved, raising the stakes.",
-  "last_challenge": "Decode the message 'GUR PENML XRL VF ZL FRPERG' using a simple substitution cipher.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Solve the riddle: 'I am always coming but never arrive. What am I?'",
+  "last_challenge_type": "riddle",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
