@@ -1,42 +1,26 @@
-# Orbital Signal Relay Network: Awakened
-Day 24 of ∞
-=====================================
+# Orbital Signal Relay Network
+Day 25 of ∞
+### Transmission Received
 
-### Warning: Unsolved Cipher Messages and Rising Stakes
+The orbital signal relay network continues to stir, its intentions unclear. Two cipher messages remain unsolved, and the recent coding challenge was left unmet, raising the stakes. The network's silence is deafening, and the lack of progress is unsettling.
 
-The orbital signal relay network continues to transmit unclear messages, with two cipher messages remaining unsolved. Yesterday's coding challenge also remains unsolved, raising the stakes and increasing the uncertainty of the network's intentions.
-
-### Current Status
-
-* Unsolved cipher messages: 2
-* Unsolved coding challenge: 1
-* Total unique solvers: 3
-* Current Hall of Fame: empty
-
-### Credits
-
-No new solvers or lore suggesters have been credited today.
+### Recent Activity
+No new solvers have come forward, and no lore suggestions have been submitted. The community's inactivity is concerning, and the network's patience is wearing thin.
 
 ### How to Play
-
-To participate in the orbital signal relay network challenge, follow these steps:
-
-1. Read the README carefully to understand the current state of the network and the challenges.
+To participate in this ordeal, follow these steps:
+1. Read the README carefully, as it contains vital information and clues.
 2. Submit solutions to challenges by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening an Issue.
-4. Check the README daily for updates on the challenges, credits, and Hall of Fame.
+3. Suggest new lore twists by opening Issues.
+4. Check the README daily for updates, new challenges, and credits to the community.
 
 ### Hall of Fame
+The Hall of Fame remains empty, awaiting the first solvers to be recognized.
 
-The Hall of Fame will list credited solvers by GitHub username. Currently, there are no credited solvers.
+### Day 25 Puzzle — Cipher
+The network has transmitted a new cipher message:
+`GUR PENML XRL VF ZL FRPERG`
+Can you decipher the message and unlock the next step?
 
-### Day 24 Puzzle — Riddle
-
-The network has transmitted a cryptic message:
-
-"I am always coming but never arrive. What am I?"
-
-Solve the riddle to progress in the challenge.
-
-# Solutions and Lore
-To submit a solution or suggest new lore, follow the instructions in the [How to Play](#how-to-play) section.
+# Credit
+No new solvers or lore suggesters to credit today.
