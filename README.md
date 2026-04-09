@@ -1,26 +1,25 @@
 # Orbital Signal Relay Network
-Day 25 of ∞
-### Transmission Received
+## Day 26 of ∞
+The orbital signal relay network continues to stir, its intentions unclear. Two cipher messages remain unsolved, and the latest coding challenge has gone unmet. The stakes are rising.
 
-The orbital signal relay network continues to stir, its intentions unclear. Two cipher messages remain unsolved, and the recent coding challenge was left unmet, raising the stakes. The network's silence is deafening, and the lack of progress is unsettling.
-
-### Recent Activity
-No new solvers have come forward, and no lore suggestions have been submitted. The community's inactivity is concerning, and the network's patience is wearing thin.
+### Story So Far
+The network's awakening has been marked by a series of mysterious transmissions. Two cipher messages, `GUR PENML XRL VF ZL FRPERG` and another earlier message, remain unsolved. The network's latest transmission was a coding challenge, which unfortunately, no one was able to solve.
 
 ### How to Play
-To participate in this ordeal, follow these steps:
-1. Read the README carefully, as it contains vital information and clues.
-2. Submit solutions to challenges by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening Issues.
-4. Check the README daily for updates, new challenges, and credits to the community.
+To participate in this evolving story, follow these steps:
+1. **Solve the Daily Puzzle**: Each day, a new puzzle will be posted in this README. Puzzles will rotate between coding challenges, ciphers, riddles, and logic puzzles.
+2. **Submit Your Solution**: To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly state your solution in the file.
+3. **Suggest New Lore**: If you have a idea for a new lore twist, open an Issue to share it with the community.
 
 ### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to be recognized.
+Currently, there are no credited solvers.
 
-### Day 25 Puzzle — Cipher
-The network has transmitted a new cipher message:
-`GUR PENML XRL VF ZL FRPERG`
-Can you decipher the message and unlock the next step?
+### Credits
+Today, we acknowledge the following community members for their contributions:
+- No new solvers or lore suggesters to credit at this time.
 
-# Credit
-No new solvers or lore suggesters to credit today.
+### Day 26 Puzzle — Riddle
+A relay's power source is like a river's flow. It can be strong, but without direction, it's useless. What am I?
+
+## Remember
+The fate of the orbital signal relay network hangs in the balance. Will you be the one to unlock its secrets?
