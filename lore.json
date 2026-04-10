@@ -1,8 +1,8 @@
 {
-  "day": 27,
-  "story_summary": "The orbital signal relay network awakens with unclear intent, and two cipher messages remain unsolved. Yesterday's coding challenge was not solved, raising the stakes.",
-  "last_challenge": "The network has transmitted a new cipher message: GUR PENML XRL VF ZL FRPERG. Can you decipher the message and unlock the next step?",
-  "last_challenge_type": "cipher",
+  "day": 28,
+  "story_summary": "The orbital signal relay network is awakening with unclear intent, and two cipher messages remain unsolved. The stakes are rising after an unsolved coding challenge.",
+  "last_challenge": "The network has transmitted a new cipher message, but now it's time for a logic puzzle: find the number of possible sequences for 5 signal relays where no two consecutive relays can both transmit.",
+  "last_challenge_type": "logic",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
