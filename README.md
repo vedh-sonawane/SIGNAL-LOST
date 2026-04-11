@@ -1,28 +1,28 @@
-# Orbital Signal Relay Network
-## Day 27 of ∞
-The silence is deafening. The network stirs, its intentions unclear. Two cipher messages remain unsolved, and yesterday's coding challenge has gone unclaimed. The stakes are rising.
+# Orbital Signal Relay Network Activation Sequence
+Day 28 of ∞
+### Warning: Network Awakened, Intent Unclear
+The orbital signal relay network continues to stir, casting a shadow of uncertainty over our operations. Two cipher messages remain unsolved, and the unresolved coding challenge has raised the stakes. The latest logic puzzle, unfortunately, went unclaimed. Time is running out.
 
-### Status Update
+### Current Status
 - Cipher messages: 2 unsolved
-- Coding challenges: 1 unsolved
-- Total unique solvers: 3
-- Current Hall of Fame: (empty)
-
-### How to Play
-To participate in this evolving mystery, follow these steps:
-1. **Solve the daily puzzle**: Each day, a new puzzle will be presented here. Read the README carefully to find the challenge.
-2. **Submit your solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly state your solution in the file.
-3. **Suggest lore**: Open an Issue to suggest new twists or ideas for the story. Engage with the community to unravel the mystery.
-
-### Hall of Fame
-Currently, no solvers have been credited.
+- Coding challenge: unsolved
+- Logic puzzle: unsolved (previous day)
+- Active solvers: 0 (yesterday)
+- New lore suggestions: 0
 
 ### Credits
-- **New Solvers**: None
-- **Lore Suggesters**: None
+Today's solvers: None
+Notable lore suggesters: None
 
-### Day 27 Puzzle — Logic Puzzle
-Given a sequence of signal relays where each relay can either transmit (T) or not transmit (NT), and knowing that no two consecutive relays can both transmit, find the number of possible sequences for 5 relays.
+### Hall of Fame
+Currently empty. Will the first names be added today?
 
-## Note
-The network is watching. Your participation is crucial. Will you be the one to unlock the next step?
+### How to Play
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is correctly formatted and addresses the current puzzle.
+2. **Suggest Lore**: Open an Issue with your lore twist suggestions. This can include theories about the network's intent, possible futures, or backstory elements.
+3. **Stay Updated**: Check this README daily for new puzzles and updates on the network's status.
+
+### Day 28 Puzzle — Cipher
+The network has transmitted another cipher message. This time, it's a simple substitution cipher where each letter is shifted 3 places forward in the alphabet, wrapping around at the end. Decode the message: `khoor zruog`.
+
+# JSON Lore State
