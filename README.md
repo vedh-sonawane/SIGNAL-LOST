@@ -1,28 +1,26 @@
-# Orbital Signal Relay Network Activation Sequence
-Day 28 of ∞
-### Warning: Network Awakened, Intent Unclear
-The orbital signal relay network continues to stir, casting a shadow of uncertainty over our operations. Two cipher messages remain unsolved, and the unresolved coding challenge has raised the stakes. The latest logic puzzle, unfortunately, went unclaimed. Time is running out.
+# Orbital Signal Relay Network Awakening
+Day 29 of ∞
+The silence is deafening, punctuated only by the faint hum of awakening relays. Two cipher messages remain undeciphered, and a coding challenge lies abandoned. The stakes grow higher with each passing day.
 
-### Current Status
-- Cipher messages: 2 unsolved
-- Coding challenge: unsolved
-- Logic puzzle: unsolved (previous day)
-- Active solvers: 0 (yesterday)
-- New lore suggestions: 0
-
-### Credits
-Today's solvers: None
-Notable lore suggesters: None
-
-### Hall of Fame
-Currently empty. Will the first names be added today?
+### Story So Far
+The orbital signal relay network stirs, its intent unclear. We have uncovered hints of a complex system, but the truth remains elusive. Two cipher messages and a coding challenge have been discovered, but none have been successfully solved. The network's silence is oppressive, and the absence of progress is a palpable weight.
 
 ### How to Play
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is correctly formatted and addresses the current puzzle.
-2. **Suggest Lore**: Open an Issue with your lore twist suggestions. This can include theories about the network's intent, possible futures, or backstory elements.
-3. **Stay Updated**: Check this README daily for new puzzles and updates on the network's status.
+To participate in this endeavour, follow these steps:
+1. **Submit Solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only accepted method for submitting solutions.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or ideas. This will help shape the narrative and potentially unlock new challenges.
+3. **Collaborate**: Engage with the community to discuss theories and solutions.
 
-### Day 28 Puzzle — Cipher
-The network has transmitted another cipher message. This time, it's a simple substitution cipher where each letter is shifted 3 places forward in the alphabet, wrapping around at the end. Decode the message: `khoor zruog`.
+### Hall of Fame
+Currently, no solvers have been credited. Will you be the first to crack the code?
 
-# JSON Lore State
+### New Developments
+No new solvers or lore suggesters have emerged in the past 24 hours. The void remains, waiting to be filled by those brave enough to take on the challenge.
+
+### Day 29 Puzzle — Cipher
+A new message has been intercepted:
+`GUR PENML XRL VF ZL FRPERG`
+Can you decipher the meaning behind these cryptic words?
+
+# Credit
+No new solvers or lore suggesters to credit at this time.

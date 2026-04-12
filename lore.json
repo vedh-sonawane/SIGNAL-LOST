@@ -1,7 +1,7 @@
 {
-  "day": 29,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, two cipher messages and one coding challenge unsolved, raising stakes.",
-  "last_challenge": "Find the number of possible sequences for 5 signal relays where no two consecutive relays can both transmit.",
+  "day": 30,
+  "story_summary": "Orbital signal relay network awakening with unclear intent, two cipher messages and one coding challenge unsolved, raising stakes",
+  "last_challenge": "Find the number of possible sequences for 5 signal relays where no two consecutive relays can both transmit",
   "last_challenge_type": "logic",
   "last_challenge_solved": false,
   "total_solvers": 3,
