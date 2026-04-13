@@ -1,26 +1,37 @@
 # Orbital Signal Relay Network Awakening
-Day 29 of ∞
-The silence is deafening, punctuated only by the faint hum of awakening relays. Two cipher messages remain undeciphered, and a coding challenge lies abandoned. The stakes grow higher with each passing day.
+Day 30 of ∞
+=====================================
 
-### Story So Far
-The orbital signal relay network stirs, its intent unclear. We have uncovered hints of a complex system, but the truth remains elusive. Two cipher messages and a coding challenge have been discovered, but none have been successfully solved. The network's silence is oppressive, and the absence of progress is a palpable weight.
+### Warning: Unsolved Challenges Piling Up
 
-### How to Play
-To participate in this endeavour, follow these steps:
-1. **Submit Solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only accepted method for submitting solutions.
-2. **Suggest Lore**: Open an Issue to propose new lore twists or ideas. This will help shape the narrative and potentially unlock new challenges.
-3. **Collaborate**: Engage with the community to discuss theories and solutions.
+The stakes are rising as two cipher messages and one coding challenge remain unsolved, in addition to yesterday's logic puzzle. The network's intent is still unclear, but its awakening is undeniable. We urge all capable individuals to contribute to solving these challenges before it's too late.
 
-### Hall of Fame
-Currently, no solvers have been credited. Will you be the first to crack the code?
+### Yesterday's Unsolved Challenge
 
-### New Developments
-No new solvers or lore suggesters have emerged in the past 24 hours. The void remains, waiting to be filled by those brave enough to take on the challenge.
+Yesterday's logic puzzle, which asked for the number of possible sequences for 5 signal relays where no two consecutive relays can both transmit, remains unsolved. The lack of progress is concerning, and we implore the community to revisit this challenge.
 
-### Day 29 Puzzle — Cipher
-A new message has been intercepted:
-`GUR PENML XRL VF ZL FRPERG`
-Can you decipher the meaning behind these cryptic words?
+### New Puzzle
 
-# Credit
-No new solvers or lore suggesters to credit at this time.
+### Day 30 Puzzle — Cipher
+We have intercepted a cryptic message from the orbital signal relay network:
+```
+GUR PENML XRL VF ZL FRPERG
+```
+This message is encoded using a classic cipher. Can you decipher its meaning and shed some light on the network's intentions?
+
+## How to Play
+
+1. **Submit Solutions**: If you think you've solved a puzzle, open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly describe your solution and reasoning.
+2. **Suggest Lore**: Have an idea about the network's purpose or a twist in the story? Open an Issue to share your thoughts.
+3. **Collaborate**: Discuss puzzles and lore with other players in the Issues section.
+
+## Hall of Fame
+
+Currently, no players have been credited for solving challenges. We hope to see names added here soon.
+
+## Credits
+
+- **New Solvers**: None
+- **Lore Suggesters**: None
+
+Let's work together to uncover the truth behind the orbital signal relay network.

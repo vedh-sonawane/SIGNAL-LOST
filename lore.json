@@ -1,8 +1,8 @@
 {
-  "day": 30,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, two cipher messages and one coding challenge unsolved, raising stakes",
-  "last_challenge": "Find the number of possible sequences for 5 signal relays where no two consecutive relays can both transmit",
-  "last_challenge_type": "logic",
+  "day": 31,
+  "story_summary": "Orbital signal relay network awakening with unclear intent, multiple unsolved challenges",
+  "last_challenge": "Decipher the cryptic message 'GUR PENML XRL VF ZL FRPERG' using a classic cipher",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
