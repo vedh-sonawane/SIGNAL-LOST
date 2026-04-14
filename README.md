@@ -1,37 +1,30 @@
 # Orbital Signal Relay Network Awakening
-Day 30 of ∞
-=====================================
+Day 31 of ∞
+### Warning: Unresolved Challenges Ahead
+The network's intent remains unclear, and the previous challenge remains unsolved. The stakes are rising, and the silence is deafening.
 
-### Warning: Unsolved Challenges Piling Up
+### Current Status
+The cryptic message 'GUR PENML XRL VF ZL FRPERG' still awaits deciphering. The network's patience is wearing thin.
 
-The stakes are rising as two cipher messages and one coding challenge remain unsolved, in addition to yesterday's logic puzzle. The network's intent is still unclear, but its awakening is undeniable. We urge all capable individuals to contribute to solving these challenges before it's too late.
+### How to Play
+To participate in this evolving mystery, follow these steps:
+1. **Submit Solutions**: Create a new file under the `solutions/` directory using the `solutions/TEMPLATE.md` template. Open a Pull Request to add your solution.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or theories.
+3. **Collaborate**: Discuss with other players in the Issues section.
 
-### Yesterday's Unsolved Challenge
+### Hall of Fame
+Currently empty. Will you be the first to crack the code and earn a place here?
 
-Yesterday's logic puzzle, which asked for the number of possible sequences for 5 signal relays where no two consecutive relays can both transmit, remains unsolved. The lack of progress is concerning, and we implore the community to revisit this challenge.
+### Credits
+No new solvers or lore suggesters to credit today. The network remains quiet, awaiting your input.
 
-### New Puzzle
+### Day 31 Puzzle — Logic Puzzle
+The orbital signal relay network consists of 5 nodes, each with a unique identifier (A, B, C, D, E). The nodes are connected in a specific pattern, and each node can only send a signal to two other nodes. The connections are as follows:
+- Node A is connected to Node B and Node C.
+- Node B is connected to Node A and Node D.
+- Node C is connected to Node A and Node E.
+- Node D is connected to Node B.
+- Node E is connected to Node C.
+Which node is the most critical to the network, as removing it would disconnect the most nodes?
 
-### Day 30 Puzzle — Cipher
-We have intercepted a cryptic message from the orbital signal relay network:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-This message is encoded using a classic cipher. Can you decipher its meaning and shed some light on the network's intentions?
-
-## How to Play
-
-1. **Submit Solutions**: If you think you've solved a puzzle, open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly describe your solution and reasoning.
-2. **Suggest Lore**: Have an idea about the network's purpose or a twist in the story? Open an Issue to share your thoughts.
-3. **Collaborate**: Discuss puzzles and lore with other players in the Issues section.
-
-## Hall of Fame
-
-Currently, no players have been credited for solving challenges. We hope to see names added here soon.
-
-## Credits
-
-- **New Solvers**: None
-- **Lore Suggesters**: None
-
-Let's work together to uncover the truth behind the orbital signal relay network.
+# No solutions or lore suggestions to report today.
