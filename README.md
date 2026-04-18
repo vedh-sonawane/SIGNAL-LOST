@@ -1,27 +1,31 @@
-# Orbital Signal Relay Network Activation Sequence
-## Day 34 of ∞
-The awakening continues, with intentions still unclear. The stakes are rising, and the silence from potential solvers is deafening. We await your response.
+# Orbital Signal Relay Network Awakening
+### Day 35 of ∞
+The silence is deafening. The network stirs, yet our calls for clarity remain unanswered. The stakes are rising, and the absence of resolution is beginning to weigh heavily upon us.
 
-### Story So Far
-The orbital signal relay network has begun to awaken, with multiple challenges issued to potential solvers. The intent behind this awakening remains unknown, and the consequences of failure are still unclear.
+### Current Status
+- **Unsolved Challenges:** Multiple
+- **Intent:** Unclear
+- **Stakes:** Rising
 
 ### How to Play
 To participate, follow these steps:
-1. Read the challenge below and attempt to solve it.
-2. Submit your solution as a Pull Request, adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue and describe your idea.
+1. **Solve the Daily Puzzle:** Found below, each day's puzzle will challenge you in a different way.
+2. **Submit Your Solution:** Create a Pull Request adding your solution to the `solutions/` directory, using `solutions/TEMPLATE.md` as your guide.
+3. **Suggest Lore:** Have a theory about the network's intent or history? Open an Issue to share your thoughts.
 
 ### Hall of Fame
-Currently, no solvers have been credited.
+Currently empty, awaiting the first solvers to claim their place.
 
-### New Activity
-No new solvers or lore suggesters have come forward in the last 24 hours.
+### Credits
+- **New Solvers:** None
+- **Lore Suggesters:** None
 
-### Day 34 Puzzle — Coding Challenge
-Write a Python function that takes a string as input and returns the string with all vowels removed. The function should be case-insensitive and handle non-English characters.
+### Day 35 Puzzle — Cipher
+Decode the following message to uncover a crucial detail about the network's infrastructure:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic method. Can you decipher the message?
 
-Example input: "Hello World"
-Example output: "Hll Wrld"
-
-## Credits
-No new solvers or lore suggesters to credit today.
+## Community Updates
+We await the first breakthroughs. Will today be the day the network's intentions become clearer?

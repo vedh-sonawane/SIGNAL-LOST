@@ -1,8 +1,8 @@
 {
-  "day": 35,
+  "day": 36,
   "story_summary": "Orbital signal relay network awakening with unclear intent, multiple unsolved challenges, and rising stakes",
-  "last_challenge": "Write a Python function to remove all vowels from a given string, handling case-insensitivity and non-English characters.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the given cipher message to uncover a detail about the network's infrastructure",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
