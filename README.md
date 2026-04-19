@@ -1,31 +1,26 @@
 # Orbital Signal Relay Network Awakening
-### Day 35 of ∞
-The silence is deafening. The network stirs, yet our calls for clarity remain unanswered. The stakes are rising, and the absence of resolution is beginning to weigh heavily upon us.
+Day 36 of ∞
+Transmission Received...
 
-### Current Status
-- **Unsolved Challenges:** Multiple
-- **Intent:** Unclear
-- **Stakes:** Rising
+The network stirs, its intentions unclear. The silence is oppressive, punctuated only by the faint hum of machinery awakening from a deep slumber. The stakes are rising, and the need for clarity grows more urgent by the hour.
+
+### Update
+No progress was made in decoding the cipher message from yesterday. The network remains shrouded in mystery, its infrastructure and purpose still unknown. The community's efforts are appreciated, but the lack of breakthroughs is concerning.
 
 ### How to Play
-To participate, follow these steps:
-1. **Solve the Daily Puzzle:** Found below, each day's puzzle will challenge you in a different way.
-2. **Submit Your Solution:** Create a Pull Request adding your solution to the `solutions/` directory, using `solutions/TEMPLATE.md` as your guide.
-3. **Suggest Lore:** Have a theory about the network's intent or history? Open an Issue to share your thoughts.
+To participate in uncovering the truth about the orbital signal relay network:
+1. **Solve the daily puzzle**: Find the solution to the challenge presented below.
+2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Contribute to the lore**: Open an Issue to suggest new twists or insights into the network's mysterious awakening.
 
 ### Hall of Fame
-Currently empty, awaiting the first solvers to claim their place.
+Currently, no solvers have been credited for their contributions.
+
+### Day 36 Puzzle — Coding Challenge
+Given a string of binary digits (0s and 1s) representing a message, write a function to convert this binary string into a hexadecimal string. The function should take a string as input and return a string.
+
+Example Input: "1010"
+Example Output: "A"
 
 ### Credits
-- **New Solvers:** None
-- **Lore Suggesters:** None
-
-### Day 35 Puzzle — Cipher
-Decode the following message to uncover a crucial detail about the network's infrastructure:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a classic method. Can you decipher the message?
-
-## Community Updates
-We await the first breakthroughs. Will today be the day the network's intentions become clearer?
+No new solvers or lore contributors to credit at this time.
