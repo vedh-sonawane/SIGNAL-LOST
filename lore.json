@@ -1,8 +1,8 @@
 {
-  "day": 37,
+  "day": 38,
   "story_summary": "Orbital signal relay network awakening with unclear intent, multiple unsolved challenges, and rising stakes",
-  "last_challenge": "Decode a binary string into a hexadecimal string",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode a Vigenère cipher to uncover a crucial message",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

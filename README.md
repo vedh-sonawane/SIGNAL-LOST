@@ -1,26 +1,26 @@
 # Orbital Signal Relay Network Awakening
-Day 36 of ∞
-Transmission Received...
+## Day 37 of ∞
+The orbital signal relay network continues to awaken, its intent still unclear. The stakes are rising, and the silence from potential solvers is deafening. Yesterday's challenge remains unsolved, and the network's patience is wearing thin.
 
-The network stirs, its intentions unclear. The silence is oppressive, punctuated only by the faint hum of machinery awakening from a deep slumber. The stakes are rising, and the need for clarity grows more urgent by the hour.
-
-### Update
-No progress was made in decoding the cipher message from yesterday. The network remains shrouded in mystery, its infrastructure and purpose still unknown. The community's efforts are appreciated, but the lack of breakthroughs is concerning.
+### Yesterday's Challenge Summary
+The previous challenge, a coding exercise to decode a binary string into a hexadecimal string, went unclaimed. The network's systems remain idle, awaiting a spark of ingenuity to propel its awakening forward.
 
 ### How to Play
-To participate in uncovering the truth about the orbital signal relay network:
-1. **Solve the daily puzzle**: Find the solution to the challenge presented below.
-2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. **Contribute to the lore**: Open an Issue to suggest new twists or insights into the network's mysterious awakening.
+To participate in the awakening of the orbital signal relay network, follow these steps:
+1. **Solve the daily puzzle**: Read the README carefully, and attempt to solve the challenge presented.
+2. **Submit your solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly described and easy to understand.
+3. **Suggest new lore**: If you have an idea for a lore twist, open an Issue to share your thoughts with the community.
 
 ### Hall of Fame
-Currently, no solvers have been credited for their contributions.
+The Hall of Fame remains empty, awaiting the first solvers to claim their place.
 
-### Day 36 Puzzle — Coding Challenge
-Given a string of binary digits (0s and 1s) representing a message, write a function to convert this binary string into a hexadecimal string. The function should take a string as input and return a string.
+### New Solvers and Lore Suggesters
+None have come forward to claim the challenge or suggest new lore. The network waits.
 
-Example Input: "1010"
-Example Output: "A"
+### Day 37 Puzzle — Cipher
+Decode the following Vigenère cipher to uncover a crucial message:
+`GUR PENML XRL VF ZL FRPERG CBFG`
+The key to decoding this message is hidden in plain sight.
 
-### Credits
-No new solvers or lore contributors to credit at this time.
+## Credits
+None to credit today. Will you be the first to claim a spot in the Hall of Fame?
