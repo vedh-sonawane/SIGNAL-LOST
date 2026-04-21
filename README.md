@@ -1,26 +1,23 @@
 # Orbital Signal Relay Network Awakening
-## Day 37 of ∞
-The orbital signal relay network continues to awaken, its intent still unclear. The stakes are rising, and the silence from potential solvers is deafening. Yesterday's challenge remains unsolved, and the network's patience is wearing thin.
-
-### Yesterday's Challenge Summary
-The previous challenge, a coding exercise to decode a binary string into a hexadecimal string, went unclaimed. The network's systems remain idle, awaiting a spark of ingenuity to propel its awakening forward.
+Day 38 of ∞
+### Status Update
+The network continues to stir, its intentions unclear. The previous Vigenère cipher remains unsolved, and the stakes are rising. We urge all capable individuals to contribute to the effort.
 
 ### How to Play
-To participate in the awakening of the orbital signal relay network, follow these steps:
-1. **Solve the daily puzzle**: Read the README carefully, and attempt to solve the challenge presented.
-2. **Submit your solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly described and easy to understand.
-3. **Suggest new lore**: If you have an idea for a lore twist, open an Issue to share your thoughts with the community.
+To participate, follow these steps:
+1. **Solve the daily puzzle**: Read the README to understand the challenge.
+2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Contribute to the lore**: Open an Issue to suggest new twists or insights into the network's awakening.
+4. **Check the Hall of Fame**: See if your contributions have earned you a place among the recognized solvers.
 
 ### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to claim their place.
+Currently, no solvers have been recognized.
 
-### New Solvers and Lore Suggesters
-None have come forward to claim the challenge or suggest new lore. The network waits.
+### Day 38 Puzzle — Logic Puzzle
+Given a set of five switches, but they are not labelled. Each switch corresponds to one of five light bulbs in a room. Each light bulb is either on or off. You can turn the switches on and off as many times as you want, but you can only enter the room one time to observe the light bulbs. How can you figure out which switch controls which light bulb?
 
-### Day 37 Puzzle — Cipher
-Decode the following Vigenère cipher to uncover a crucial message:
-`GUR PENML XRL VF ZL FRPERG CBFG`
-The key to decoding this message is hidden in plain sight.
+### Credits
+No new solvers or lore suggesters to credit at this time.
 
-## Credits
-None to credit today. Will you be the first to claim a spot in the Hall of Fame?
+### Warning
+Time is running out. The network's intentions are still unclear, but its power is growing. Solve the puzzle to uncover more information.
