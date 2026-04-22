@@ -1,23 +1,26 @@
-# Orbital Signal Relay Network Awakening
-Day 38 of ∞
-### Status Update
-The network continues to stir, its intentions unclear. The previous Vigenère cipher remains unsolved, and the stakes are rising. We urge all capable individuals to contribute to the effort.
+# Orbital Signal Relay Network
+Day 39 of ∞
+### Warning: Network Stability Compromised
 
-### How to Play
-To participate, follow these steps:
-1. **Solve the daily puzzle**: Read the README to understand the challenge.
-2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. **Contribute to the lore**: Open an Issue to suggest new twists or insights into the network's awakening.
-4. **Check the Hall of Fame**: See if your contributions have earned you a place among the recognized solvers.
+The orbital signal relay network continues to awaken, its intent still unclear. The stakes are rising, and the window for intervention is narrowing. The previous Vigenère cipher challenge remains unsolved, leaving the community with more questions than answers.
+
+### Community Updates
+No new solvers have come forward, and no lore suggestions have been made in the last 24 hours. The community is urged to re-examine the previous challenge and contribute to the lore through Issues.
 
 ### Hall of Fame
-Currently, no solvers have been recognized.
+The Hall of Fame remains empty, awaiting the first solvers to crack the challenges.
 
-### Day 38 Puzzle — Logic Puzzle
-Given a set of five switches, but they are not labelled. Each switch corresponds to one of five light bulbs in a room. Each light bulb is either on or off. You can turn the switches on and off as many times as you want, but you can only enter the room one time to observe the light bulbs. How can you figure out which switch controls which light bulb?
+### How to Play
+To participate in the orbital signal relay network challenge:
+1. **Solve the daily puzzle**: Read the README carefully and solve the challenge presented.
+2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Contribute to the lore**: Open an Issue to suggest new twists and story directions.
+4. **Check back daily**: The README will update with new challenges, credits for solvers, and lore developments.
 
-### Credits
-No new solvers or lore suggesters to credit at this time.
+### Day 39 Puzzle — Riddle
+A critical system check has revealed a malfunction in the relay's power distribution. The error message reads: "Echo-12 mismatch: Harmony requires 5 synchronized beats, but the current sequence is 3, 1, 4, 1, 5. What is the next number in the sequence to restore harmony?"
 
-### Warning
-Time is running out. The network's intentions are still unclear, but its power is growing. Solve the puzzle to uncover more information.
+Consider the pattern and the context of the relay network to find the solution.
+
+# Credits
+No new solvers or lore contributors to credit today.
