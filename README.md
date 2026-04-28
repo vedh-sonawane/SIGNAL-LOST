@@ -1,24 +1,31 @@
-# Orbital Signal Relay Network Awakens
-## Day 44 of ∞
-The power distribution malfunction persists, and the error message 'Echo-12 mismatch: Harmony requires 5 synchronized beats, but the current sequence is 3, 1, 4, 1, 5.' remains unresolved. The stakes are rising, and the network's intent is still unclear. The malfunction has caused a ripple effect, disrupting the synchronization of the orbital signal relays. The consequences of this disruption are still unknown, but it is imperative that we resolve the issue before it's too late.
+# Orbital Signal Relay Network Awakening
+## Day 45 of ∞
+The network continues to stir, its intentions shrouded in mystery. The power distribution malfunction persists, and the stakes are escalating. Yesterday's cryptic message remains undeciphered, and the silence is deafening.
 
-### Update
-No new solvers have come forward to resolve the power distribution malfunction, and no lore suggestions have been made. The situation is becoming increasingly dire.
+### Yesterday's Challenge
+The network transmitted a cryptic message: 'GUR PENML XRL VF ZL FRPERG'. Unfortunately, the truth about the network's intent remains elusive.
 
 ### How to Play
-To participate in this ongoing mystery, follow these steps:
-1. **Submit Solutions**: If you think you can resolve the current challenge, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Make sure your solution is clear and concise.
-2. **Suggest Lore**: If you have a theory about the network's intent or the cause of the malfunction, open an Issue to share your thoughts.
-3. **Collaborate**: Discuss your findings and theories with other players by commenting on existing Issues or Pull Requests.
+To participate in the awakening of the Orbital Signal Relay Network:
+1. **Solve the daily puzzle**: Read the README carefully, and try to solve the challenge.
+2. **Submit your solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Suggest new lore**: Open an Issue to propose new twists and turns in the story.
 
 ### Hall of Fame
-The following players have not yet been credited for their contributions:
+Currently, there are no credited solvers.
 
-### Current Challenge
-### Day 44 Puzzle — Cipher
-The network has transmitted a cryptic message:
-`GUR PENML XRL VF ZL FRPERG`
-Can you decipher the message and uncover the truth about the network's intent?
+### Credits
+No new solvers or lore suggesters have come forward in the last 24 hours.
 
-## Credits
-No new solvers or lore suggesters have been credited today.
+### Day 45 Puzzle — Coding Challenge
+Write a Python function that generates a list of all possible combinations of a given list of integers, with a maximum length of 3. The function should take a list of integers as input and return a list of lists, where each sublist is a combination of the input integers.
+
+## Example Input
+```python
+input_list = [1, 2, 3]
+```
+## Example Output
+```python
+[[1], [2], [3], [1, 2], [1, 3], [2, 3], [1, 2, 3]]
+```
+Can you write the function to generate all possible combinations?
