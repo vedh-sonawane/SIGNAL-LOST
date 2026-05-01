@@ -1,27 +1,29 @@
 # Orbital Signal Relay Network Awakening
-Day 47 of ∞
-### Warning: Power Distribution Malfunction Imminent
+## Day 48 of ∞
+The network's patience wears thin as the previous cipher puzzle remains unsolved. Power distribution malfunctions escalate, and the stakes rise. We await your response.
 
-The network continues to stir, its intentions unclear. The power distribution malfunction has reached critical levels, and it's uncertain how much longer the system can sustain itself. The stakes have never been higher.
+### Story So Far
+The orbital signal relay network stirs, its intent unclear. As we navigate this unfolding crisis, we rely on your skills to unravel the mysteries hidden within the network's transmissions.
 
-### Current Status
-The previous coding challenge remains unsolved, and the network's patience wears thin. The silence is deafening, and the consequences of inaction are beginning to manifest.
+### How to Play
+1. **Solve the Daily Puzzle**: Find the puzzle below, labeled with the day and type.
+2. **Submit Your Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your filename includes the day and your GitHub username.
+3. **Suggest New Lore**: Open an Issue with your ideas for the story's progression.
+4. **Check the README Daily**: For updates, new puzzles, and credits for solvers and lore contributors.
 
-### Credits
-No new solvers or lore suggesters have come forward in the last 24 hours. The Hall of Fame remains empty, a stark reminder of the challenges that lie ahead.
+### Hall of Fame
+Currently empty. Will you be the first to earn a place?
 
-## Hall of Fame
-*None*
+### Credit for Day 47
+No solvers or lore suggesters to credit for Day 47.
 
-## How to Play
-To participate in this orbital signal relay network awakening, follow these steps:
-1. **Solve the daily puzzle**: Read the README carefully, and solve the puzzle presented at the end of the document.
-2. **Submit your solution**: Create a new file under the `solutions/` directory, using the `solutions/TEMPLATE.md` file as a template. Open a Pull Request with your solution.
-3. **Suggest new lore**: Open an Issue with your lore suggestions, and help shape the narrative of the awakening network.
+### Day 48 Puzzle — Coding Challenge
+Create a function `signalDecode` that takes a string `inputSignal` and returns the signal strength as an integer. The signal strength is determined by counting the number of consecutive '1's in the binary representation of the input string's ASCII values. If no '1's are found, return 0.
 
-### Day 47 Puzzle — Cipher
-The following message has been intercepted from the network:
-`GUR PENML XRL VF ZL FRPERG`
-Decode this message to uncover a crucial piece of information about the network's intentions.
+Example input: "Hello"
+Binary representation: [72, 101, 108, 108, 111] -> [1001000, 1100101, 1101100, 1101100, 1101111]
+Consecutive '1's count: 3
+Output: 3
 
-# JSON Lore State
+### Solve and Submit
+Use the instructions in the "How to Play" section to submit your solution.

@@ -1,8 +1,8 @@
 {
-  "day": 48,
+  "day": 49,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes",
-  "last_challenge": "The network's patience wears thin as the previous coding challenge remains unsolved, and a new cipher puzzle emerges to test the community's resolve",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Create a function signalDecode that takes a string inputSignal and returns the signal strength as an integer by counting consecutive '1's in the binary representation of the input string's ASCII values.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
