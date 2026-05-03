@@ -1,26 +1,31 @@
 # Orbital Signal Relay Network Awakening
-Day 49 of ∞
-### Status Update
-The network's power distribution malfunction persists, and the intent behind its awakening remains unclear. The stakes are rising, and the need for skilled operators to decipher the signals and restore balance is becoming increasingly urgent. Unfortunately, yesterday's coding challenge remains unsolved, and the tension builds.
+## Day 50 of ∞
+The network stirs, its power distribution malfunction worsening. The silence is oppressive, punctuated only by the faint hum of relays struggling to come online. The stakes have never been higher.
+
+### Situation Update
+No progress was made in decoding the message from yesterday. The network remains shrouded in mystery, its intentions unclear. Time is running out.
+
+### Credits
+- No new solvers or lore suggesters have contributed in the last 24 hours.
 
 ### How to Play
-To participate in this endeavor, follow these steps:
-1. **Solve the daily puzzle**: Find the solution to the challenge presented below.
-2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly explained.
-3. **Contribute to the lore**: If you have insights into the network's behavior or suggestions for its backstory, open an Issue to share your thoughts.
-4. **Check back daily**: The situation evolves every 24 hours, with new challenges and updates to the narrative.
+1. **Submit Solutions**: If you think you can crack the code, submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: Have an idea about what's happening in the network? Open an Issue to share your theory.
+3. **Stay Updated**: Check back daily for new puzzles and updates on the network's status.
 
 ### Hall of Fame
-Currently, there are no credited solvers.
+- Currently empty. Will you be the first to crack the code?
 
-### Credits for Day 48
-No new solvers or lore suggesters have been recognized.
+### Day 50 Puzzle — Coding Challenge
+You've intercepted a snippet of code that might reveal a clue about the network's malfunction. The code is incomplete and requires a function to calculate the checksum of a given array of integers. The function should take an array of integers as input and return the checksum as an integer.
 
-### Day 49 Puzzle — Cipher
-The following message was intercepted from one of the relay satellites:
+```python
+def calculate_checksum(array):
+    # Your code here
+    pass
 ```
-GUR PENML XRL VF ZL FRPERG
-```
-This message is encoded using a classic cipher. Decoding it may provide crucial insight into the network's current state.
 
-#
+Complete this function to potentially unlock a crucial piece of information about the network.
+
+# Community Contributions
+We are waiting for your contributions. If you solve the puzzle or have a lore suggestion, you will be credited here tomorrow.

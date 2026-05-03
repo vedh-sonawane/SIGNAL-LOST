@@ -1,8 +1,8 @@
 {
-  "day": 50,
+  "day": 51,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes",
-  "last_challenge": "Decoding a message encoded with a classic cipher to gain insight into the network's state",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Complete a function to calculate the checksum of a given array of integers to potentially unlock information about the network.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
