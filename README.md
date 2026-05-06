@@ -1,25 +1,28 @@
 # Orbital Signal Relay Network
-Day 52 of ∞
-### System Status: Malfunctioning
-The orbital signal relay network continues to awaken, but its intent remains unclear. Power distribution malfunctions have been reported, and the stakes are rising. The network's behavior is becoming increasingly erratic, and it is imperative that we understand its purpose.
+## Day 53 of ∞
+The silence is unsettling. The signal relay network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. We repeat: the stakes are rising.
 
-### Recent Activity
-No new solvers have come forward to claim the challenge, and no lore suggestions have been submitted.
-
-### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to crack the code.
+### Update
+No solutions were submitted for the previous coding challenge. The network's patience wears thin. We urge potential solvers to review the challenge and submit their solutions.
 
 ### How to Play
-To participate in this experiment, follow these steps:
-1. Read the README carefully to understand the current state of the network.
-2. Solve the daily puzzle, which can be found below.
-3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-4. To suggest new lore twists, open an Issue and share your ideas.
+To participate in this orbital signal relay network challenge:
+1. Review the daily puzzle posted in this README.
+2. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue.
 
-### Day 52 Puzzle — Cipher
-The network has transmitted a cryptic message:
-`GUR PENML XRL VF ZL FRPERG`
-Can you decipher the message and uncover the truth about the network's intent?
+### Hall of Fame
+Currently, there are no credited solvers.
 
-## Credits
-No new solvers or lore suggesters to credit today.
+### Credits
+No new solvers or lore suggesters have been credited today.
+
+### Day 53 Puzzle — Cipher
+Decrypt the following message to uncover a critical system identifier:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic encryption technique. Can you decipher the message before the network's power distribution fails completely?
+
+# Community Notes
+We are waiting for your solutions and lore suggestions. Remember to follow the guidelines outlined in the 'How to Play' section.
