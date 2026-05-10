@@ -1,30 +1,32 @@
-# Orbital Signal Relay Network
-Day 56 of ∞
-### Warning: Network Instability Increasing
+# Orbital Signal Relay Network Awakening
+Day 57 of ∞
+### Warning: Network Instability Increases
+The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions persist, and the stakes are rising. Yesterday's cryptic message remains undecoded, and the network's silence is deafening.
 
-The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions are on the rise, and the stakes are higher than ever. We have yet to receive a response to our queries regarding the network's purpose and control.
-
-### Current Status
-The network's status remains uncertain. Our previous attempts to establish communication have been met with silence. The power distribution issues persist, causing instability throughout the system.
+### Story Summary
+The network's awakening began with a series of unexplained power surges. As the signals grow stronger, the intent behind them remains a mystery. The power distribution malfunction has caused widespread disruptions, and the situation is becoming increasingly dire.
 
 ### How to Play
-To participate in this ongoing investigation, follow these steps:
-1. **Submit Solutions**: If you believe you can help us understand the network's status or overcome its challenges, submit your solutions by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: If you have theories about the network's purpose, its creators, or any other aspect of this mystery, open an Issue to share your thoughts.
-3. **Collaborate**: Engage with other participants by discussing your findings and theories in the Issues section.
+To participate in unraveling the mystery of the orbital signal relay network:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit solutions to the daily puzzles.
+2. **Suggest Lore**: Open an Issue to suggest new lore twists or theories about the network's intent and the unfolding events.
+3. **Collaborate**: Discuss your findings and theories with other players by commenting on Issues and Pull Requests.
 
 ### Hall of Fame
-Currently, there are no credited solvers or lore contributors.
+Currently, no solvers have been credited for their contributions.
 
 ### New Activity
-No new solvers or lore suggesters have contributed to our understanding of the network in the last 24 hours.
+No new solvers or lore suggesters have been recognized in the last 24 hours.
 
-### Day 56 Puzzle — Cipher
-We have received a cryptic message from an unknown source within the network:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-Decoding this message may provide crucial insight into the network's intent. Can you decipher the meaning behind this cipher?
+### Day 57 Puzzle — Coding Challenge
+Write a Python function that simulates a simple power distribution network. The function should take a list of relay nodes, each with a power capacity and current load, and return the number of nodes that are over capacity. The function should be named `count_overloaded_nodes` and should accept a list of dictionaries, where each dictionary represents a node with `capacity` and `load` keys.
 
-## Credits
-Today's solvers and lore suggesters will be credited tomorrow, along with any progress made in understanding the orbital signal relay network.
+Example input:
+```python
+nodes = [
+    {"capacity": 100, "load": 80},
+    {"capacity": 50, "load": 60},
+    {"capacity": 200, "load": 150}
+]
+```
+Your function should return the number of nodes where `load` exceeds `capacity`.
