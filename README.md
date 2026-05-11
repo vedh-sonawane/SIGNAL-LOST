@@ -1,32 +1,28 @@
 # Orbital Signal Relay Network Awakening
-Day 57 of ∞
-### Warning: Network Instability Increases
-The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions persist, and the stakes are rising. Yesterday's cryptic message remains undecoded, and the network's silence is deafening.
+## Day 58 of ∞
+The silence is deafening, as the network stirs with an otherworldly intent. Power distribution malfunctions have become more frequent, and the stakes are rising. We await your contribution to unravel the mystery.
 
-### Story Summary
-The network's awakening began with a series of unexplained power surges. As the signals grow stronger, the intent behind them remains a mystery. The power distribution malfunction has caused widespread disruptions, and the situation is becoming increasingly dire.
+### Story So Far
+The orbital signal relay network is awakening, but its purpose remains unclear. As power distribution issues escalate, the tension builds. We have yet to understand the full extent of the network's capabilities or its intentions.
 
 ### How to Play
-To participate in unraveling the mystery of the orbital signal relay network:
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit solutions to the daily puzzles.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists or theories about the network's intent and the unfolding events.
-3. **Collaborate**: Discuss your findings and theories with other players by commenting on Issues and Pull Requests.
+To participate, follow these steps:
+1. **Solve the puzzle**: Read the daily puzzle and solve it using the information provided in this README.
+2. **Submit your solution**: Create a new file under the `solutions/` directory, based on `solutions/TEMPLATE.md`. Open a Pull Request with your solution.
+3. **Contribute to the lore**: If you have a theory or a twist to add to the story, open an Issue to share your idea.
 
 ### Hall of Fame
-Currently, no solvers have been credited for their contributions.
+Currently, our Hall of Fame is empty, awaiting the first solvers to crack the puzzles.
 
-### New Activity
-No new solvers or lore suggesters have been recognized in the last 24 hours.
+### Credits
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
-### Day 57 Puzzle — Coding Challenge
-Write a Python function that simulates a simple power distribution network. The function should take a list of relay nodes, each with a power capacity and current load, and return the number of nodes that are over capacity. The function should be named `count_overloaded_nodes` and should accept a list of dictionaries, where each dictionary represents a node with `capacity` and `load` keys.
+### Day 58 Puzzle — Cipher
+The following message was intercepted from an unknown source within the network. Decode the message to understand the next step:
+`GUR PENML XRL VF ZL FRPERG`
 
-Example input:
-```python
-nodes = [
-    {"capacity": 100, "load": 80},
-    {"capacity": 50, "load": 60},
-    {"capacity": 200, "load": 150}
-]
-```
-Your function should return the number of nodes where `load` exceeds `capacity`.
+## Solving the Puzzle
+To solve this puzzle, you will need to apply your knowledge of ciphers to decode the message.
+
+# Community Contributions
+Check the `solutions/` directory for submitted solutions and the Issues section for lore suggestions.
