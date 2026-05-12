@@ -1,28 +1,25 @@
-# Orbital Signal Relay Network Awakening
-## Day 58 of ∞
-The silence is deafening, as the network stirs with an otherworldly intent. Power distribution malfunctions have become more frequent, and the stakes are rising. We await your contribution to unravel the mystery.
+# Orbital Signal Relay Network
+## Day 59 of ∞
+The network stirs, its intentions shrouded in darkness. Power distribution malfunctions have escalated, plunging sectors into chaos. The silence from our previous inquiries has been deafening, and the stakes have never been higher.
 
-### Story So Far
-The orbital signal relay network is awakening, but its purpose remains unclear. As power distribution issues escalate, the tension builds. We have yet to understand the full extent of the network's capabilities or its intentions.
-
-### How to Play
-To participate, follow these steps:
-1. **Solve the puzzle**: Read the daily puzzle and solve it using the information provided in this README.
-2. **Submit your solution**: Create a new file under the `solutions/` directory, based on `solutions/TEMPLATE.md`. Open a Pull Request with your solution.
-3. **Contribute to the lore**: If you have a theory or a twist to add to the story, open an Issue to share your idea.
+### Latest Updates
+No new solvers have emerged to tackle the power distribution crisis, and the network remains on the brink of collapse. Lore suggestions have also been scarce, leaving us with more questions than answers.
 
 ### Hall of Fame
-Currently, our Hall of Fame is empty, awaiting the first solvers to crack the puzzles.
+Currently, our Hall of Fame remains empty, awaiting the first brave souls to crack the codes and unravel the mysteries of the orbital signal relay network.
 
-### Credits
-No new solvers or lore suggesters have contributed in the last 24 hours.
+### How to Play
+To participate in this evolving narrative, follow these steps:
+1. **Solve the Daily Puzzle**: Find the puzzle for the current day below and solve it based on the information provided in this README.
+2. **Submit Your Solution**: Create a Pull Request adding your solution under the `solutions/` directory, using `solutions/TEMPLATE.md` as a template.
+3. **Contribute to the Lore**: Suggest new lore twists by opening an Issue, and help shape the narrative of the orbital signal relay network.
 
-### Day 58 Puzzle — Cipher
-The following message was intercepted from an unknown source within the network. Decode the message to understand the next step:
-`GUR PENML XRL VF ZL FRPERG`
+### Day 59 Puzzle — Cipher
+The network has transmitted a garbled message, which we believe holds a clue to its intentions. Decode the message to understand the next step:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a simple substitution method. Can you decipher the message?
 
-## Solving the Puzzle
-To solve this puzzle, you will need to apply your knowledge of ciphers to decode the message.
-
-# Community Contributions
-Check the `solutions/` directory for submitted solutions and the Issues section for lore suggestions.
+## Credits
+Today's solvers and lore suggesters: None
