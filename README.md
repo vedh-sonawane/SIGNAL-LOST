@@ -1,25 +1,33 @@
-# Orbital Signal Relay Network
-## Day 59 of ∞
-The network stirs, its intentions shrouded in darkness. Power distribution malfunctions have escalated, plunging sectors into chaos. The silence from our previous inquiries has been deafening, and the stakes have never been higher.
+# Orbital Signal Relay Network Awakening
+Day 60 of ∞
+### Transmission Received
 
-### Latest Updates
-No new solvers have emerged to tackle the power distribution crisis, and the network remains on the brink of collapse. Lore suggestions have also been scarce, leaving us with more questions than answers.
+The network continues to malfunction, and the garbled message from yesterday remains undeciphered. The power distribution issues persist, causing unpredictable fluctuations in the signal strength. The stakes are rising, and it is imperative that we decipher the message to understand the intentions of the network.
 
-### Hall of Fame
-Currently, our Hall of Fame remains empty, awaiting the first brave souls to crack the codes and unravel the mysteries of the orbital signal relay network.
+The previous message, GUR PENML XRL VF ZL FRPERG CBFG, is still unclear. We must continue to work together to uncover the truth.
 
 ### How to Play
-To participate in this evolving narrative, follow these steps:
-1. **Solve the Daily Puzzle**: Find the puzzle for the current day below and solve it based on the information provided in this README.
-2. **Submit Your Solution**: Create a Pull Request adding your solution under the `solutions/` directory, using `solutions/TEMPLATE.md` as a template.
-3. **Contribute to the Lore**: Suggest new lore twists by opening an Issue, and help shape the narrative of the orbital signal relay network.
 
-### Day 59 Puzzle — Cipher
-The network has transmitted a garbled message, which we believe holds a clue to its intentions. Decode the message to understand the next step:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a simple substitution method. Can you decipher the message?
+To participate in the decoding efforts, follow these steps:
 
-## Credits
-Today's solvers and lore suggesters: None
+1. Read the transmission carefully to understand the current state of the network.
+2. Look for the daily puzzle, labeled as 'Day X Puzzle — <type>', where <type> can be a coding challenge, cipher, riddle, or logic puzzle.
+3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+4. If you have a lore suggestion, open an Issue to share your idea.
+5. Check back tomorrow for the updated transmission, credits for the previous day's solvers, and the new puzzle.
+
+### Hall of Fame
+
+Currently, there are no credited solvers.
+
+### New Activity
+
+No new solvers or lore suggesters have contributed in the last 24 hours.
+
+### Day 60 Puzzle — Coding Challenge
+
+Create a function that takes a string of characters as input and returns the most frequent character in the string. If there are multiple characters with the same highest frequency, return any one of them.
+
+### Credits
+
+No new solvers or lore suggesters to credit today.
