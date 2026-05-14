@@ -1,8 +1,8 @@
 {
-  "day": 61,
+  "day": 62,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes",
-  "last_challenge": "Create a function that takes a string of characters as input and returns the most frequent character in the string. If there are multiple characters with the same highest frequency, return any one of them.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the message hidden within the encrypted text using a classic encryption technique.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
