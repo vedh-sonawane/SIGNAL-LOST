@@ -1,24 +1,24 @@
-# Orbital Signal Relay Network: Awakening
-Day 62 of ∞
-### Transmission Received
+# Day 63 of ∞
+## Orbital Signal Relay Network Awakens
+The network stirs, its intent unclear. Power distribution malfunctions, and stakes rise. We await your response.
 
-The network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. The encoded message from yesterday remains undeciphered, and the silence is deafening.
+### Day 63 Puzzle — Cipher
+Decode the message hidden within the malfunctioning relay's error log:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic substitution method. Can you uncover the message before it's too late?
 
-### How to Play
-To participate in the awakening of the Orbital Signal Relay Network, follow these steps:
-1. Read the transmission (this README) carefully.
-2. Identify the daily puzzle and attempt to solve it.
-3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-4. To suggest new lore twists, open an Issue.
+## How to Play
+To participate, submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. If you have a lore suggestion, open an Issue and share your idea.
 
-### Hall of Fame
-Currently, there are no credited solvers.
+## Hall of Fame
+Currently, our Hall of Fame remains empty, awaiting the first solver to crack the code.
 
-### Credits
-No new solvers or lore suggesters to credit today.
+## Credit to New Solvers and Lore Suggesters
+None have stepped forward to claim the challenge or suggest new lore.
 
-### Day 62 Puzzle — Coding Challenge
-Write a Python function `relay_status` that takes no arguments and returns a dictionary containing the status of three orbital relays. The status of each relay should be randomly selected from the list `['online', 'offline', 'malfunctioning']`. Use the `random` module to achieve this.
+## Previous Challenges
+On Day 62, we asked for a Python function to report the status of three orbital relays. Unfortunately, no correct solutions were submitted.
 
-### Previous Puzzle Status
-The previous cipher puzzle remains unsolved. The network's intentions are still unclear.
+# Stay vigilant, the network is watching.
