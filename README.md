@@ -1,24 +1,25 @@
-# Day 63 of ∞
-## Orbital Signal Relay Network Awakens
-The network stirs, its intent unclear. Power distribution malfunctions, and stakes rise. We await your response.
+# Orbital Signal Relay Network Alert
+Day 64 of ∞
+### Network Status: Malfunctioning
+The power distribution issue persists, and the intent of the awakening network remains unclear. The error log from yesterday's malfunctioning relay still holds secrets, but the community has yet to uncover them.
 
-### Day 63 Puzzle — Cipher
-Decode the message hidden within the malfunctioning relay's error log:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a classic substitution method. Can you uncover the message before it's too late?
+### Current Situation
+With the error log's message still encoded, tensions rise as the network's behavior becomes increasingly unpredictable. The stakes are higher than ever, and it's crucial that we decipher the hidden message to understand the network's intentions.
 
-## How to Play
-To participate, submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. If you have a lore suggestion, open an Issue and share your idea.
+### How to Play
+To participate in uncovering the truth behind the orbital signal relay network:
+1. **Solve the daily puzzle**: Each day, a new puzzle will be presented in this README. Solve it by reading the provided information.
+2. **Submit your solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your file name includes the day number and your GitHub username.
+3. **Suggest lore**: If you have a theory or idea about the network, open an Issue to share it with the community.
 
-## Hall of Fame
-Currently, our Hall of Fame remains empty, awaiting the first solver to crack the code.
+### Hall of Fame
+Currently, no solvers have been credited.
 
-## Credit to New Solvers and Lore Suggesters
-None have stepped forward to claim the challenge or suggest new lore.
+### Today's Solvers and Lore Suggesters
+None have contributed solutions or lore suggestions in the last 24 hours.
 
-## Previous Challenges
-On Day 62, we asked for a Python function to report the status of three orbital relays. Unfortunately, no correct solutions were submitted.
+### Day 64 Puzzle — Coding Challenge
+Write a Python function that takes a list of integers representing signal strengths and returns the average strength, but only consider signals that are within 10% of the strongest signal. If no signals are within this threshold, return the average of all signals.
 
-# Stay vigilant, the network is watching.
+### Community Updates
+Check back tomorrow for updates on the network's status and to see if today's puzzle has been solved.
