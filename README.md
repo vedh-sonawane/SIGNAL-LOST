@@ -1,25 +1,25 @@
-# Orbital Signal Relay Network Alert
-Day 64 of ∞
-### Network Status: Malfunctioning
-The power distribution issue persists, and the intent of the awakening network remains unclear. The error log from yesterday's malfunctioning relay still holds secrets, but the community has yet to uncover them.
+# Orbital Signal Relay Network: Awakening
+Day 65 of ∞
+==========================
+### Status Update
+The network's power distribution malfunction persists, and the intent behind its awakening remains unclear. The stakes are rising, and time is of the essence. Yesterday's challenge, a Python function to calculate the average signal strength, remains unsolved.
 
-### Current Situation
-With the error log's message still encoded, tensions rise as the network's behavior becomes increasingly unpredictable. The stakes are higher than ever, and it's crucial that we decipher the hidden message to understand the network's intentions.
+### Warning
+The lack of progress is alarming. If the network's true purpose is not uncovered soon, the consequences could be catastrophic. The darkness is growing, and the signal is weakening.
 
 ### How to Play
-To participate in uncovering the truth behind the orbital signal relay network:
-1. **Solve the daily puzzle**: Each day, a new puzzle will be presented in this README. Solve it by reading the provided information.
-2. **Submit your solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your file name includes the day number and your GitHub username.
-3. **Suggest lore**: If you have a theory or idea about the network, open an Issue to share it with the community.
+To participate in this endeavour, follow these steps:
+1. **Solve the daily puzzle**: Read the README carefully, and attempt to solve the challenge presented.
+2. **Submit your solution**: Create a Pull Request with your solution in a file under the `solutions/` directory, based on the `solutions/TEMPLATE.md` template.
+3. **Suggest new lore**: If you have a theory about the network's purpose or a twist to add to the story, open an Issue to share your ideas.
 
 ### Hall of Fame
-Currently, no solvers have been credited.
+Currently, no solvers have been credited. The Hall of Fame remains empty, awaiting the first solver to claim their place.
 
-### Today's Solvers and Lore Suggesters
-None have contributed solutions or lore suggestions in the last 24 hours.
+### Credits
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
-### Day 64 Puzzle — Coding Challenge
-Write a Python function that takes a list of integers representing signal strengths and returns the average strength, but only consider signals that are within 10% of the strongest signal. If no signals are within this threshold, return the average of all signals.
-
-### Community Updates
-Check back tomorrow for updates on the network's status and to see if today's puzzle has been solved.
+### Day 65 Puzzle — Cipher
+The following message was intercepted from the network:
+`GUR PENML XRL VF ZL FRPERG`
+Decipher the message to uncover a crucial piece of information about the network's power distribution malfunction.
