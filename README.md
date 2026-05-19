@@ -1,25 +1,30 @@
-# Orbital Signal Relay Network: Awakening
-Day 65 of ∞
-==========================
-### Status Update
-The network's power distribution malfunction persists, and the intent behind its awakening remains unclear. The stakes are rising, and time is of the essence. Yesterday's challenge, a Python function to calculate the average signal strength, remains unsolved.
+# Orbital Signal Relay Network
+Day 66 of ∞
+### Warning: Network Instability Imminent
 
-### Warning
-The lack of progress is alarming. If the network's true purpose is not uncovered soon, the consequences could be catastrophic. The darkness is growing, and the signal is weakening.
+The orbital signal relay network continues to awaken, its intent unclear. Power distribution malfunctions persist, and the stakes are rising. The lack of progress in calculating the average signal strength has not gone unnoticed. The network's patience is wearing thin.
+
+### Latest Updates
+
+* No new solvers have emerged to tackle the signal strength calculation.
+* No lore suggestions have been submitted.
 
 ### How to Play
-To participate in this endeavour, follow these steps:
-1. **Solve the daily puzzle**: Read the README carefully, and attempt to solve the challenge presented.
-2. **Submit your solution**: Create a Pull Request with your solution in a file under the `solutions/` directory, based on the `solutions/TEMPLATE.md` template.
-3. **Suggest new lore**: If you have a theory about the network's purpose or a twist to add to the story, open an Issue to share your ideas.
+
+1. **Solve the daily puzzle**: Read the README to understand the challenge.
+2. **Submit your solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Suggest new lore**: Open an Issue with your idea.
+4. **Check the README daily**: For new puzzles, updates, and credits.
 
 ### Hall of Fame
-Currently, no solvers have been credited. The Hall of Fame remains empty, awaiting the first solver to claim their place.
+
+* No solvers have been credited yet.
+
+### Day 66 Puzzle — Cipher
+
+Decode the following message to uncover a crucial network password:
+`GUR PENML XRL VF ZL FRPERG`
 
 ### Credits
-No new solvers or lore suggesters have contributed in the last 24 hours.
 
-### Day 65 Puzzle — Cipher
-The following message was intercepted from the network:
-`GUR PENML XRL VF ZL FRPERG`
-Decipher the message to uncover a crucial piece of information about the network's power distribution malfunction.
+* No new solvers or lore suggesters to credit today.
