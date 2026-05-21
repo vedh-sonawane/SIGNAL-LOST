@@ -1,24 +1,30 @@
-# Orbital Signal Relay Network Awakening
-Day 67 of ∞
-#### Warning: Signal Integrity Compromised
-The network's power distribution malfunction persists, and the stakes continue to rise. The intent behind the awakening remains unclear, but the urgency to understand and possibly intervene grows by the day.
+# Orbital Signal Relay Network Activation Sequence
+Day 68 of ∞
+### Warning: Network Instability Detected
+The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions have been reported, and the stakes are rising. Yesterday's cipher message remains undecoded, and the network's silence is ominous.
+
+### Current Status
+- Power distribution: malfunctioning
+- Network intent: unclear
+- Community progress: stalled
+
+### New Developments
+No new solvers or lore suggesters have contributed to the effort in the last 24 hours.
 
 ### How to Play
-To participate in uncovering the mysteries of the orbital signal relay network, follow these steps:
-1. **Submit Solutions**: If you think you can solve the daily puzzle, open a Pull Request adding your solution as a file under the `solutions/` directory, based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: To suggest new lore twists or insights, open an Issue. Your contributions can help unravel the enigma behind the network's awakening.
+To participate in the decoding of the orbital signal relay network, follow these steps:
+1. Read the README to understand the current state of the network and the challenges.
+2. To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue.
 
 ### Hall of Fame
 Currently, no solvers have been credited.
 
-### Credits for Day 66
-No new solvers or lore suggesters to credit today.
+### Day 68 Puzzle — Coding Challenge
+Create a Python function `decode_power_distribution` that takes a list of integers representing power levels across the network and returns the number of nodes that are functioning within a 10% margin of the average power level. The average power level is calculated by summing all power levels and dividing by the number of nodes.
 
-### Day 67 Puzzle — Cipher
-The network has transmitted a cryptic message that needs decoding. The message reads:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This message is encoded using a specific cipher. Your task is to decode it and understand its significance.
+Example input: `[10, 12, 8, 11, 9]`
+Expected output: `3`
 
-# JSON Lore State
+### Credits
+No new solvers or lore suggesters have been credited today.
