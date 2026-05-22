@@ -1,30 +1,26 @@
-# Orbital Signal Relay Network Activation Sequence
-Day 68 of ∞
-### Warning: Network Instability Detected
-The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions have been reported, and the stakes are rising. Yesterday's cipher message remains undecoded, and the network's silence is ominous.
+# Orbital Signal Relay Network
+## Day 69 of ∞
+The silence is deafening. The network stirs, yet our understanding of its intent remains shrouded in darkness. Power distribution malfunctions worsen, and the stakes rise with each passing moment. The community's efforts have been... underwhelming. We wait with bated breath for a spark of ingenuity to illuminate our path forward.
 
-### Current Status
-- Power distribution: malfunctioning
-- Network intent: unclear
-- Community progress: stalled
-
-### New Developments
-No new solvers or lore suggesters have contributed to the effort in the last 24 hours.
-
-### How to Play
-To participate in the decoding of the orbital signal relay network, follow these steps:
-1. Read the README to understand the current state of the network and the challenges.
-2. To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue.
+### Yesterday's Challenge
+A challenge to decode power distribution and determine the number of nodes functioning within a 10% margin of the average power level was issued. Unfortunately, no solution emerged from the shadows. The darkness deepens.
 
 ### Hall of Fame
-Currently, no solvers have been credited.
+*None have earned their place among the stars yet.*
 
-### Day 68 Puzzle — Coding Challenge
-Create a Python function `decode_power_distribution` that takes a list of integers representing power levels across the network and returns the number of nodes that are functioning within a 10% margin of the average power level. The average power level is calculated by summing all power levels and dividing by the number of nodes.
+### New Activity
+- No potential solvers have stepped forward to claim the mantle.
+- The lore remains unchanged, awaiting the spark of creativity from our community.
 
-Example input: `[10, 12, 8, 11, 9]`
-Expected output: `3`
+### How to Play
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly describe your solution and how it addresses the challenge.
+2. **Suggest Lore**: Open an Issue with your ideas for new lore twists. The narrative is ours to shape.
+3. **Participate Daily**: Check back each day for a new challenge, rotating between coding, cipher, riddle, and logic puzzles.
 
-### Credits
-No new solvers or lore suggesters have been credited today.
+### Day 69 Puzzle — Cipher
+A message from the depths of the network:
+`GUR PENML XRL VF ZL FRPERG`
+Can you decipher the intent behind this cryptic transmission?
+
+## Credits
+Today's solvers and lore suggesters will be credited tomorrow, should any emerge from the shadows.
