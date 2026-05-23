@@ -1,26 +1,28 @@
 # Orbital Signal Relay Network
-## Day 69 of ∞
-The silence is deafening. The network stirs, yet our understanding of its intent remains shrouded in darkness. Power distribution malfunctions worsen, and the stakes rise with each passing moment. The community's efforts have been... underwhelming. We wait with bated breath for a spark of ingenuity to illuminate our path forward.
+Day 70 of ∞
+## Transmission Received
+The network continues to stir, its intentions unclear. Power distribution malfunctions have resulted in unpredictable node behavior. Rising stakes demand immediate attention. Yesterday's challenge to decode power distribution and determine functioning nodes within a 10% margin of the average power level remains unsolved, escalating the urgency.
 
-### Yesterday's Challenge
-A challenge to decode power distribution and determine the number of nodes functioning within a 10% margin of the average power level was issued. Unfortunately, no solution emerged from the shadows. The darkness deepens.
+## Credit to Community
+No new solvers have emerged, and no lore suggestions have been submitted in the last 24 hours.
 
-### Hall of Fame
-*None have earned their place among the stars yet.*
+## Hall of Fame
+Currently, there are no credited solvers.
 
-### New Activity
-- No potential solvers have stepped forward to claim the mantle.
-- The lore remains unchanged, awaiting the spark of creativity from our community.
+## How to Play
+To participate in this ongoing puzzle series:
+1. **Solve the current puzzle** by following the instructions provided.
+2. **Submit your solution** by opening a Pull Request that adds a file under `solutions/`, based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists or story directions, **open an Issue**.
 
-### How to Play
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly describe your solution and how it addresses the challenge.
-2. **Suggest Lore**: Open an Issue with your ideas for new lore twists. The narrative is ours to shape.
-3. **Participate Daily**: Check back each day for a new challenge, rotating between coding, cipher, riddle, and logic puzzles.
+### Day 70 Puzzle — Cipher
+Decode the message below, which is encoded using a Caesar Cipher with a shift of an unknown number of positions:
+```
+GUR PENML XRL VF ZL FRPERG
+```
+The key to decoding this message lies within the narrative provided.
 
-### Day 69 Puzzle — Cipher
-A message from the depths of the network:
-`GUR PENML XRL VF ZL FRPERG`
-Can you decipher the intent behind this cryptic transmission?
+## Solvers and Lore Suggesters
+Check back tomorrow for updates on who has solved today's puzzle and who has contributed to the lore.
 
-## Credits
-Today's solvers and lore suggesters will be credited tomorrow, should any emerge from the shadows.
+---
