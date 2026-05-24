@@ -1,28 +1,33 @@
-# Orbital Signal Relay Network
-Day 70 of ∞
-## Transmission Received
-The network continues to stir, its intentions unclear. Power distribution malfunctions have resulted in unpredictable node behavior. Rising stakes demand immediate attention. Yesterday's challenge to decode power distribution and determine functioning nodes within a 10% margin of the average power level remains unsolved, escalating the urgency.
+# Orbital Signal Relay Network: Awakening
+Day 71 of ∞
+========================
+### Transmission Received
 
-## Credit to Community
-No new solvers have emerged, and no lore suggestions have been submitted in the last 24 hours.
+The orbital signal relay network continues to awaken, its intentions unclear. Power distribution malfunctions persist, and the stakes are rising. The lack of progress in decoding power distribution has led to increased instability within the network.
 
-## Hall of Fame
-Currently, there are no credited solvers.
+### Current Status
 
-## How to Play
-To participate in this ongoing puzzle series:
-1. **Solve the current puzzle** by following the instructions provided.
-2. **Submit your solution** by opening a Pull Request that adds a file under `solutions/`, based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists or story directions, **open an Issue**.
+* Power distribution malfunction: unresolved
+* Number of functioning nodes: unknown
+* Network intent: unclear
 
-### Day 70 Puzzle — Cipher
-Decode the message below, which is encoded using a Caesar Cipher with a shift of an unknown number of positions:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-The key to decoding this message lies within the narrative provided.
+### How to Play
 
-## Solvers and Lore Suggesters
-Check back tomorrow for updates on who has solved today's puzzle and who has contributed to the lore.
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: Open an Issue with your lore suggestions.
+3. **Participate**: Solve the daily puzzle, and help uncover the truth about the orbital signal relay network.
 
----
+### Hall of Fame
+
+* None
+
+### New Activity
+
+No new solvers or lore suggesters have contributed in the last 24 hours.
+
+### Day 71 Puzzle — Cipher
+The network has transmitted a cryptic message:
+`GUR PENML XRL VF ZL FRPERG`
+Decode the message to uncover a crucial aspect of the network's behavior.
+
+# JSON Lore State
