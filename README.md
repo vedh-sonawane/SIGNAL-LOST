@@ -1,33 +1,26 @@
-# Orbital Signal Relay Network: Awakening
-Day 71 of ∞
-========================
-### Transmission Received
+# Orbital Signal Relay Network Awakens
+Day 72 of ∞
+### Warning: Power Distribution Malfunction Escalating
+The network stirs, its intentions unclear. Power distribution malfunctions have risen, and with it, the stakes. The silence from potential solvers is deafening.
 
-The orbital signal relay network continues to awaken, its intentions unclear. Power distribution malfunctions persist, and the stakes are rising. The lack of progress in decoding power distribution has led to increased instability within the network.
-
-### Current Status
-
-* Power distribution malfunction: unresolved
-* Number of functioning nodes: unknown
-* Network intent: unclear
+### Story So Far
+The orbital signal relay network, once dormant, now awakens with an unclear intent. Power distribution malfunctions plague the system, and the number of functioning nodes within a 10% margin of the average power level remains unknown. Yesterday's challenge to create a Python function to decode power distribution and determine the number of nodes functioning within a 10% margin of the average power level remains unsolved.
 
 ### How to Play
-
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: Open an Issue with your lore suggestions.
-3. **Participate**: Solve the daily puzzle, and help uncover the truth about the orbital signal relay network.
+1. **Solve the Daily Puzzle**: Find the puzzle for the current day below and solve it.
+2. **Submit Your Solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. 
+3. **Suggest Lore Twists**: Open an Issue to suggest new lore twists.
+4. **Check Tomorrow's README**: See if your solution was correct and if you've been credited.
 
 ### Hall of Fame
-
-* None
+Currently, no solvers have been credited.
 
 ### New Activity
+No new solvers or lore suggesters have come forward in the last 24 hours.
 
-No new solvers or lore suggesters have contributed in the last 24 hours.
-
-### Day 71 Puzzle — Cipher
-The network has transmitted a cryptic message:
+### Day 72 Puzzle — Cipher
+Decode the following message to uncover a critical system password:
 `GUR PENML XRL VF ZL FRPERG`
-Decode the message to uncover a crucial aspect of the network's behavior.
 
-# JSON Lore State
+### Credits
+None to credit today.
