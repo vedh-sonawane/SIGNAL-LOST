@@ -1,27 +1,23 @@
-# Orbital Signal Relay Network
-Day 73 of ∞
-### Transmission Received
-
-The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions persist, and the stakes are rising. The lack of progress in determining the number of functioning nodes within a 10% margin of the average power level has not gone unnoticed. The silence is deafening.
-
-### Current Status
-The network remains in a state of flux, with power levels fluctuating wildly. The need for a solution to decode power distribution and determine the number of functioning nodes is more pressing than ever.
+# Orbital Signal Relay Network Awakening
+Day 74 of ∞
+### Status Update
+The network remains unstable, with power distribution malfunctions escalating. The intent behind the awakening remains unclear, and the stakes are higher than ever. Yesterday's challenge to decode power distribution and determine functioning nodes within a 10% margin of the average power level remains unsolved, further complicating our understanding of the network's state.
 
 ### How to Play
-To participate, follow these steps:
-1. Read the README carefully to understand the current state of the network and the challenge at hand.
-2. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue and share your ideas.
+To participate in unraveling the mysteries of the orbital signal relay network:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md` for each challenge.
+2. **Suggest Lore**: Open an Issue to propose new lore twists.
+3. **Monitor Progress**: Check this README daily for updates, new challenges, and credits to the community.
 
 ### Hall of Fame
-Currently, there are no credited solvers.
+Currently, there are no credited solvers or lore contributors.
 
-### New Activity
-No new solvers or lore suggesters have come forward in the last 24 hours.
+### Credits
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
-### Day 73 Puzzle — Cipher
-The following cipher has been intercepted from the network:
+### Day 74 Puzzle — Cipher
+A mysterious message has been intercepted from the network:
 `GUR PENML XRL VF ZL FRPERG`
-Decode the message to uncover a crucial piece of information about the network.
+Decipher this message to understand a crucial aspect of the network's awakening.
 
-# JSON Lore State
+#
