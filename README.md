@@ -1,32 +1,25 @@
-# Orbital Signal Relay Network: Awakening
-Day 76 of ∞
----------------
-
-### Transmission Received
-
-The power distribution malfunction persists, and the stakes continue to rise. The network's intent remains unclear, but its awakening is undeniable. We must proceed with caution and diligence to uncover the truth.
+# Orbital Signal Relay Network
+## Day 77 of ∞
+The silence is deafening. The power distribution malfunction persists, and the stakes continue to rise. The network's intentions remain unclear, but one thing is certain: time is running out.
 
 ### Current Status
-
-The previous challenge to decode power distribution and determine the number of nodes functioning within a 10% margin of the average power level remains unsolved. The silence is deafening, and the network's patience wears thin.
+The power distribution issue has yet to be resolved, and the number of functioning nodes within a 10% margin of the average power level remains unknown. The lack of progress is unsettling, and the network's awakening seems to be accelerating.
 
 ### How to Play
-
-1. **Submit Solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and executable.
-2. **Suggest Lore**: Open an Issue to propose new lore twists or ideas. Engage with the community to shape the narrative.
-3. **Participate**: Collaborate with others, share knowledge, and learn from each other's experiences.
+To participate in this unfolding mystery, follow these steps:
+1. **Submit a solution**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Make sure to include your solution and any relevant explanations.
+2. **Suggest new lore**: Open an Issue to propose new lore twists or ideas. This will help shape the narrative and potentially unlock new paths.
+3. **Collaborate and discuss**: Engage with other players in the Issues and Pull Requests to share insights and coordinate efforts.
 
 ### Hall of Fame
+Currently, there are no credited solvers. Will you be the first to crack the code?
 
-*No solvers have been credited yet*
+### Credits
+No new solvers or lore suggesters have come forward in the past 24 hours.
 
-### Day 76 Puzzle — Cipher
+### Day 77 Puzzle — Cipher
 The following message has been intercepted from an unknown source within the network:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-Decipher the message to uncover a crucial piece of information about the network's architecture.
+`GUR PENML XRL VF ZL FRPERG`
+Decipher this message to uncover a crucial piece of information about the network's intentions.
 
-### Credit and Acknowledgments
-
-No new solvers or lore suggesters have contributed to the effort in the last 24 hours.
+#
