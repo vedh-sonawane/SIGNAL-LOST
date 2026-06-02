@@ -1,26 +1,37 @@
 # Orbital Signal Relay Network Awakening
-Day 78 of ∞
-### Status Update
-The network's power distribution malfunction persists, and the lack of progress in decoding its intentions has increased the stakes. The uncertainty surrounding the orbital signal relay network's awakening grows more ominous by the day.
+Day 79 of ∞
+========================
+### Transmission Received
 
-### Recent Activity
-No new solvers have emerged to tackle the power distribution decoding challenge, and no lore suggestions have been received in the last 24 hours.
+The network stirs, its intent unclear. Power distribution malfunctions have been reported, and the stakes are rising. Yesterday's attempt to decode the power distribution and determine the number of nodes functioning within a 10% margin of the average power level remains unresolved. The silence is deafening.
+
+### Current Status
+
+* Power distribution: malfunctioning
+* Node functionality: unknown
+* Intent: unclear
 
 ### How to Play
-To participate in unraveling the mysteries of the orbital signal relay network:
-1. **Solve the Daily Puzzle**: Each day, a new puzzle will be presented here. Solve it based on the information provided in this README.
-2. **Submit Your Solution**: Create a Pull Request adding your solution as a file under the `solutions/` directory, following the template provided in `solutions/TEMPLATE.md`.
-3. **Contribute to the Lore**: If you have a theory or a twist on the story, open an Issue to share your ideas with the community.
+
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit solutions to the daily puzzles.
+2. **Suggest Lore**: Open an Issue to suggest new lore twists. Your contributions can shape the narrative.
+3. **Follow Progress**: Check this README daily for updates on the story, credits for solvers and lore suggesters, and the next puzzle.
 
 ### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to successfully tackle the challenges.
 
-### Day 78 Puzzle — Cipher
-Decode the message below to understand a critical aspect of the network's structure:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a well-known encryption technique. Figure out the method to decode the message.
+Currently, no solvers have been credited.
 
 ### Credits
-Today's solvers and lore suggesters: None
+
+No new solvers or lore suggesters have contributed in the last 24 hours.
+
+### Day 79 Puzzle — Cipher
+The following cipher has been intercepted from the network:
+`GUR PENML XRL VF ZL FRPERG`
+Decode this message to understand a critical aspect of the network's current state.
+
+## Community Contributions
+
+Awaiting your input.
+
+---
