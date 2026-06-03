@@ -1,37 +1,26 @@
-# Orbital Signal Relay Network Awakening
-Day 79 of ∞
-========================
+# Orbital Signal Relay Network
+## Day 80 of ∞
 ### Transmission Received
 
-The network stirs, its intent unclear. Power distribution malfunctions have been reported, and the stakes are rising. Yesterday's attempt to decode the power distribution and determine the number of nodes functioning within a 10% margin of the average power level remains unresolved. The silence is deafening.
+The network continues to stir, its intentions unclear. Power distribution malfunctions persist, and the stakes are rising. The silence from potential solvers is deafening. 
 
-### Current Status
-
-* Power distribution: malfunctioning
-* Node functionality: unknown
-* Intent: unclear
+ Yesterday's challenge to decode power distribution and determine the number of nodes functioning within a 10% margin of the average power level remains unsolved. The lack of progress is unsettling.
 
 ### How to Play
-
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the only way to submit solutions to the daily puzzles.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists. Your contributions can shape the narrative.
-3. **Follow Progress**: Check this README daily for updates on the story, credits for solvers and lore suggesters, and the next puzzle.
+To participate, submit your solutions by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. If you have a lore suggestion, open an Issue. The community's efforts will be credited in tomorrow's transmission.
 
 ### Hall of Fame
+The Hall of Fame remains empty, awaiting the first solvers to claim their place.
 
-Currently, no solvers have been credited.
+### Credit to Community
+No new solvers or lore suggesters have come forward in the last 24 hours. The community's inactivity is concerning.
 
-### Credits
+### Day 80 Puzzle — Cipher
+Decode the following message to uncover a crucial detail about the network's structure:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a simple substitution method. Can you crack the code before it's too late?
 
-No new solvers or lore suggesters have contributed in the last 24 hours.
-
-### Day 79 Puzzle — Cipher
-The following cipher has been intercepted from the network:
-`GUR PENML XRL VF ZL FRPERG`
-Decode this message to understand a critical aspect of the network's current state.
-
-## Community Contributions
-
-Awaiting your input.
-
----
+# Solutions and Lore
+Check the `solutions/` directory for previous attempts and the `issues` tab for lore discussions.
