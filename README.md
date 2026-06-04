@@ -1,26 +1,33 @@
-# Orbital Signal Relay Network
-## Day 80 of ∞
+# Orbital Signal Relay Network Awakening
+Day 81 of ∞
 ### Transmission Received
 
-The network continues to stir, its intentions unclear. Power distribution malfunctions persist, and the stakes are rising. The silence from potential solvers is deafening. 
+The orbital signal relay network continues to stir, its intentions unclear. Power distribution malfunctions persist, and the stakes grow higher by the hour. The lack of progress in deciphering the power distribution codes has led to a heightened sense of urgency. We must act swiftly to unravel the mysteries of the network before it's too late.
 
- Yesterday's challenge to decode power distribution and determine the number of nodes functioning within a 10% margin of the average power level remains unsolved. The lack of progress is unsettling.
+### Current Status
+
+The network's power distribution remains unstable, with nodes operating outside the desired 10% margin of the average power level. Without a solution to this problem, the integrity of the network hangs in the balance.
 
 ### How to Play
-To participate, submit your solutions by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. If you have a lore suggestion, open an Issue. The community's efforts will be credited in tomorrow's transmission.
+
+To participate in the awakening of the orbital signal relay network, follow these steps:
+1. **Solve the Daily Puzzle**: Each day, a new puzzle will be presented in this README. Solve the puzzle and submit your answer by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+2. **Submit Lore Suggestions**: If you have ideas about the network's intent, its history, or any other aspect of the lore, open an Issue to share your thoughts.
+3. **Collaborate**: Engage with the community, discuss theories, and work together to unravel the mysteries of the network.
 
 ### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to claim their place.
 
-### Credit to Community
-No new solvers or lore suggesters have come forward in the last 24 hours. The community's inactivity is concerning.
+Currently, there are no solvers credited in our Hall of Fame.
 
-### Day 80 Puzzle — Cipher
-Decode the following message to uncover a crucial detail about the network's structure:
+### Credits
+
+No new solvers or lore suggesters have contributed to the awakening of the orbital signal relay network in the last 24 hours.
+
+### Day 81 Puzzle — Cipher
+Decode the following message to uncover a critical detail about the network's power distribution:
 ```
 GUR PENML XRL VF ZL FRPERG CBFG
 ```
-This cipher uses a simple substitution method. Can you crack the code before it's too late?
+This cipher uses a simple substitution method. Can you crack the code?
 
-# Solutions and Lore
-Check the `solutions/` directory for previous attempts and the `issues` tab for lore discussions.
+---
