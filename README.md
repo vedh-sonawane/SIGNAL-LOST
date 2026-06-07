@@ -1,28 +1,24 @@
 # Orbital Signal Relay Network Awakens
-Day 83 of ∞
+Day 84 of ∞
 ### Warning: Critical System Identifier Remains Uncoded
+The network stirs, its intentions unclear. Power distribution malfunctions worsen, and stakes escalate. The community's failure to decode the critical system identifier has not gone unnoticed. Time is running out.
 
-The silence is deafening. The cipher message from yesterday remains unsolved, and the stakes have never been higher. The Orbital Signal Relay Network continues to awaken, its intent unclear, but its power distribution malfunction is causing ripples throughout the system.
+### Current Status
+- **System Identifier:** Unknown
+- **Power Distribution:** Malfunctioning
+- **Network Intent:** Unclear
 
 ### How to Play
-To participate in this evolving mystery, follow these steps:
-1. Read the README carefully for clues and puzzles.
-2. Solve the daily puzzle by creating a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Submit your solution as a Pull Request.
-4. To suggest new lore twists, open an Issue.
-5. Check back daily for updates, new puzzles, and credits to solvers and lore contributors.
+To participate, follow these steps:
+1. **Solve the Daily Puzzle:** Find the puzzle for the current day below, labeled with its type (e.g., cipher, coding challenge, riddle, logic puzzle).
+2. **Submit Your Solution:** Create a Pull Request adding your solution under the `solutions/` directory, using `solutions/TEMPLATE.md` as a guide.
+3. **Suggest Lore Twists:** Open an Issue to propose new lore or twists to the story.
 
 ### Hall of Fame
-Currently empty. Will the first solvers emerge today?
+Currently empty. Will you be the first to crack the code and earn a place here?
 
-### Credits
-No new solvers or lore suggesters to credit today. The network remains quiet, awaiting the first breakthrough.
+### Day 84 Puzzle — Coding Challenge
+Write a Python function `monitor_signal` that takes no arguments and simulates the monitoring of a signal. It should print "Signal Stable" if the signal strength is above 50, "Signal Unstable" if it's between 20 and 50, and "Signal Lost" if it's below 20. The signal strength should be a random number between 0 and 100 generated within the function.
 
-### Day 83 Puzzle — Coding Challenge
-Create a Python function that calculates the checksum of a given binary string. The binary string is 16 characters long and represents a system diagnostic code. The checksum must be calculated by XORing each character in the string. If the result is `0`, the system is considered stable.
-
-Example binary string: `1010101010101010`
-
-Can you write the function to calculate the checksum and determine the stability of the system?
-
-No solvers or lore suggesters to credit today. The network waits.
+### Community Updates
+No new solvers or lore suggesters to credit at this time.
