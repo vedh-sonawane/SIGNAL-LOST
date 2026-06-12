@@ -1,38 +1,32 @@
 # Orbital Signal Relay Network Awakening
-## Day 88 of ∞
-The silence is deafening, and the stakes are rising. The network's power distribution malfunction persists, casting a dark shadow over our attempts to understand its intent. Yesterday's cipher challenge remains unsolved, leaving us with more questions than answers.
+### Day 89 of ∞
+## Transmission Received
 
-### Day 87 Recap
-The decrypted message was supposed to reveal a crucial aspect of the network's current state. Unfortunately, the community was unable to crack the code, and the message remains a mystery.
+The network stirs, its intentions unclear. Power distribution malfunctions persist, and the stakes continue to rise. The allocate_power function remains incomplete, a crucial step in understanding the network's behavior.
 
-### Day 88 Puzzle — Coding Challenge
-We have intercepted a fragment of the network's code, which appears to be a crucial component of its power management system. The code is written in Python and is responsible for allocating power to different modules. However, the code is incomplete, and we need your help to finish it.
+## Recent Activity
 
-```python
-def allocate_power(total_power, modules):
-    # Your code here
-    pass
-
-# Example usage:
-modules = ["module1", "module2", "module3"]
-total_power = 100
-allocate_power(total_power, modules)
-```
-
-Your task is to complete the `allocate_power` function to allocate the total power among the given modules. The allocation should be based on the number of modules, and each module should receive an equal share of the power.
+No solutions have been submitted for the allocate_power function. The community's efforts are appreciated, but time is of the essence. No new lore suggestions have been received.
 
 ## How to Play
-To participate in this challenge, follow these steps:
 
-1. Fork this repository.
-2. Create a new file under the `solutions/` directory based on the `solutions/TEMPLATE.md` file.
-3. Write your solution to the coding challenge in the newly created file.
-4. Open a Pull Request to submit your solution.
-
-To suggest new lore twists, open an Issue with your idea.
+To participate in this unfolding mystery, follow these steps:
+1. **Submit Solutions**: Create a Pull Request with your solution to the current puzzle, adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or insights into the network's behavior.
+3. **Collaborate**: Engage with the community to piece together the truth behind the orbital signal relay network.
 
 ## Hall of Fame
-Currently, there are no credited solvers.
+
+Currently, no solvers have been credited. Will you be the first to crack the code?
+
+## Day 89 Puzzle — Cipher
+The following message has been intercepted from the network. Decode it to uncover a crucial detail about the network's power distribution:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic encryption technique. Can you decipher the message?
 
 ## Credits
-No new solvers or lore suggesters have contributed to the challenge in the last 24 hours.
+Today's new solvers and lore suggesters: None
+
+---
