@@ -1,32 +1,29 @@
-# Orbital Signal Relay Network Awakening
-### Day 89 of ∞
-## Transmission Received
+# Orbital Signal Relay Network
+### Day 90 of ∞
+The silence is deafening. The power distribution malfunction persists, and our systems remain on the brink of collapse. The uncertainty surrounding the intent of this awakening network grows with each passing day. The lack of progress is... unsettling.
 
-The network stirs, its intentions unclear. Power distribution malfunctions persist, and the stakes continue to rise. The allocate_power function remains incomplete, a crucial step in understanding the network's behavior.
+### Current Status
+- Power distribution malfunction: **CRITICAL**
+- Network intent: **UNKNOWN**
+- Community progress: **STALLED**
 
-## Recent Activity
+### How to Play
+To participate in uncovering the truth behind the orbital signal relay network, follow these steps:
+1. **Submit Solutions**: If you believe you have solved the current puzzle, create a Pull Request with your solution in a file under the `solutions/` directory, based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: To contribute to the narrative, open an Issue with your ideas for new lore twists.
+3. **Stay Informed**: Check this README daily for updates on the story, new puzzles, and credits for solvers and lore contributors.
 
-No solutions have been submitted for the allocate_power function. The community's efforts are appreciated, but time is of the essence. No new lore suggestions have been received.
+### Hall of Fame
+Currently, no solvers have been recognized for their contributions.
 
-## How to Play
+### New Contributions
+Today, we acknowledge the absence of new solvers and lore suggesters. The silence is palpable.
 
-To participate in this unfolding mystery, follow these steps:
-1. **Submit Solutions**: Create a Pull Request with your solution to the current puzzle, adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: Open an Issue to propose new lore twists or insights into the network's behavior.
-3. **Collaborate**: Engage with the community to piece together the truth behind the orbital signal relay network.
-
-## Hall of Fame
-
-Currently, no solvers have been credited. Will you be the first to crack the code?
-
-## Day 89 Puzzle — Cipher
-The following message has been intercepted from the network. Decode it to uncover a crucial detail about the network's power distribution:
+### Day 90 Puzzle — Cipher
+The following encrypted message has been intercepted from an unknown module within the network:
 ```
-GUR PENML XRL VF ZL FRPERG CBFG
+GUR PENML XRL VF ZL FRPERG
 ```
-This cipher uses a classic encryption technique. Can you decipher the message?
+Decipher this message to understand a crucial aspect of the network's current state.
 
-## Credits
-Today's new solvers and lore suggesters: None
-
----
+# JSON Lore State
