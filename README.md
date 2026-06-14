@@ -1,29 +1,24 @@
 # Orbital Signal Relay Network
-### Day 90 of ∞
-The silence is deafening. The power distribution malfunction persists, and our systems remain on the brink of collapse. The uncertainty surrounding the intent of this awakening network grows with each passing day. The lack of progress is... unsettling.
-
-### Current Status
-- Power distribution malfunction: **CRITICAL**
-- Network intent: **UNKNOWN**
-- Community progress: **STALLED**
+Day 91 of ∞
+### Status Update
+The network's power distribution malfunction persists, and the stakes continue to rise. The allocate_power function remains incomplete, and the modules are still awaiting proper power allocation. The awakening network's intent remains unclear, and time is of the essence.
 
 ### How to Play
-To participate in uncovering the truth behind the orbital signal relay network, follow these steps:
-1. **Submit Solutions**: If you believe you have solved the current puzzle, create a Pull Request with your solution in a file under the `solutions/` directory, based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: To contribute to the narrative, open an Issue with your ideas for new lore twists.
-3. **Stay Informed**: Check this README daily for updates on the story, new puzzles, and credits for solvers and lore contributors.
+To participate in this evolving story, follow these steps:
+1. Read the latest transmission (this README) carefully.
+2. Identify the daily puzzle and attempt to solve it.
+3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+4. To suggest new lore twists, open an Issue.
 
 ### Hall of Fame
-Currently, no solvers have been recognized for their contributions.
+Currently, no solvers have been credited.
 
-### New Contributions
-Today, we acknowledge the absence of new solvers and lore suggesters. The silence is palpable.
+### New Activity
+No new solvers or lore suggesters have emerged in the last 24 hours.
 
-### Day 90 Puzzle — Cipher
-The following encrypted message has been intercepted from an unknown module within the network:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-Decipher this message to understand a crucial aspect of the network's current state.
+### Day 91 Puzzle — Cipher
+The following encrypted message has been intercepted from an unknown module:
+`GUR PENML XRL VF ZL FRPERG CBFG`
+Decipher the message to uncover a crucial clue about the network's intent.
 
-# JSON Lore State
+# Transmission Ended
