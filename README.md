@@ -1,27 +1,28 @@
 # Orbital Signal Relay Network
-Day 92 of ∞
-## Transmission Received
-The network continues to awaken, its intent still unclear. Power distribution malfunctions have been reported, and the stakes are rising. The previous attempt to allocate power among the modules was unsuccessful, leaving the network in a precarious state.
+### Day 93 of ∞
+The silence is deafening. The power distribution malfunction persists, and our attempts to allocate resources have been met with failure. The stakes are rising, and the intentions of this awakening network remain unclear.
 
-## Current Status
-The power distribution malfunction has caused instability throughout the network. Modules are experiencing power fluctuations, and communication channels are becoming increasingly unreliable.
-
-## Hall of Fame
-Currently, there are no solvers credited in the Hall of Fame.
+## Story So Far
+The orbital signal relay network, once dormant, now stirs with an unknown purpose. Our efforts to understand and interact with the network have been hindered by a power distribution malfunction. Each day, we must solve a challenge to uncover more about the network's intentions and to prevent potential catastrophe.
 
 ## How to Play
-To participate in the orbital signal relay network challenge, follow these steps:
-1. Read the transmission received (this README) carefully.
-2. Complete the daily puzzle by adding a file under the `solutions/` directory based on the `solutions/TEMPLATE.md` template.
-3. Submit your solution as a Pull Request.
-4. To suggest new lore twists, open an Issue.
+To participate, follow these steps:
+1. Read the daily challenge below.
+2. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue.
 
-## New Solvers and Lore Suggesters
-None
+## Hall of Fame
+Currently, no solvers have been credited.
 
-### Day 92 Puzzle — Cipher
-The following encoded message has been received from an unknown module:
-`GUR PENML XRL VF ZL FRPERG`
-Decode the message to reveal a crucial piece of information about the network.
+## New Activity
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
-# JSON Response
+### Day 93 Puzzle — Cipher
+Decode the message below to uncover a crucial aspect of the network's power distribution:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic encryption technique. Can you crack the code?
+
+## Credits
+No community members have solved today's challenge or suggested new lore twists yet.

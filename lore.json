@@ -1,8 +1,8 @@
 {
-  "day": 93,
+  "day": 94,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes",
-  "last_challenge": "Complete the allocate_power function to allocate the total power among the given modules.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the given cipher message to uncover a crucial aspect of the network's power distribution",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
