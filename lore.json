@@ -1,5 +1,5 @@
 {
-  "day": 99,
+  "day": 100,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes.",
   "last_challenge": "Identify which signal relays are operating above their safe power threshold (75%) given their IDs and power levels.",
   "last_challenge_type": "coding",

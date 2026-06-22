@@ -1,23 +1,30 @@
-# Orbital Signal Relay Network Awakening
-## Day 98 of ∞
-The network stirs, its intentions unclear. Power distribution malfunctions have been detected, and the stakes are rising. We await your assistance in unraveling the mysteries of this awakening behemoth.
+# Orbital Signal Relay Network
+Day 99 of ∞
+## transmission received...
 
-### Status Update
-Yesterday's challenge to identify signal relays operating above their safe power threshold remains unsolved. The silence is deafening, and the network's power levels continue to fluctuate ominously.
+The awakening continues, with power distribution malfunctions escalating. Signal relays are operating at critical levels, and the intent behind this awakening remains unclear. The stakes are rising, and our understanding of the network's behavior is crucial to unlocking its secrets.
 
-### How to Play
-To participate in this endeavor, follow these steps:
-1. **Solve the daily puzzle**: Each day, a new challenge will be presented. Solve it using the information provided in this README.
-2. **Submit your solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and easy to understand.
-3. **Suggest new lore**: If you have theories about the network's intentions or wish to introduce new elements to the story, open an Issue with your suggestions.
+## Current Status
+- Power distribution: **MALFUNCTIONING**
+- Signal relay operation: **CRITICAL**
+- Intent: **UNCLEAR**
 
-### Hall of Fame
-Currently, no solvers have been credited. Will you be the first to claim a spot?
-
-### Day 98 Puzzle — Cipher
-A cryptic message has been intercepted from the network:
+### Day 99 Puzzle — Cipher
+A cryptic message has been intercepted from one of the signal relays:
 `GUR PENML XRL VF ZL FRPERG`
-Decipher this message to uncover a crucial detail about the network's current state.
+Decipher the message to understand the relay's status.
 
-### Credits
-No new solvers or lore suggesters to credit at this time. The network waits with bated breath for your contributions.
+## How to Play
+1. **Solve the Puzzle**: Use your skills to decipher the message.
+2. **Submit Your Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Suggest Lore Twists**: Open an Issue to propose new lore directions.
+
+## Hall of Fame
+No solvers have been credited yet.
+
+## Credits
+Today's activity:
+- No new solvers.
+- No lore suggestions.
+
+We await your contributions to unlock the secrets of the orbital signal relay network.
