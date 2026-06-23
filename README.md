@@ -1,30 +1,28 @@
 # Orbital Signal Relay Network
-Day 99 of ∞
-## transmission received...
+## Day 100 of ∞
+The awakening continues, with power distribution malfunctions escalating into a critical situation. The intent behind the orbital signal relay network's activation remains unclear, but the stakes are higher than ever. 
 
-The awakening continues, with power distribution malfunctions escalating. Signal relays are operating at critical levels, and the intent behind this awakening remains unclear. The stakes are rising, and our understanding of the network's behavior is crucial to unlocking its secrets.
+### Status Update
+No solvers have stepped forward to identify the signal relays operating above their safe power threshold. The network's instability grows by the hour.
 
-## Current Status
-- Power distribution: **MALFUNCTIONING**
-- Signal relay operation: **CRITICAL**
-- Intent: **UNCLEAR**
+### How to Play
+To participate in unraveling the mysteries of the orbital signal relay network:
+1. **Solve the daily puzzle**: Find the solution to the challenge presented below.
+2. **Submit your solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly explained.
+3. **Contribute to the lore**: Open an Issue to suggest new twists or interpretations of the unfolding story.
 
-### Day 99 Puzzle — Cipher
-A cryptic message has been intercepted from one of the signal relays:
-`GUR PENML XRL VF ZL FRPERG`
-Decipher the message to understand the relay's status.
+### Hall of Fame
+Currently, no solvers have been credited for their contributions.
 
-## How to Play
-1. **Solve the Puzzle**: Use your skills to decipher the message.
-2. **Submit Your Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. **Suggest Lore Twists**: Open an Issue to propose new lore directions.
+### Credits for Day 100
+No new solvers or lore suggesters have come forward in the last 24 hours.
 
-## Hall of Fame
-No solvers have been credited yet.
+### Day 100 Puzzle — Cipher
+Decode the message below, which may reveal a critical aspect of the network's malfunction:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a well-known encryption technique. Can you decipher the message before it's too late?
 
-## Credits
-Today's activity:
-- No new solvers.
-- No lore suggestions.
-
-We await your contributions to unlock the secrets of the orbital signal relay network.
+# Solvers and Lore Suggesters
+Check back tomorrow for credits on any successful solutions or intriguing lore additions from today.
