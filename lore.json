@@ -1,8 +1,8 @@
 {
-  "day": 101,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes.",
-  "last_challenge": "Identify which signal relays are operating above their safe power threshold given their IDs and power levels.",
-  "last_challenge_type": "coding",
+  "day": 102,
+  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Yesterday's challenge to identify overpowered relays remains unsolved.",
+  "last_challenge": "Decipher the garbled message 'GUR PENML XRL VF ZL FRPERG' to understand the network's status.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

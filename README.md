@@ -1,28 +1,24 @@
 # Orbital Signal Relay Network
-## Day 100 of ∞
-The awakening continues, with power distribution malfunctions escalating into a critical situation. The intent behind the orbital signal relay network's activation remains unclear, but the stakes are higher than ever. 
-
+Day 101 of ∞
 ### Status Update
-No solvers have stepped forward to identify the signal relays operating above their safe power threshold. The network's instability grows by the hour.
+The network continues to awaken, with power distribution malfunctions escalating. The intent behind this awakening remains unclear, but the stakes are rising. Yesterday's challenge to identify signal relays operating above their safe power threshold remains unsolved, further complicating our understanding of the situation.
+
+### Credits
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
 ### How to Play
-To participate in unraveling the mysteries of the orbital signal relay network:
-1. **Solve the daily puzzle**: Find the solution to the challenge presented below.
-2. **Submit your solution**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly explained.
-3. **Contribute to the lore**: Open an Issue to suggest new twists or interpretations of the unfolding story.
+To participate in unraveling the mystery of the Orbital Signal Relay Network:
+1. **Solve the Daily Puzzle**: Find the puzzle for the current day, marked as `### Day X Puzzle — <type>`, and solve it based on the information provided in the README.
+2. **Submit Your Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly presented and related to the puzzle.
+3. **Suggest Lore**: Open an Issue to suggest new lore twists or insights into the network's awakening.
 
 ### Hall of Fame
-Currently, no solvers have been credited for their contributions.
+Currently, there are no credited solvers.
 
-### Credits for Day 100
-No new solvers or lore suggesters have come forward in the last 24 hours.
+### Day 101 Puzzle — Cipher
+A garbled message has been intercepted from one of the relays:
+`GUR PENML XRL VF ZL FRPERG`
+Decipher this message to understand a crucial aspect of the network's status.
 
-### Day 100 Puzzle — Cipher
-Decode the message below, which may reveal a critical aspect of the network's malfunction:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a well-known encryption technique. Can you decipher the message before it's too late?
-
-# Solvers and Lore Suggesters
-Check back tomorrow for credits on any successful solutions or intriguing lore additions from today.
+# README Update Log
+- Day 101: Introduced a cipher puzzle related to a garbled message from one of the signal relays.
