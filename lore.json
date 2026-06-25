@@ -1,8 +1,8 @@
 {
-  "day": 102,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Yesterday's challenge to identify overpowered relays remains unsolved.",
-  "last_challenge": "Decipher the garbled message 'GUR PENML XRL VF ZL FRPERG' to understand the network's status.",
-  "last_challenge_type": "cipher",
+  "day": 103,
+  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Yesterday's cipher challenge remains unsolved.",
+  "last_challenge": "Write a Python function to calculate the percentage of online relays from a given list of statuses.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
