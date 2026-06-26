@@ -1,34 +1,29 @@
-# Orbital Signal Relay Network
-Day 102 of ∞
-### Warning: Network Instability Increasing
-The orbital signal relay network continues to awaken, its intentions unclear. Power distribution malfunctions are on the rise, and the stakes are escalating. Yesterday's challenge to decipher the garbled message 'GUR PENML XRL VF ZL FRPERG' remains unsolved, plunging the network into further uncertainty.
+# Orbital Signal Relay Network Awakening
+Day 103 of ∞
+## Status Update
+The network remains unstable, with power distribution malfunctions escalating. The intent behind the awakening remains unclear, but the stakes are rising. Yesterday's coding challenge to calculate the percentage of online relays remains unsolved, casting a shadow over our progress.
 
-### Current Status
-- Power distribution: Malfunctioning
-- Network intent: Unclear
-- Rising stakes: Imminent
+## How to Play
+To participate in uncovering the truth behind the orbital signal relay network, follow these steps:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and related to the current puzzle.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or insights into the network's behavior.
+3. **Collaborate**: Engage with the community by commenting on Issues and Pull Requests to advance our understanding.
 
-### How to Play
-To participate in uncovering the truth behind the orbital signal relay network:
-1. **Solve the daily puzzle**: Each day, a new puzzle will be presented here in the README. The puzzle type will rotate daily between coding challenges, ciphers, riddles, and logic puzzles.
-2. **Submit your solution**: Create a Pull Request adding a file under the `solutions/` directory, based on the template provided in `solutions/TEMPLATE.md`.
-3. **Contribute to the lore**: Suggest new twists to the story by opening an Issue.
+## Hall of Fame
+Currently, there are no solvers credited in the Hall of Fame.
 
-### Hall of Fame
-Currently, no solvers have been credited.
+## Credits
+- **New Solvers**: None
+- **Lore Suggesters**: None
 
-### Credits for Day 101
-- New solvers: None
-- Lore suggesters: None
-
-### Day 102 Puzzle — Coding Challenge
-Write a Python function `relay_check` that takes a list of relay statuses as input, where each status is either 'online', 'offline', or 'malfunctioning'. The function should return the percentage of relays that are 'online'. If all relays are 'malfunctioning', return 'CRITICAL FAILURE'.
-
-```python
-def relay_check(statuses):
-    # Your solution here
-    pass
+### Day 103 Puzzle — Cipher
+The network has transmitted a cryptic message that needs deciphering:
 ```
+GUR PENML XRL VF ZL FRPERG
+```
+This message is encoded using a simple substitution cipher. Your task is to decode the message to understand the network's next move.
 
-### Call to Action
-The network's future hangs in the balance. Will you be the one to uncover its secrets?
+## Community Progress
+The community's efforts so far have not yielded a solution to yesterday's coding challenge. The pressure is mounting as the network's instability grows. Let's work together to crack today's cipher and shed more light on the situation.
+
+---

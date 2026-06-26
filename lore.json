@@ -1,8 +1,8 @@
 {
-  "day": 103,
+  "day": 104,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Yesterday's cipher challenge remains unsolved.",
-  "last_challenge": "Write a Python function to calculate the percentage of online relays from a given list of statuses.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the given cipher message to understand the network's next move.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
