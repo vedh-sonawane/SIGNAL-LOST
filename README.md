@@ -1,29 +1,26 @@
 # Orbital Signal Relay Network Awakening
-Day 103 of ∞
-## Status Update
-The network remains unstable, with power distribution malfunctions escalating. The intent behind the awakening remains unclear, but the stakes are rising. Yesterday's coding challenge to calculate the percentage of online relays remains unsolved, casting a shadow over our progress.
+Day 104 of ∞
+## Transmission Received
+The network's power distribution malfunction persists, and the stakes continue to rise. The unclear intent of the orbital signal relay network's awakening looms over us. Yesterday's cipher challenge remains unsolved, and the tension builds.
+
+## Current Status
+The network's activity is increasing, but its purpose remains shrouded in mystery. We urge all able minds to assist in decoding the network's intentions.
 
 ## How to Play
-To participate in uncovering the truth behind the orbital signal relay network, follow these steps:
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and related to the current puzzle.
-2. **Suggest Lore**: Open an Issue to propose new lore twists or insights into the network's behavior.
-3. **Collaborate**: Engage with the community by commenting on Issues and Pull Requests to advance our understanding.
+To participate in the decoding effort, follow these steps:
+1. Read the README carefully to understand the current state of the network and the puzzle of the day.
+2. Submit your solution to the daily puzzle by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue with your idea.
+4. Check back daily for updates on the network's status and new puzzles.
 
 ## Hall of Fame
-Currently, there are no solvers credited in the Hall of Fame.
+Currently, no solvers have been credited for their contributions.
 
-## Credits
-- **New Solvers**: None
-- **Lore Suggesters**: None
+## New Activity
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
-### Day 103 Puzzle — Cipher
-The network has transmitted a cryptic message that needs deciphering:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-This message is encoded using a simple substitution cipher. Your task is to decode the message to understand the network's next move.
+### Day 104 Puzzle — Coding Challenge
+Create a Python function `decode_relay_signal` that takes a string `signal` as input and returns the signal with all characters shifted 3 positions forward in the alphabet, wrapping around to the beginning of the alphabet when necessary. Non-alphabetic characters should remain unchanged.
 
-## Community Progress
-The community's efforts so far have not yielded a solution to yesterday's coding challenge. The pressure is mounting as the network's instability grows. Let's work together to crack today's cipher and shed more light on the situation.
-
----
+## Call to Action
+We need your expertise to decode the relay signal. Submit your solution to help us understand the network's intentions.
