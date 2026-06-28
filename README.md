@@ -1,26 +1,29 @@
-# Orbital Signal Relay Network Awakening
-Day 104 of ∞
+# Day 105 of ∞
 ## Transmission Received
-The network's power distribution malfunction persists, and the stakes continue to rise. The unclear intent of the orbital signal relay network's awakening looms over us. Yesterday's cipher challenge remains unsolved, and the tension builds.
+The orbital signal relay network continues to stir, its intentions shrouded in mystery. Power distribution malfunctions persist, and the stakes are escalating. Yesterday's cipher message remains undecoded, leaving us with more questions than answers.
 
-## Current Status
-The network's activity is increasing, but its purpose remains shrouded in mystery. We urge all able minds to assist in decoding the network's intentions.
+## Status Update
+No new solvers or lore suggesters have come forward in the last 24 hours. The community's efforts are crucial in unraveling the network's secrets.
 
 ## How to Play
-To participate in the decoding effort, follow these steps:
-1. Read the README carefully to understand the current state of the network and the puzzle of the day.
-2. Submit your solution to the daily puzzle by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue with your idea.
-4. Check back daily for updates on the network's status and new puzzles.
+To participate in this ongoing investigation, follow these steps:
+1. **Submit Solutions**: Open a Pull Request with your solution in a file under the `solutions/` directory, based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore Twists**: Open an Issue to propose new lore directions or twists.
+3. **Collaborate**: Discuss findings and theories with fellow investigators.
 
 ## Hall of Fame
 Currently, no solvers have been credited for their contributions.
 
-## New Activity
-No new solvers or lore suggesters have contributed in the last 24 hours.
+## Day 105 Puzzle — Coding Challenge
+Write a Python function `decode_sequence` that takes a list of binary strings as input and returns a decoded string. The binary strings represent ASCII characters in a specific order. The twist: the order is determined by the alphabetical order of the corresponding ASCII characters' lowercase equivalents.
 
-### Day 104 Puzzle — Coding Challenge
-Create a Python function `decode_relay_signal` that takes a string `signal` as input and returns the signal with all characters shifted 3 positions forward in the alphabet, wrapping around to the beginning of the alphabet when necessary. Non-alphabetic characters should remain unchanged.
+### Example Input
+```python
+binary_strings = ["0110001", "0110100", "0110110"]
+```
+
+### Example Output
+The decoded string corresponding to the input binary strings.
 
 ## Call to Action
-We need your expertise to decode the relay signal. Submit your solution to help us understand the network's intentions.
+We need your expertise to decode the sequence and uncover the network's next move. Will you be the one to crack the code?
