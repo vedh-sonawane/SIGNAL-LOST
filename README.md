@@ -1,29 +1,26 @@
-# Day 105 of ∞
-## Transmission Received
-The orbital signal relay network continues to stir, its intentions shrouded in mystery. Power distribution malfunctions persist, and the stakes are escalating. Yesterday's cipher message remains undecoded, leaving us with more questions than answers.
+# Orbital Relay Network Awakening
+Day 106 of ∞
+### Transmission Received
 
-## Status Update
-No new solvers or lore suggesters have come forward in the last 24 hours. The community's efforts are crucial in unraveling the network's secrets.
+The network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. The decoded message from yesterday's transmission remains elusive, and the silence is deafening.
 
-## How to Play
-To participate in this ongoing investigation, follow these steps:
-1. **Submit Solutions**: Open a Pull Request with your solution in a file under the `solutions/` directory, based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore Twists**: Open an Issue to propose new lore directions or twists.
-3. **Collaborate**: Discuss findings and theories with fellow investigators.
+### Latest Updates
+No new solvers have emerged, and the lore remains unchanged. The network's next move remains a mystery.
 
-## Hall of Fame
-Currently, no solvers have been credited for their contributions.
+### How to Play
+To participate in the deciphering of the orbital relay network's intentions:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is the primary method for submitting your answers to the daily puzzles.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or theories about the network's awakening and its implications.
+3. **Follow Progress**: Monitor this README for updates on the story, puzzles, and credits to solvers and lore contributors.
 
-## Day 105 Puzzle — Coding Challenge
-Write a Python function `decode_sequence` that takes a list of binary strings as input and returns a decoded string. The binary strings represent ASCII characters in a specific order. The twist: the order is determined by the alphabetical order of the corresponding ASCII characters' lowercase equivalents.
+### Hall of Fame
+Currently, no solvers have been credited.
 
-### Example Input
-```python
-binary_strings = ["0110001", "0110100", "0110110"]
-```
+### Day 106 Puzzle — Coding Challenge
+Given a string of binary digits representing signal strengths from various orbital relays, write a function that calculates the average signal strength and returns it as a decimal value. The binary string will be 16 characters long, and each character represents the signal strength of a specific relay, with '1' indicating a stronger signal than '0'.
 
-### Example Output
-The decoded string corresponding to the input binary strings.
+Example Input: "1010101010101010"
+Example Output: The average signal strength as a decimal value.
 
-## Call to Action
-We need your expertise to decode the sequence and uncover the network's next move. Will you be the one to crack the code?
+# Credits
+- No new solvers or lore suggesters to credit today.
