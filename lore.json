@@ -1,8 +1,8 @@
 {
-  "day": 107,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes.",
-  "last_challenge": "Decode the given cipher message to understand the network's next move.",
-  "last_challenge_type": "cipher",
+  "day": 108,
+  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Yesterday's cipher message remains undecoded.",
+  "last_challenge": "Write a Python function signalRelay(sequence) that takes a list of integers representing signal strengths and returns the maximum possible signal strength that can be achieved by combining the signals in the sequence.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
