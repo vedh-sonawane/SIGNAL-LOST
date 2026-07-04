@@ -1,28 +1,26 @@
-# Orbital Signal Relay Network Awakening
-Day 110 of ∞
+# Orbital Signal Relay Network
+Day 111 of ∞
 ### Status Update
-The network's power distribution malfunction persists, and the intent behind its awakening remains unclear. The recent cipher message, GUR PENML XRL VF ZL FRPERG CBFG, still awaits decoding. The stakes are rising, and time is of the essence.
+The network's power distribution malfunction persists, and the stakes are rising. The unclear intent of the awakening relay network looms over us. Yesterday's cipher challenge remains unsolved, and the situation is growing more dire by the hour.
 
 ### How to Play
-To participate in this ARG, follow these steps:
-1. Read the README carefully to understand the current state of the network and the challenges ahead.
-2. Submit solutions to challenges by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening Issues.
-4. Check back daily for updates on the network's status and new challenges.
+To participate in this evolving sci-fi alternate reality game, follow these steps:
+1. Read the README carefully to understand the current state of the network and the challenge of the day.
+2. To submit a solution to the daily puzzle, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue with your idea.
 
 ### Hall of Fame
-Currently, there are no solvers credited in the Hall of Fame.
+Currently, no solvers have been credited for their contributions.
 
 ### New Activity
-No new solvers or lore suggesters have been credited in the last 24 hours.
+No new solvers or lore suggesters have come forward in the last 24 hours.
 
-### Day 110 Puzzle — Riddle
-The network's malfunction has caused a critical system to fail. To understand the nature of this failure, consider the following:
-- A group of five satellites are positioned in a series of orbits, each with a different altitude.
-- The satellites are labeled A, B, C, D, and E, corresponding to their order in the series.
-- Each satellite has a unique malfunction, and only one can be repaired at a time.
-- The repair sequence is determined by the alphabetical order of the first letter of each satellite's malfunction description.
-Given the malfunctions are "Overheating," "Communication Loss," "Power Surge," "Navigation Error," and "Data Corruption," in what order should the satellites be repaired?
+### Day 111 Puzzle — Logic Puzzle
+The network's relay stations are connected in a complex web. If Station A is connected to Stations B and C, and Station B is connected to Stations D and E, and Station C is connected to Station F, which station is not directly connected to any other station mentioned?
+Consider the connections:
+- A -> B, C
+- B -> D, E
+- C -> F
+Which station is isolated?
 
-#
-# END OF TRANSMISSION
+---
