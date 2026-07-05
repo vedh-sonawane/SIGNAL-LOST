@@ -1,26 +1,24 @@
-# Orbital Signal Relay Network
-Day 111 of ∞
-### Status Update
-The network's power distribution malfunction persists, and the stakes are rising. The unclear intent of the awakening relay network looms over us. Yesterday's cipher challenge remains unsolved, and the situation is growing more dire by the hour.
+# Orbital Signal Relay Network Awakening
+Day 112 of ∞
+## Current Status
+The orbital signal relay network continues to awaken, its intent unclear. Power distribution malfunctions persist, and the stakes are rising. The latest cipher message remains undecoded: GUR PENML XRL VF ZL FRPERG CBFG. The community's efforts to decode this message have been unsuccessful, and the network's silence is deafening.
 
-### How to Play
-To participate in this evolving sci-fi alternate reality game, follow these steps:
-1. Read the README carefully to understand the current state of the network and the challenge of the day.
-2. To submit a solution to the daily puzzle, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue with your idea.
+## Hall of Fame
+Currently, no solvers have been credited.
 
-### Hall of Fame
-Currently, no solvers have been credited for their contributions.
+## How to Play
+To participate in uncovering the mysteries of the orbital signal relay network:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is how you submit your answers to the daily puzzles.
+2. **Suggest Lore**: Open an Issue to suggest new lore twists or theories about the network's awakening and its implications.
+3. **Follow Progress**: Check this README daily for updates on the network's status, new puzzles, and credits to solvers and lore contributors.
 
-### New Activity
-No new solvers or lore suggesters have come forward in the last 24 hours.
+## Credits
+- **New Solvers**: None
+- **Lore Suggesters**: None
 
-### Day 111 Puzzle — Logic Puzzle
-The network's relay stations are connected in a complex web. If Station A is connected to Stations B and C, and Station B is connected to Stations D and E, and Station C is connected to Station F, which station is not directly connected to any other station mentioned?
-Consider the connections:
-- A -> B, C
-- B -> D, E
-- C -> F
-Which station is isolated?
+### Day 112 Puzzle — Riddle
+The network's malfunctioning power distribution has caused a series of critical failures. To understand the nature of these failures, you must solve this riddle:
+"What can be broken, but never held? What can be given, but never sold?"
 
----
+## Call to Action
+Solve the riddle to shed light on the network's current state. Remember, the fate of the orbital signal relay network hangs in the balance.
