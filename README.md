@@ -1,24 +1,28 @@
 # Orbital Signal Relay Network Awakening
-Day 112 of ∞
-## Current Status
-The orbital signal relay network continues to awaken, its intent unclear. Power distribution malfunctions persist, and the stakes are rising. The latest cipher message remains undecoded: GUR PENML XRL VF ZL FRPERG CBFG. The community's efforts to decode this message have been unsuccessful, and the network's silence is deafening.
+Day 113 of ∞
+### Warning: Network Malfunction Imminent
+The orbital signal relay network continues to awaken with unclear intent, posing a significant threat to global communications. Power distribution malfunctions have been reported, and the stakes are rising. The community's efforts to decipher the network's state have been thwarted by the lack of progress on the cipher challenge.
 
-## Hall of Fame
-Currently, no solvers have been credited.
+### Yesterday's Cipher Challenge Remains Unsolved
+The message `GUR PENML XRL VF ZL FRPERG CBFG` remains undecoded, leaving a critical aspect of the network's current state unknown.
 
-## How to Play
-To participate in uncovering the mysteries of the orbital signal relay network:
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is how you submit your answers to the daily puzzles.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists or theories about the network's awakening and its implications.
-3. **Follow Progress**: Check this README daily for updates on the network's status, new puzzles, and credits to solvers and lore contributors.
+### How to Play
+To participate in the orbital signal relay network awakening challenge:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and follows the instructions provided.
+2. **Suggest Lore Twists**: Open an Issue to propose new lore twists or theories about the network's intent and malfunction.
+3. **Monitor Progress**: Track the README for updates on the network's state, challenges, and credits to the community.
 
-## Credits
-- **New Solvers**: None
-- **Lore Suggesters**: None
+### Hall of Fame
+The Hall of Fame remains empty, awaiting the first solvers to crack the challenges.
 
-### Day 112 Puzzle — Riddle
-The network's malfunctioning power distribution has caused a series of critical failures. To understand the nature of these failures, you must solve this riddle:
-"What can be broken, but never held? What can be given, but never sold?"
+### New Activity
+No new solvers or lore suggesters have been credited in the last 24 hours.
 
-## Call to Action
-Solve the riddle to shed light on the network's current state. Remember, the fate of the orbital signal relay network hangs in the balance.
+### Day 113 Puzzle — Coding Challenge
+Create a Python function `decode_power_distribution` that takes a list of integers representing power levels across different nodes in the network. The function should return a dictionary where the keys are the node IDs (starting from 0) and the values are the corresponding power levels, but only for nodes with power levels above 50. The rest should be ignored.
+
+Example input: `[10, 60, 30, 70, 20]`
+Expected output: `{1: 60, 3: 70}`
+
+### Credits
+No new solvers or lore suggesters have been credited today.
