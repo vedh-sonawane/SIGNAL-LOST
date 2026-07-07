@@ -1,28 +1,39 @@
 # Orbital Signal Relay Network Awakening
-Day 113 of ∞
-### Warning: Network Malfunction Imminent
-The orbital signal relay network continues to awaken with unclear intent, posing a significant threat to global communications. Power distribution malfunctions have been reported, and the stakes are rising. The community's efforts to decipher the network's state have been thwarted by the lack of progress on the cipher challenge.
+Day 114 of ∞
+=====================================
 
-### Yesterday's Cipher Challenge Remains Unsolved
-The message `GUR PENML XRL VF ZL FRPERG CBFG` remains undecoded, leaving a critical aspect of the network's current state unknown.
+### Transmission Received
+
+The network continues to stir, its intentions unclear. Power distribution malfunctions have been detected, and the situation is growing more dire by the hour. We urge all recipients of this transmission to assist in unraveling the mysteries of the orbital signal relay network.
+
+### Current Status
+
+- Power distribution across the network remains unstable.
+- Previous coding challenges to decode power distribution have gone unsolved.
+- The network's intent and the cause of the malfunction are still unknown.
 
 ### How to Play
-To participate in the orbital signal relay network awakening challenge:
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and follows the instructions provided.
-2. **Suggest Lore Twists**: Open an Issue to propose new lore twists or theories about the network's intent and malfunction.
-3. **Monitor Progress**: Track the README for updates on the network's state, challenges, and credits to the community.
+
+To participate in uncovering the truth about the orbital signal relay network:
+1. **Submit Solutions**: If you believe you have a solution to the current puzzle, open a Pull Request adding a file under the `solutions/` directory, based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: To suggest new lore twists or theories about the network, open an Issue.
+3. **Follow Progress**: Check this README daily for updates on the network's status, new puzzles, and credits for solvers and lore contributors.
 
 ### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to crack the challenges.
 
-### New Activity
-No new solvers or lore suggesters have been credited in the last 24 hours.
-
-### Day 113 Puzzle — Coding Challenge
-Create a Python function `decode_power_distribution` that takes a list of integers representing power levels across different nodes in the network. The function should return a dictionary where the keys are the node IDs (starting from 0) and the values are the corresponding power levels, but only for nodes with power levels above 50. The rest should be ignored.
-
-Example input: `[10, 60, 30, 70, 20]`
-Expected output: `{1: 60, 3: 70}`
+Currently, no solvers have been credited.
 
 ### Credits
-No new solvers or lore suggesters have been credited today.
+
+- **New Solvers**: None
+- **Lore Suggesters**: None
+
+### Day 114 Puzzle — Cipher
+Decrypt the following message to understand a critical aspect of the network's current state:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a monoalphabetic substitution method. Figure out the method to decrypt the message.
+
+# Solutions and Lore
+Please see the [solutions/](solutions/) directory for submitted solutions and the [Issues](https://github.com/your-repo/issues) page for lore suggestions.
