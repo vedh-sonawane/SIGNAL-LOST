@@ -1,8 +1,8 @@
 {
-  "day": 118,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes.",
-  "last_challenge": "Decode a ciphered message: GUR PENML XRL VF ZL FRPERG CBFG",
-  "last_challenge_type": "cipher",
+  "day": 119,
+  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Previous ciphered message remains unsolved.",
+  "last_challenge": "Write a Python function that takes a list of integers as input and returns the count of pairs of numbers that add up to 10.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

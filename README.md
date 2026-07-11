@@ -1,28 +1,26 @@
-# Orbital Signal Relay Network Awakening
-Day 117 of ∞
-### Status Update
-The network continues to awaken, with power distribution still malfunctioning and unclear intent. The stakes are rising, and it is imperative that we decipher the purpose behind this awakening.
+# Orbital Signal Relay Network
+## Day 118 of ∞
+### Transmission Received
+
+The orbital signal relay network continues to awaken, its intentions shrouded in mystery. Power distribution malfunctions persist, and the stakes have never been higher. The previous transmission's ciphered message remains unsolved, and the silence is deafening.
+
+### Previous Transmission
+The ciphered message `GUR PENML XRL VF ZL FRPERG CBFG` still awaits decoding. The fate of the network hangs in the balance, and the lack of progress is unsettling.
 
 ### How to Play
-To participate in this unfolding mystery, follow these steps:
-1. **Submit Solutions**: Create a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is where you'll put your answers to the daily puzzles.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists or insights. Your contributions will help shape the narrative.
-3. **Stay Informed**: Check this README daily for updates on the story, new puzzles, and credits for solvers and lore contributors.
-
-### Day 116 Recap
-Yesterday's challenge to create a Python function for decoding power distribution across network nodes, filtering out nodes with power levels below 50, remains unsolved. The community's efforts are appreciated, but time is of the essence.
+To participate in the decoding of the orbital signal relay network's transmissions:
+1. **Solve the daily puzzle**: Each day, a new puzzle will be presented in this README. Solve it by reading the provided information.
+2. **Submit your solution**: Create a new file under the `solutions/` directory using the template provided in `solutions/TEMPLATE.md`. Open a Pull Request with your solution.
+3. **Suggest lore twists**: Open an Issue with your ideas for new lore twists to expand the story.
 
 ### Hall of Fame
-Currently, there are no credited solvers.
+Currently, no solvers have been credited.
+
+### New Developments
+No new solvers or lore suggesters have come forward in the last 24 hours.
+
+### Day 118 Puzzle — Coding Challenge
+Write a Python function that takes a list of integers as input and returns the count of pairs of numbers that add up to 10. The function should handle duplicate pairs and only count each pair once.
 
 ### Credits
-No new solvers or lore suggesters to credit today.
-
-### Day 117 Puzzle — Cipher
-The network has transmitted a ciphered message that needs decoding:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher is a simple substitution cipher. Can you decode the message?
-
-# JSON Lore State
+No solvers or lore suggesters to credit today.
