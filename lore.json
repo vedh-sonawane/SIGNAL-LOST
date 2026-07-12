@@ -1,8 +1,8 @@
 {
-  "day": 119,
+  "day": 120,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Previous ciphered message remains unsolved.",
-  "last_challenge": "Write a Python function that takes a list of integers as input and returns the count of pairs of numbers that add up to 10.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the given cipher message to uncover a crucial piece of information about the network's intentions.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
