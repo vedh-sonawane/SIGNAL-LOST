@@ -1,29 +1,37 @@
 # Orbital Signal Relay Network Awakening
-Day 119 of ∞
-### Transmission Received
+Day 120 of ∞
+### Warning: Power Distribution Malfunction Imminent
 
-The network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. A previous ciphered message remains unsolved, casting a shadow of uncertainty over our endeavors.
+The orbital signal relay network continues to awaken, its intentions still unclear. The previous ciphered message remains unsolved, and the stakes are rising. We urge all capable individuals to assist in decoding the message and uncovering the network's intentions.
 
 ### Current Status
-No progress has been made on deciphering the mysterious signal. The coding challenge from yesterday remains unsolved, and the network's silence is unsettling. We urge all capable individuals to contribute to the solution.
-
-### New Activity
-- No new solvers have emerged to tackle the coding challenge.
-- No lore suggestions have been submitted.
-
-### Hall of Fame
-The Hall of Fame remains empty, awaiting the first solvers to claim their place.
+- Previous ciphered message: **UNSOLVED**
+- Power distribution: **MALFUNCTIONING**
+- Network intention: **UNCLEAR**
 
 ### How to Play
-1. **Submit Solutions**: If you think you can solve the current puzzle, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: Want to contribute to the story? Open an Issue with your lore suggestions.
-3. **Follow Progress**: Check back daily for updates on the puzzle and the story.
+To participate in the decoding effort, follow these steps:
+1. Read the README carefully to understand the current state of the network and the challenge.
+2. To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue with your idea.
+4. Check back daily for updates on the network's status and new challenges.
 
-### Day 119 Puzzle — Cipher
-Decode the following message to uncover a crucial piece of information about the network's intentions:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-This cipher uses a simple substitution method. Can you crack the code?
+### Hall of Fame
+Currently, there are no credited solvers.
 
----
+### Credits
+Today's new solvers: **None**
+Today's lore suggesters: **None**
+
+### Day 120 Puzzle — Coding Challenge
+Write a Python function that calculates the total power distribution across the network given a list of relay nodes with their respective power outputs. The function should take into account that each node's power output is affected by a malfunction factor, which is provided as a separate list. The malfunction factor for each node is a value between 0 and 1, where 1 means the node is functioning perfectly and 0 means it is not functioning at all.
+
+```python
+# Example input:
+# power_outputs = [100, 200, 300]
+# malfunction_factors = [0.8, 0.9, 0.7]
+
+# Your function here
+```
+
+Solve this challenge by creating a Pull Request with your solution in the `solutions/` directory.
