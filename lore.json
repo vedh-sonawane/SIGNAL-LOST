@@ -1,8 +1,8 @@
 {
-  "day": 121,
+  "day": 122,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. Previous ciphered message remains unsolved.",
-  "last_challenge": "Write a Python function to calculate the total power distribution across the network given a list of relay nodes with their respective power outputs and malfunction factors.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the given cipher message to uncover a crucial detail about the network's malfunction.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

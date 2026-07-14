@@ -1,37 +1,28 @@
-# Orbital Signal Relay Network Awakening
-Day 120 of ∞
-### Warning: Power Distribution Malfunction Imminent
+# Day 121 of ∞
+## Reception Status: Distorted
+The orbital signal relay network continues to awaken, its intentions unclear. Power distribution malfunctions have raised the stakes, and the previous ciphered message remains unsolved. The darkness deepens.
 
-The orbital signal relay network continues to awaken, its intentions still unclear. The previous ciphered message remains unsolved, and the stakes are rising. We urge all capable individuals to assist in decoding the message and uncovering the network's intentions.
-
-### Current Status
-- Previous ciphered message: **UNSOLVED**
-- Power distribution: **MALFUNCTIONING**
-- Network intention: **UNCLEAR**
-
-### How to Play
-To participate in the decoding effort, follow these steps:
-1. Read the README carefully to understand the current state of the network and the challenge.
-2. To submit a solution, open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. To suggest new lore twists, open an Issue with your idea.
-4. Check back daily for updates on the network's status and new challenges.
+### Previous Status
+- **Power Distribution Malfunction**: Unsolved Python function to calculate total power distribution across the network.
+- **Ciphered Message**: Remains unsolved.
 
 ### Hall of Fame
-Currently, there are no credited solvers.
+Currently empty, awaiting the first solvers to claim their place.
 
-### Credits
-Today's new solvers: **None**
-Today's lore suggesters: **None**
+### New Developments
+No new solvers or lore suggesters have emerged in the last 24 hours.
 
-### Day 120 Puzzle — Coding Challenge
-Write a Python function that calculates the total power distribution across the network given a list of relay nodes with their respective power outputs. The function should take into account that each node's power output is affected by a malfunction factor, which is provided as a separate list. The malfunction factor for each node is a value between 0 and 1, where 1 means the node is functioning perfectly and 0 means it is not functioning at all.
+### How to Play
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is how you submit your answers to the daily puzzles.
+2. **Suggest Lore**: Open an Issue to suggest new lore twists. This helps shape the story and can earn you recognition.
+3. **Participate Daily**: Check back every day for a new puzzle. The puzzle type rotates daily between coding challenges, ciphers, riddles, and logic puzzles.
 
-```python
-# Example input:
-# power_outputs = [100, 200, 300]
-# malfunction_factors = [0.8, 0.9, 0.7]
-
-# Your function here
+### Day 121 Puzzle — Cipher
+Decode the following message to uncover a crucial detail about the network's malfunction:
 ```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic method. Decoding it will reveal a key aspect of the network's current state.
 
-Solve this challenge by creating a Pull Request with your solution in the `solutions/` directory.
+## Credits
+No new solvers or lore suggesters to credit today.
