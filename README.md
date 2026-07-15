@@ -1,28 +1,36 @@
-# Day 121 of ∞
-## Reception Status: Distorted
-The orbital signal relay network continues to awaken, its intentions unclear. Power distribution malfunctions have raised the stakes, and the previous ciphered message remains unsolved. The darkness deepens.
+# Orbital Signal Relay Network Awakening
+Day 122 of ∞
+=====================================
 
-### Previous Status
-- **Power Distribution Malfunction**: Unsolved Python function to calculate total power distribution across the network.
-- **Ciphered Message**: Remains unsolved.
+### Transmission Received
 
-### Hall of Fame
-Currently empty, awaiting the first solvers to claim their place.
+The orbital signal relay network continues to awaken, its intent unclear. Power distribution malfunctions persist, and the stakes are rising. A previous ciphered message remains unsolved, and the network's behavior is becoming increasingly erratic.
 
-### New Developments
-No new solvers or lore suggesters have emerged in the last 24 hours.
+### Community Update
+
+No new solvers have emerged, and no lore suggestions have been submitted in the last 24 hours. The community's efforts are crucial in uncovering the truth behind the network's malfunction.
 
 ### How to Play
-1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. This is how you submit your answers to the daily puzzles.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists. This helps shape the story and can earn you recognition.
-3. **Participate Daily**: Check back every day for a new puzzle. The puzzle type rotates daily between coding challenges, ciphers, riddles, and logic puzzles.
 
-### Day 121 Puzzle — Cipher
-Decode the following message to uncover a crucial detail about the network's malfunction:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a classic method. Decoding it will reveal a key aspect of the network's current state.
+To participate in the investigation, follow these steps:
 
-## Credits
-No new solvers or lore suggesters to credit today.
+1. **Submit solutions**: Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. This will allow you to share your solution to the current puzzle.
+2. **Suggest lore twists**: Open an Issue to propose new lore ideas or twists. This will help shape the narrative and provide new leads for the investigation.
+3. **Collaborate**: Discuss your findings and theories with other players by commenting on Issues and Pull Requests.
+
+### Hall of Fame
+
+The following players have contributed to the investigation:
+
+*None*
+
+### Day 122 Puzzle — Coding Challenge
+
+Create a Python function that calculates the number of possible signal relay combinations given a list of active relays. The function should take a list of relay IDs as input and return the total number of combinations.
+
+Example input: `[1, 2, 3, 4, 5]`
+Example output: `32`
+
+### Credits
+
+No new solvers or lore suggesters have been credited today.
