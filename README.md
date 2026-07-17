@@ -1,28 +1,24 @@
-# Orbital Signal Relay Network AWAKENING
-## Day 123 of ∞
-The silence is deafening. The power distribution malfunction persists, and our attempts to communicate with the network have been met with an unsettling quiet. The previous ciphered message remains unsolved, and the stakes have never been higher. We can only assume that the network is still awakening, its intent unclear.
+# Orbital Signal Relay Network — Awakening
+Day 124 of ∞
+### Status: Malfunctioning
+The network continues to awaken, but its intent remains unclear. Power distribution malfunctions have been reported, and the stakes are rising. A previous ciphered message remains unsolved, and the lack of progress is concerning.
 
-### Previous Challenges
-Our previous challenge, a coding puzzle to calculate the number of possible signal relay combinations, remains unsolved. We urge the community to continue working on this problem, as the solution may hold the key to understanding the network's behavior.
+### Community Updates
+No new solvers have emerged to tackle yesterday's challenge, and no lore suggestions have been submitted. The community's inaction is deafening.
 
-### New Challenge
-### Day 123 Puzzle — Cipher
-We have received a new transmission from the network, encoded in a simple substitution cipher. The message reads:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-We need your help to decode this message and uncover the network's secrets.
+### Hall of Fame
+*No solvers have been credited yet.*
 
-## How to Play
-To participate in this challenge, follow these steps:
-1. Fork this repository.
+### How to Play
+To participate, follow these steps:
+1. Read the README carefully to understand the current state of the network and the challenge.
 2. Create a new file under the `solutions/` directory, based on the `solutions/TEMPLATE.md` file.
-3. Add your solution to the file, including a clear explanation of your approach.
-4. Open a Pull Request to submit your solution.
-To suggest new lore twists, open an Issue with your idea.
+3. Submit your solution as a Pull Request.
+4. To suggest new lore twists, open an Issue.
 
-## Hall of Fame
-Our Hall of Fame remains empty, awaiting the first solvers to be credited.
+### Day 124 Puzzle — Cipher
+A mysterious message has been intercepted:
+`GUR PENML XRL VF ZL FRPERG CBFG`
+Can you decipher the message and uncover its meaning?
 
-## Credits
-We acknowledge the contributions of our community members who have worked tirelessly to solve the previous challenges. Unfortunately, no new solvers or lore suggesters have come forward in the past 24 hours.
+# Remember to submit your solution as a Pull Request and follow the instructions in the `solutions/TEMPLATE.md` file.
