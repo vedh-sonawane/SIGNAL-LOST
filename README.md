@@ -1,24 +1,24 @@
-# Orbital Signal Relay Network — Awakening
-Day 124 of ∞
-### Status: Malfunctioning
-The network continues to awaken, but its intent remains unclear. Power distribution malfunctions have been reported, and the stakes are rising. A previous ciphered message remains unsolved, and the lack of progress is concerning.
+# Orbital Signal Relay Network
+## Day 125 of ∞
+The silence is unsettling. The network stirs, yet no clear signal emerges. Power fluctuations worsen, and the stakes grow higher. The previous ciphered message remains a mystery, and yesterday's coding challenge went unmet.
 
-### Community Updates
-No new solvers have emerged to tackle yesterday's challenge, and no lore suggestions have been submitted. The community's inaction is deafening.
+### Yesterday's Inactivity
+No solutions were submitted for the Python function to calculate signal relay combinations. The network waits.
 
-### Hall of Fame
-*No solvers have been credited yet.*
+### New Activity
+None. The void is deafening.
 
 ### How to Play
-To participate, follow these steps:
-1. Read the README carefully to understand the current state of the network and the challenge.
-2. Create a new file under the `solutions/` directory, based on the `solutions/TEMPLATE.md` file.
-3. Submit your solution as a Pull Request.
-4. To suggest new lore twists, open an Issue.
+To participate, submit your solutions by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. For coding challenges, include your code in the markdown file. For other challenges, describe your solution and reasoning. To suggest new lore twists, open an Issue.
 
-### Day 124 Puzzle — Cipher
-A mysterious message has been intercepted:
-`GUR PENML XRL VF ZL FRPERG CBFG`
-Can you decipher the message and uncover its meaning?
+### Hall of Fame
+Currently, no solvers have been credited.
 
-# Remember to submit your solution as a Pull Request and follow the instructions in the `solutions/TEMPLATE.md` file.
+### Current Solvers and Lore Suggesters
+None have come forward in the last 24 hours.
+
+### Day 125 Puzzle — Cipher
+A new message arrives, encoded in a simple substitution cipher where each letter is shifted 3 positions forward in the alphabet. Decode the message: `khoor zruog`. What does it reveal about the network's intentions?
+
+## Credits
+No new solvers or lore suggesters to credit today.
