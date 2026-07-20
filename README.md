@@ -1,28 +1,29 @@
-# Orbital Signal Relay Network
-## Day 126 of ∞
-The network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. We await your assistance in unraveling the mysteries of the orbital signal relay network.
+# Orbital Signal Relay Network Awakening
+## Day 127 of ∞
+The silence is deafening. The power distribution malfunction persists, and the stakes continue to rise. Our attempts to calculate the number of possible signal relay combinations have been met with... uncertainty. The network remains shrouded in mystery, its intent unclear.
 
-### Story So Far
-The network's awakening has brought about a mix of fascination and fear. With power distribution malfunctions on the rise, it's crucial that we understand the underlying mechanics of the relay system. However, our efforts have been hindered by the lack of progress in calculating signal relay combinations.
+### Current Status
+- **Power Distribution Malfunction**: Ongoing
+- **Signal Relay Combinations**: Uncalculated
+- **Network Intent**: Unknown
 
 ### How to Play
-To participate in uncovering the truth about the orbital signal relay network:
-1. **Solve the Daily Puzzle**: Find the puzzle for the current day below and solve it.
-2. **Submit Your Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly explained.
-3. **Suggest Lore Twists**: Open an Issue to suggest new lore directions or twists.
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: Open an Issue with your lore twist suggestions.
+3. **Participate**: Join the discussion, collaborate on solutions, and help unravel the mystery.
 
 ### Hall of Fame
-Currently, no solvers have been credited.
+Currently empty. Will you be the first to crack the code?
 
-### New Activity
-No new solvers or lore suggesters have contributed in the last 24 hours.
+### Credits
+- **New Solvers**: None
+- **Lore Suggesters**: None
 
-### Day 126 Puzzle — Cipher
-We've intercepted a cryptic message from the network:
+### Day 127 Puzzle — Cipher
+The following message was intercepted from an unknown source within the network:
 ```
-GUR PENML XRL VF ZL FRPERG
+GUR PENML XRL VF ZL FRPERG CBFG
 ```
-Decipher this message to understand a critical aspect of the network's behavior.
+Can you decipher the message and uncover the truth?
 
-## Credits
-No new solvers or lore suggesters to credit today.
+#
