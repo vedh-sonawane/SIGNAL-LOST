@@ -1,8 +1,8 @@
 {
-  "day": 130,
+  "day": 131,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes",
-  "last_challenge": "Create a function that takes a list of integers as input and returns the maximum sum of a contiguous subarray within the list.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the given cipher message to understand a critical aspect of the network's power distribution",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
