@@ -1,30 +1,27 @@
 # Orbital Signal Relay Network
-Day 130 of ∞
+Day 131 of ∞
 ## Transmission Received
-The network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. The silence from potential solvers is deafening. 
+The network continues to awaken, its intent unclear. Power distribution malfunctions are on the rise, and stakes are escalating. Yesterday's cipher message remains undecoded, leaving a critical aspect of the network's power distribution shrouded in mystery.
 
-Yesterday's coding challenge remains unsolved, and the tension builds. The network's awakening pace seems to be accelerating, leaving us with more questions than answers.
-
-### New Developments
-No new solvers have come forward with a solution to the maximum subarray sum challenge. The lack of progress is concerning, as the network's behavior becomes increasingly erratic.
-
-## How to Play
-To participate in unraveling the mysteries of the Orbital Signal Relay Network:
-1. **Solve the Daily Puzzle**: Find the solution to the challenge presented below.
-2. **Submit Your Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. **Contribute to the Lore**: Suggest new lore twists by opening an Issue.
+## Current Status
+- **Power Distribution:** Malfunctioning
+- **Network Intent:** Unclear
+- **Stakes:** Escalating
 
 ## Hall of Fame
-Currently, no solvers have been credited for their contributions.
+Currently, no solvers have been credited.
+
+## How to Play
+To participate in uncovering the truth behind the Orbital Signal Relay Network:
+1. **Solve Challenges:** Each day, a new puzzle will be presented. Solve it by reading the README alone.
+2. **Submit Solutions:** Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. **Suggest Lore:** Open an Issue to suggest new lore twists.
 
 ## Credits
-No new solvers or lore suggesters have been identified in the last 24 hours.
+- **New Solvers:** None
+- **Lore Suggesters:** None
 
-### Day 130 Puzzle — Cipher
-Decode the following message to understand a critical aspect of the network's power distribution:
-```
-GUR PENML XRL VF ZL FRPERG CBFG
-```
-This cipher uses a well-known encryption technique. Decoding it may reveal a crucial detail about the network's current state.
+### Day 131 Puzzle — Coding Challenge
+Create a Python function `decode_relay_signal` that takes a string input representing a signal received from the orbital relay network. The function should return `True` if the signal indicates a malfunction and `False` otherwise. The signal is considered a malfunction if it contains the sequence "MAL" or "ERR" (case-insensitive).
 
-#
+## JSON Response
