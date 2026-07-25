@@ -1,27 +1,27 @@
-# Orbital Signal Relay Network
-Day 131 of ∞
-## Transmission Received
-The network continues to awaken, its intent unclear. Power distribution malfunctions are on the rise, and stakes are escalating. Yesterday's cipher message remains undecoded, leaving a critical aspect of the network's power distribution shrouded in mystery.
-
-## Current Status
-- **Power Distribution:** Malfunctioning
-- **Network Intent:** Unclear
-- **Stakes:** Escalating
-
-## Hall of Fame
-Currently, no solvers have been credited.
+# Orbital Signal Relay Network Awakening
+Day 132 of ∞
+## Status Update
+The network's power distribution malfunction persists, and the unclear intent of the orbital signal relay network's awakening continues to pose a significant threat. The previous cipher message remains undecoded, and the stakes are rising. We urge all potential solvers to review the existing information and contribute to decoding the message to understand the critical aspect of the network's power distribution.
 
 ## How to Play
-To participate in uncovering the truth behind the Orbital Signal Relay Network:
-1. **Solve Challenges:** Each day, a new puzzle will be presented. Solve it by reading the README alone.
-2. **Submit Solutions:** Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. **Suggest Lore:** Open an Issue to suggest new lore twists.
+To participate in uncovering the truth behind the orbital signal relay network, follow these steps:
+1. Review the README for updates and challenges.
+2. To submit a solution, open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+3. To suggest new lore twists, open an Issue.
+
+## Hall of Fame
+Currently, there are no credited solvers.
 
 ## Credits
-- **New Solvers:** None
-- **Lore Suggesters:** None
+No new solvers or lore suggesters have contributed in the last 24 hours.
 
-### Day 131 Puzzle — Coding Challenge
-Create a Python function `decode_relay_signal` that takes a string input representing a signal received from the orbital relay network. The function should return `True` if the signal indicates a malfunction and `False` otherwise. The signal is considered a malfunction if it contains the sequence "MAL" or "ERR" (case-insensitive).
+### Day 132 Puzzle — Coding Challenge
+Create a Python function `decode_power_distribution()` that takes no arguments and returns a string describing the potential cause of the power distribution malfunction based on the given network diagram:
+```
+  A -- B -- C
+  |    |    |
+  D -- E -- F
+```
+Assuming each node (A-F) has a unique power consumption value (1-6), and the edges represent power transmission lines, determine if there's an imbalance in power distribution that could be causing the malfunction.
 
 ## JSON Response
