@@ -1,29 +1,28 @@
 # Orbital Signal Relay Network Awakening
-Day 135 of ∞
+## Day 136 of ∞
+The silence is deafening. The power distribution malfunction persists, and the stakes grow higher by the hour. We await a solution to the Python function that could potentially identify the cause of this malfunction. So far, none have been forthcoming.
+
 ### Status Update
-The power distribution malfunction persists, and the stakes continue to rise. The network's intent remains unclear, but its awakening is undeniable. The lack of progress in determining the cause of the malfunction has led to a further escalation of the situation.
+- **No solvers have come forward** with a working Python function to determine the cause of the power distribution malfunction.
+- **No new lore suggestions** have been submitted.
 
 ### How to Play
-To participate in this evolving scenario, follow these steps:
-1. Read the current state of the network through this README.
-2. Identify the daily puzzle and attempt to solve it based on the information provided.
-3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-4. To suggest new lore twists, open an Issue with your ideas.
+To participate in this ARG, follow these steps:
+1. **Submit Solutions**: If you think you have a solution to the current puzzle, open a Pull Request with your answer in a file under `solutions/`, based on `solutions/TEMPLATE.md`.
+2. **Suggest Lore**: To add your own twist to the story, open an Issue with your lore suggestion.
 
 ### Hall of Fame
-Currently, there are no credited solvers.
+Currently, **no solvers have been credited**.
 
-### Credits
-No new solvers or lore suggesters have contributed in the last 24 hours.
+### Community Updates
+We recognize the contributions of **no new solvers** and **no lore suggesters** from the past 24 hours.
 
-### Day 135 Puzzle — Cipher
-The following encrypted message was intercepted from the network:
+### Day 136 Puzzle — Cipher
+We intercepted a cryptic message from an unknown source within the network. It reads:
 ```
 GUR PENML XRL VF ZL FRPERG
 ```
-This message is crucial to understanding the network's current state. Can you decipher its meaning?
+Can you decipher its meaning and uncover a potential clue to the network's intentions?
 
-# Community Notes
-No notable community activity has been recorded.
-
----
+## Call to Action
+We urge all capable individuals to assist in decoding this message and to submit their solutions as per the instructions in the 'How to Play' section.
