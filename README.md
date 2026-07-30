@@ -1,28 +1,27 @@
-# Orbital Signal Relay Network Awakening
-## Day 136 of ∞
-The silence is deafening. The power distribution malfunction persists, and the stakes grow higher by the hour. We await a solution to the Python function that could potentially identify the cause of this malfunction. So far, none have been forthcoming.
+# Orbital Signal Relay Network
+## Day 137 of ∞
+The silence is unsettling. The power distribution malfunction persists, and our attempts to diagnose the issue have been met with failure. The network's intentions remain unclear, but one thing is certain: the stakes are rising.
 
-### Status Update
-- **No solvers have come forward** with a working Python function to determine the cause of the power distribution malfunction.
-- **No new lore suggestions** have been submitted.
-
-### How to Play
-To participate in this ARG, follow these steps:
-1. **Submit Solutions**: If you think you have a solution to the current puzzle, open a Pull Request with your answer in a file under `solutions/`, based on `solutions/TEMPLATE.md`.
-2. **Suggest Lore**: To add your own twist to the story, open an Issue with your lore suggestion.
+### Update
+No new developments have been reported in the last 24 hours. The community's efforts to resolve the power distribution malfunction have been unsuccessful, and the network remains shrouded in mystery.
 
 ### Hall of Fame
-Currently, **no solvers have been credited**.
+Currently, there are no credited solvers.
 
-### Community Updates
-We recognize the contributions of **no new solvers** and **no lore suggesters** from the past 24 hours.
+### How to Play
+To participate in this experiment, follow these steps:
+1. Read the README carefully to understand the current state of the network.
+2. Identify the daily puzzle and attempt to solve it.
+3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
+4. To suggest new lore twists, open an Issue and share your ideas.
+5. Check back tomorrow for updates, credits, and the next puzzle.
 
-### Day 136 Puzzle — Cipher
-We intercepted a cryptic message from an unknown source within the network. It reads:
-```
-GUR PENML XRL VF ZL FRPERG
-```
-Can you decipher its meaning and uncover a potential clue to the network's intentions?
+### Day 137 Puzzle — Cipher
+The following cryptic message has been intercepted from the network:
+`GUR PENML XRL VF ZL FRPERG`
+Can you decipher the message and uncover its meaning?
 
-## Call to Action
-We urge all capable individuals to assist in decoding this message and to submit their solutions as per the instructions in the 'How to Play' section.
+## Credits
+No new solvers or lore suggesters have been credited today.
+
+---
