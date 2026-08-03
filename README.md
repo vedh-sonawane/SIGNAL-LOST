@@ -1,44 +1,28 @@
-# Orbital Signal Relay Network Awakening
-Day 140 of ∞
-### Transmission Received
+# Day 141 of ∞
+## Transmission Received
+The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions persist, and the stakes are rising. The lack of progress in identifying nodes that are over capacity has led to increased instability in the network. Time is of the essence.
 
-The network's power distribution malfunction persists, and the stakes continue to rise. The encoded message from yesterday remains undeciphered, and the silence is deafening. The intent of the orbital signal relay network remains unclear, but one thing is certain: time is running out.
+## Current Status
+The network's power distribution system remains a critical concern. Without a functional solution to identify over-capacity nodes, the risk of catastrophic failure grows by the hour.
 
-### Current Status
-The network's behavior is still unpredictable, and the malfunctioning power distribution system is causing widespread disruptions. The encoded message, if deciphered, could hold the key to understanding the network's true purpose.
+## How to Play
+To participate in this ongoing investigation, follow these steps:
+1. **Submit Solutions**: If you believe you can contribute to stabilizing the network, submit your solutions by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. Clearly describe your approach and solution.
+2. **Suggest Lore**: Have a theory about the network's intent or want to suggest a lore twist? Open an Issue to share your ideas.
+3. **Collaborate**: Engage with other participants through Issues and Pull Requests to refine your solutions and theories.
 
-### How to Play
-To participate in the awakening of the orbital signal relay network, follow these steps:
-1. Read the transmission carefully to understand the current state of the network.
-2. Solve the daily puzzle to uncover more information about the network's behavior.
-3. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-4. Suggest new lore twists by opening an Issue.
+## Hall of Fame
+Currently, no solvers have been credited for their contributions.
 
-### Hall of Fame
- Currently, there are no credited solvers.
+## Credits
+No new solvers or lore suggesters have been recognized in the last 24 hours.
 
-### New Activity
-No new solvers or lore suggesters have come forward in the last 24 hours.
-
-### Day 140 Puzzle — Coding Challenge
-Write a Python function that simulates a simple power distribution system. The function should take a list of relay nodes as input, where each node is represented by a dictionary containing the node's ID, power capacity, and current power usage. The function should return a list of nodes that are currently over capacity.
-
-Example input:
-```python
-nodes = [
-    {'id': 1, 'capacity': 100, 'usage': 50},
-    {'id': 2, 'capacity': 50, 'usage': 70},
-    {'id': 3, 'capacity': 200, 'usage': 150}
-]
+### Day 141 Puzzle — Cipher
+A critical message has been intercepted, but it's encoded. Decode the message to understand a potential vulnerability in the network's power distribution:
 ```
-Example output:
-```python
-over_capacity_nodes = [
-    {'id': 2, 'capacity': 50, 'usage': 70}
-]
+GUR PENML XRL VF ZL FRPERG CBFG
 ```
-Can you write the function to identify the nodes that are over capacity?
+This cipher uses a simple substitution method. Can you crack the code?
 
-No community members have contributed solutions or lore suggestions yet.
-
-#
+## Note
+The community's lack of progress on the previous challenge has heightened the urgency of the situation. It's crucial that the cipher is decoded quickly to provide insight into the network's current state.
