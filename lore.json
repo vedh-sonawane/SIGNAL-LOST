@@ -1,8 +1,8 @@
 {
-  "day": 143,
+  "day": 144,
   "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes",
-  "last_challenge": "A cipher puzzle to decode the message 'GUR PENML XRL VF ZL FRPERG'",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a Python function to decode a signal by flipping its binary bits and counting the changes.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
