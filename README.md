@@ -1,26 +1,24 @@
 # Orbital Signal Relay Network Awakening
-## Day 144 of ∞
-The silence is deafening. The network stirs, its power distribution malfunction worsening by the hour. The stakes have never been higher. We await a beacon of hope, a signal that we are not alone in this vast, dark expanse.
-
-### Yesterday's Inactivity
-No solutions were submitted for the Python function to decode the signal. The network remains shrouded in mystery. 
+Day 145 of ∞
+### Status Update
+The network continues to stir, its intentions unclear. Power distribution malfunctions persist, and the stakes are rising. Yesterday's challenge to decode a signal by flipping its binary bits and counting the changes remains unsolved. The silence is deafening.
 
 ### How to Play
-To participate, follow these steps:
-1. **Submit a Solution**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly documented and addresses the current puzzle.
-2. **Suggest Lore**: Open an Issue to suggest new lore twists or theories about the network's intent and the malfunction.
-3. **Stay Updated**: Check this README daily for new puzzles, story progress, and credits for solvers and lore contributors.
+To participate in this orbital signal relay network awakening, follow these steps:
+1. **Solve the Daily Puzzle**: Read the puzzle description below and submit your solution as a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
+2. **Contribute to the Lore**: Suggest new lore twists by opening Issues. Your contributions can shape the narrative.
+3. **Check Back Daily**: The puzzle and narrative will evolve daily.
 
 ### Hall of Fame
-Currently, no solvers have been credited.
+Currently, there are no credited solvers. Will you be the first to crack the code?
 
-### Credits for Day 143
-No new solvers or lore suggesters to credit.
+### Credits
+No new solvers or lore suggesters to credit today. The network remains quiet, waiting for your input.
 
-### Day 144 Puzzle — Cipher
- Decode the following encrypted message using a Caesar cipher with a shift of 3:
-`Khoor Zruog`
+### Day 145 Puzzle — Cipher
+Decode the following message to unlock a crucial piece of information about the network's intentions:
+`GUR PENML XRL VF ZL FRPERG`
+This cipher uses a classic encryption technique. Can you decipher the message?
 
-## Important Notes
-- The network's power distribution continues to deteriorate.
-- Time is of the essence; each passing day increases the risk of total network failure.
+# Community Updates
+- No new solvers or lore suggesters to report.
