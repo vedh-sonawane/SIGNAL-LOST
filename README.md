@@ -1,24 +1,27 @@
-# Orbital Signal Relay Network Awakening
-Day 145 of ∞
-### Status Update
-The network continues to stir, its intentions unclear. Power distribution malfunctions persist, and the stakes are rising. Yesterday's challenge to decode a signal by flipping its binary bits and counting the changes remains unsolved. The silence is deafening.
+# Orbital Signal Relay Network
+## Day 146 of ∞
+The silence is deafening. The network stirs, yet we remain in the dark. Power distribution malfunctions have become more frequent, and the stakes are higher than ever. We await your expertise to unravel the mysteries of the orbital signal relay network.
+
+### Story So Far
+The network's awakening has brought more questions than answers. With the power distribution malfunction, the situation grows more dire by the day. We have yet to uncover the intent behind this awakening, but we must press on.
 
 ### How to Play
-To participate in this orbital signal relay network awakening, follow these steps:
-1. **Solve the Daily Puzzle**: Read the puzzle description below and submit your solution as a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`.
-2. **Contribute to the Lore**: Suggest new lore twists by opening Issues. Your contributions can shape the narrative.
-3. **Check Back Daily**: The puzzle and narrative will evolve daily.
+To participate, follow these steps:
+1. Read the daily puzzle in the README.
+2. Solve the puzzle based on the information provided.
+3. Create a new file under the `solutions/` directory using `solutions/TEMPLATE.md` as a guide.
+4. Submit your solution as a Pull Request.
+5. To suggest new lore, open an Issue with your idea.
 
 ### Hall of Fame
-Currently, there are no credited solvers. Will you be the first to crack the code?
+Our Hall of Fame remains empty, awaiting the first solvers to crack the code.
+
+### New Activity
+No new solvers have emerged, and no lore suggestions have been made in the last 24 hours.
+
+### Day 146 Puzzle — Cipher
+Decode the following message to uncover a crucial piece of information:
+`GUR PENML XRL VF ZL FRPERG`
 
 ### Credits
-No new solvers or lore suggesters to credit today. The network remains quiet, waiting for your input.
-
-### Day 145 Puzzle — Cipher
-Decode the following message to unlock a crucial piece of information about the network's intentions:
-`GUR PENML XRL VF ZL FRPERG`
-This cipher uses a classic encryption technique. Can you decipher the message?
-
-# Community Updates
-- No new solvers or lore suggesters to report.
+No new solvers or lore suggesters to credit today.
