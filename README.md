@@ -1,27 +1,23 @@
-# Orbital Signal Relay Network
-## Day 146 of ∞
-The silence is deafening. The network stirs, yet we remain in the dark. Power distribution malfunctions have become more frequent, and the stakes are higher than ever. We await your expertise to unravel the mysteries of the orbital signal relay network.
+# Orbital Signal Relay Network - Day 147 of ∞
+## Transmission Received
 
-### Story So Far
-The network's awakening has brought more questions than answers. With the power distribution malfunction, the situation grows more dire by the day. We have yet to uncover the intent behind this awakening, but we must press on.
+We continue to experience power distribution malfunctions and rising stakes as the orbital signal relay network awakens. The intent behind this awakening remains unclear, and our situation grows more precarious by the day.
 
-### How to Play
-To participate, follow these steps:
-1. Read the daily puzzle in the README.
-2. Solve the puzzle based on the information provided.
-3. Create a new file under the `solutions/` directory using `solutions/TEMPLATE.md` as a guide.
-4. Submit your solution as a Pull Request.
-5. To suggest new lore, open an Issue with your idea.
+### Day 147 Puzzle — Cipher
+Decode the following message to uncover a critical system identifier:
+```
+GUR PENML XRL VF ZL FRPERG CBFG
+```
+This cipher uses a classic encryption technique. Can you decipher the message before it's too late?
 
-### Hall of Fame
-Our Hall of Fame remains empty, awaiting the first solvers to crack the code.
+## How to Play
+To participate in this ordeal, follow these steps:
+1. **Submit Solutions**: Open a Pull Request adding a file under `solutions/` based on `solutions/TEMPLATE.md`. Ensure your solution is clearly described and follows the format.
+2. **Suggest Lore**: Open an Issue to propose new lore twists or theories about the orbital signal relay network.
+3. **Collaborate**: Discuss with other players in the Issues section to share insights and coordinate efforts.
 
-### New Activity
-No new solvers have emerged, and no lore suggestions have been made in the last 24 hours.
+## Hall of Fame
+Currently, no solvers have been credited. Will you be the first to crack the code?
 
-### Day 146 Puzzle — Cipher
-Decode the following message to uncover a crucial piece of information:
-`GUR PENML XRL VF ZL FRPERG`
-
-### Credits
-No new solvers or lore suggesters to credit today.
+## Credits
+No new solvers or lore suggesters have contributed in the last 24 hours.
