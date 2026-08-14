@@ -1,29 +1,26 @@
-# Orbital Signal Relay Network Awakening
-Day 151 of ∞
-### Warning: Signal Integrity Compromised
-The orbital signal relay network continues to awaken, its intent still unclear. Power distribution malfunctions have caused widespread disruptions, and the stakes are rising. The lack of progress in decoding the signal has led to increased tension.
+# Orbital Signal Relay Network
+Day 152 of ∞
+## Transmission Received
+The network stirs, its intentions unclear. Power distribution malfunctions have been reported, and the stakes are rising. The previous attempt to decode a signal by flipping its binary bits and counting the changes remains unresolved.
 
-### Current Status
-- Power distribution: **Critical**
-- Signal integrity: **Compromised**
-- Network intent: **Unknown**
+## Current Status
+No progress has been made in resolving the power distribution issue. The network remains in a state of heightened alert.
 
-### How to Play
-To participate in the decoding efforts, follow these steps:
-1. Read the README for the daily puzzle.
+## Hall of Fame
+*No solvers have been credited yet.*
+
+## How to Play
+To participate in the orbital signal relay network challenge, follow these steps:
+1. Read the daily puzzle in the README.
 2. Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
 3. To suggest new lore twists, open an Issue.
 
-### Hall of Fame
-Currently, there are no credited solvers.
+## Credits
+*No new solvers or lore suggesters to credit today.*
 
-### Day 151 Puzzle — Cipher
-The following message has been intercepted from the orbital signal relay network:
+### Day 152 Puzzle — Cipher
+A mysterious message has been intercepted:
 `GUR PENML XRL VF ZL FRPERG`
-Decode this message to uncover a crucial piece of information about the network's intent.
+Can you decipher the meaning behind this message?
 
-### Credits
-No new solvers or lore suggesters have been credited today.
-
-### Call to Action
-We urgently need your help to decode the signal and understand the network's intent. Submit your solution to the Day 151 puzzle to contribute to the efforts.
+# README updated. Awaiting input.
