@@ -8,6 +8,11 @@ import requests
 from dotenv import load_dotenv
 from github import Auth, Github  # pyright: ignore[reportMissingImports]
 
+try:
+    import google.generativeai as genai
+except ImportError:
+    genai = None
+
 
 load_dotenv()
 
@@ -248,25 +253,13 @@ def call_gemini(system_prompt: str, user_prompt: str) -> str:
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY not set")
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
-    contents = [
-        {
-            "role": "user",
-            "parts": [
-                {"text": system_prompt + "\n\n---\n\n" + user_prompt},
-            ],
-        }
-    ]
-    payload = {"contents": contents}
-    resp = requests.post(url, json=payload, timeout=60)
-    resp.raise_for_status()
-    data = resp.json()
-    candidates = data.get("candidates") or []
-    if not candidates:
-        raise RuntimeError("Gemini returned no candidates")
-    parts = candidates[0].get("content", {}).get("parts", [])
-    text = "".join(part.get("text", "") for part in parts)
-    return text
+    if genai is None:
+        raise RuntimeError("google-generativeai package not installed. Please add it to requirements.txt")
+
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel("gemini-2.0-flash")
+    response = model.generate_content(system_prompt + "\n\n---\n\n" + user_prompt)
+    return response.text
 
 
 def call_model(system_prompt: str, user_prompt: str) -> str:
