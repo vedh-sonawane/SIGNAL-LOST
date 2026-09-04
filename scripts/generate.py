@@ -235,14 +235,14 @@ def call_groq(system_prompt: str, user_prompt: str) -> str:
         "Content-Type": "application/json",
     }
     payload = {
-        "model": "llama-3.3-70b-versatile",
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-        "temperature": 0.9,
-        "max_tokens": 2500,
-    }
+    "model": "openai/gpt-oss-120b",   # was: llama-3.3-70b-versatile (deprecated)
+    "messages": [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_prompt},
+    ],
+    "temperature": 0.9,
+    "max_tokens": 2500,
+}
     resp = requests.post(url, headers=headers, json=payload, timeout=60)
     resp.raise_for_status()
     data = resp.json()
@@ -258,8 +258,8 @@ def call_gemini(system_prompt: str, user_prompt: str) -> str:
         raise RuntimeError("google.genai package not installed. Please add google-genai to requirements.txt")
 
     client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model="models/gemini-3.1-pro-preview",
+        response = client.models.generate_content(
+        model="models/gemini-2.5-flash",   # free-tier eligible; Pro models are not
         contents=[
             {"role": "user", "parts": [{"text": system_prompt + "\n\n---\n\n" + user_prompt}]}
         ]
