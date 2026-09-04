@@ -10,8 +10,9 @@ from github import Auth, Github  # pyright: ignore[reportMissingImports]
 
 try:
     from google import genai
+    GENAI_AVAILABLE = True
 except ImportError:
-    genai = None
+    GENAI_AVAILABLE = False
 
 
 load_dotenv()
@@ -253,8 +254,8 @@ def call_gemini(system_prompt: str, user_prompt: str) -> str:
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY not set")
 
-    if genai is None:
-        raise RuntimeError("google.genai package not installed. Please add it to requirements.txt")
+    if not GENAI_AVAILABLE:
+        raise RuntimeError("google.genai package not installed. Please add google-genai to requirements.txt")
 
     client = genai.Client(api_key=api_key)
     response = client.models.generate_content(
