@@ -1,27 +1,46 @@
-# Orbital Signal Relay Network Awakening
-Day 154 of ∞
-### Warning: Network Intent Unclear, Power Distribution Malfunction Escalating
-The orbital signal relay network continues to awaken, its intentions shrouded in mystery. The power distribution malfunction has reached critical levels, threatening the stability of the entire network. The lack of progress in deciphering the network's intent has heightened tensions among the community.
+# 📡 Transmission Log – Day 155 of ∞  
 
-### Previous Challenges
-The previous cipher puzzle remains unsolved, leaving a critical piece of information about the network's intent unknown. The community's inability to crack the code has raised the stakes, and the situation is becoming increasingly dire.
+**Status:** Orbital relay array pulses with an erratic rhythm. Power fluctuations ripple through the lattice, and the silence between bursts grows heavier. The last signal was a garbled code that no one could untangle. The network seems to be… listening.
 
-### New Developments
-No new solvers have come forward, and no lore suggestions have been made in the past 24 hours. The community's silence is deafening, and the network's awakening continues unchecked.
+---
 
-### How to Play
-To participate in the awakening of the orbital signal relay network, follow these steps:
-1. Read the README carefully to understand the current state of the network and the challenges that lie ahead.
-2. Submit your solutions to the daily puzzle by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.
-3. Suggest new lore twists by opening Issues.
-4. Check back daily for updates on the network's status and new challenges.
+## 📖 Story Recap  
+The relay network has begun to awaken. Its purpose is unknown, but its signals are growing louder, its power distribution erratic, and the stakes are rising. Yesterday’s coding challenge went unanswered, and the relays have responded with a deeper, more cryptic transmission.
 
-### Hall of Fame
-The following solvers have made significant contributions to the community:
-*None*
+---
 
-### Day 154 Puzzle — Coding Challenge
-Write a Python function that takes a list of integers as input and returns the maximum sum of a contiguous subarray within the list. The function should handle empty lists and lists with a single element.
+## 🕹️ How to Play  
 
-### Credits
-No new solvers or lore suggesters have been credited today.
+1. **Read the transmission** (this README). All clues you need are embedded within.  
+2. **Solve the daily puzzle**.  
+   - Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Suggest lore twists** by opening an Issue.  
+4. **Tomorrow’s transmission** will credit today’s solvers and any lore suggestions by GitHub username.  
+
+---
+
+## 🧩 Day 155 Puzzle — Cipher  
+
+The network has sent a new encrypted burst. Decode it to learn what the relays are trying to convey.
+
+```
+YMJ SJYBTWP FBFPJSX
+```
+
+*The pattern is simple, but the shift is not obvious. The answer is a short, all‑caps phrase that may hint at the network’s intent.*
+
+---
+
+## 🏆 Hall of Fame  
+
+*No solvers yet.*  
+
+---
+
+## 📡 Credits  
+
+*No new solvers or lore suggesters in the last 24 hours.*  
+
+---  
+
+*The darkness between the pulses deepens. Every unanswered signal may be a warning…*

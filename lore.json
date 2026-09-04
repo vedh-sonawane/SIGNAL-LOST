@@ -1,8 +1,8 @@
 {
-  "day": 155,
-  "story_summary": "Orbital signal relay network awakening with unclear intent, power distribution malfunction, and rising stakes. The community's inability to solve the previous cipher puzzle has heightened tensions.",
-  "last_challenge": "Write a Python function that takes a list of integers as input and returns the maximum sum of a contiguous subarray within the list.",
-  "last_challenge_type": "coding",
+  "day": 156,
+  "story_summary": "The orbital relay network is awakening with erratic power and increasing hostility; yesterday's coding challenge went unsolved, heightening tension.",
+  "last_challenge": "Decode the Caesar‑shifted ciphertext 'YMJ SJYBTWP FBFPJSX' sent by the network. The shift is constant and the plaintext is an all‑caps phrase indicating the network's intent.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
