@@ -257,7 +257,7 @@ def call_gemini(system_prompt: str, user_prompt: str) -> str:
         raise RuntimeError("google-generativeai package not installed. Please add it to requirements.txt")
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.0-flash-exp")
     response = model.generate_content(system_prompt + "\n\n---\n\n" + user_prompt)
     return response.text
 
