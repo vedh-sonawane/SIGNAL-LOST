@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from github import Auth, Github  # pyright: ignore[reportMissingImports]
 
 try:
-    import google.generativeai as genai
+    from google import genai
 except ImportError:
     genai = None
 
@@ -254,11 +254,15 @@ def call_gemini(system_prompt: str, user_prompt: str) -> str:
         raise RuntimeError("GEMINI_API_KEY not set")
 
     if genai is None:
-        raise RuntimeError("google-generativeai package not installed. Please add it to requirements.txt")
+        raise RuntimeError("google.genai package not installed. Please add it to requirements.txt")
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-2.5-pro")
-    response = model.generate_content(system_prompt + "\n\n---\n\n" + user_prompt)
+    client = genai.Client(api_key=api_key)
+    response = client.models.generate_content(
+        model="models/gemini-3.1-pro-preview",
+        contents=[
+            {"role": "user", "parts": [{"text": system_prompt + "\n\n---\n\n" + user_prompt}]}
+        ]
+    )
     return response.text
 
 
