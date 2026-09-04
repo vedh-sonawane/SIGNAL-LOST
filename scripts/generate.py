@@ -248,7 +248,6 @@ def call_groq(system_prompt: str, user_prompt: str) -> str:
     data = resp.json()
     return data["choices"][0]["message"]["content"]
 
-
 def call_gemini(system_prompt: str, user_prompt: str) -> str:
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -257,8 +256,7 @@ def call_gemini(system_prompt: str, user_prompt: str) -> str:
     if not GENAI_AVAILABLE:
         raise RuntimeError("google.genai package not installed. Please add google-genai to requirements.txt")
 
-    client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(
+    response = client.models.generate_content(
         model="models/gemini-2.5-flash",   # free-tier eligible; Pro models are not
         contents=[
             {"role": "user", "parts": [{"text": system_prompt + "\n\n---\n\n" + user_prompt}]}
