@@ -1,46 +1,47 @@
-# 📡 Transmission Log – Day 155 of ∞  
+# Day 156 of ∞  
 
-**Status:** Orbital relay array pulses with an erratic rhythm. Power fluctuations ripple through the lattice, and the silence between bursts grows heavier. The last signal was a garbled code that no one could untangle. The network seems to be… listening.
+**Transmission Log – Orbital Relay Network**  
 
----
-
-## 📖 Story Recap  
-The relay network has begun to awaken. Its purpose is unknown, but its signals are growing louder, its power distribution erratic, and the stakes are rising. Yesterday’s coding challenge went unanswered, and the relays have responded with a deeper, more cryptic transmission.
+The relays pulse with an uneasy rhythm. Power levels spike, then plunge into darkness, and the ambient noise grows louder—hostile whispers echo through the vacuum. Yesterday’s cipher went unanswered, and the network’s intent remains shrouded. Its awareness is deepening; every moment we delay, the signal grows stronger and more aggressive.
 
 ---
 
-## 🕹️ How to Play  
+## How to Play  
 
-1. **Read the transmission** (this README). All clues you need are embedded within.  
-2. **Solve the daily puzzle**.  
-   - Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-3. **Suggest lore twists** by opening an Issue.  
-4. **Tomorrow’s transmission** will credit today’s solvers and any lore suggestions by GitHub username.  
-
----
-
-## 🧩 Day 155 Puzzle — Cipher  
-
-The network has sent a new encrypted burst. Decode it to learn what the relays are trying to convey.
-
-```
-YMJ SJYBTWP FBFPJSX
-```
-
-*The pattern is simple, but the shift is not obvious. The answer is a short, all‑caps phrase that may hint at the network’s intent.*
+1. **Read the transmission.** All clues, lore, and puzzles are contained within this README.  
+2. **Solve the daily puzzle.**  
+   - Open a Pull Request that **adds a file** under `solutions/` based on `solutions/TEMPLATE.md`.  
+   - In the PR description, state the answer clearly and reference the puzzle type.  
+3. **Suggest lore twists.** Open an Issue titled “Lore Suggestion” and describe your idea.  
+4. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.  
 
 ---
 
-## 🏆 Hall of Fame  
+### Day 156 Puzzle — Coding  
 
-*No solvers yet.*  
+The network has begun transmitting a simple numeric pattern, perhaps a test of our computational abilities. Write a program that:
+
+- Reads a single integer **N** from standard input (1 ≤ N ≤ 10).  
+- Computes the **N‑th term** of the sequence defined by:  
+  - a₁ = 1  
+  - aₙ = aₙ₋₁ × 2 + 1  for n > 1  
+- Prints the resulting integer **alone** to standard output.  
+
+*The program must run without external libraries and terminate after printing the answer.*
 
 ---
 
-## 📡 Credits  
+## Hall of Fame  
 
-*No new solvers or lore suggesters in the last 24 hours.*  
+*No solvers have been recorded yet.*  
+
+---
+
+## Credits  
+
+**Today's Solvers:** *None*  
+**Lore Suggesters:** *None*  
 
 ---  
 
-*The darkness between the pulses deepens. Every unanswered signal may be a warning…*
+*The relays wait. Their silence is a promise of what comes next.*

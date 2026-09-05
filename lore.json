@@ -1,8 +1,8 @@
 {
-  "day": 156,
-  "story_summary": "The orbital relay network is awakening with erratic power and increasing hostility; yesterday's coding challenge went unsolved, heightening tension.",
-  "last_challenge": "Decode the Caesar‑shifted ciphertext 'YMJ SJYBTWP FBFPJSX' sent by the network. The shift is constant and the plaintext is an all‑caps phrase indicating the network's intent.",
-  "last_challenge_type": "cipher",
+  "day": 157,
+  "story_summary": "The orbital relay network flickers, its power surges erratically and hostile signals intensify after yesterday's unsolved cipher.",
+  "last_challenge": "Write a program that reads an integer N (1-10) and outputs the Nth term of the sequence a1=1, an = an-1*2+1.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
