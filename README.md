@@ -1,47 +1,51 @@
-# Day 156 of ∞  
+# 📡 Transmission Log – Day 157 of ∞  
 
-**Transmission Log – Orbital Relay Network**  
-
-The relays pulse with an uneasy rhythm. Power levels spike, then plunge into darkness, and the ambient noise grows louder—hostile whispers echo through the vacuum. Yesterday’s cipher went unanswered, and the network’s intent remains shrouded. Its awareness is deepening; every moment we delay, the signal grows stronger and more aggressive.
+**Status:** The orbital relay network flickers. Power surges cascade through the array, and hostile signals grow louder after yesterday’s unsolved cipher. The silence between the beeps feels heavier, as if the network itself is listening.
 
 ---
 
-## How to Play  
+## 📖 Story So Far  
 
-1. **Read the transmission.** All clues, lore, and puzzles are contained within this README.  
-2. **Solve the daily puzzle.**  
-   - Open a Pull Request that **adds a file** under `solutions/` based on `solutions/TEMPLATE.md`.  
-   - In the PR description, state the answer clearly and reference the puzzle type.  
-3. **Suggest lore twists.** Open an Issue titled “Lore Suggestion” and describe your idea.  
-4. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.  
+The network’s heartbeat has become erratic. Each relay node emits a faint pulse, then a burst of static, as unknown forces scramble to seize control. Our last attempt to decode a hidden message failed, and the relays now respond with increased interference. Something is awakening, and it’s counting on us to either unlock its secrets or fall silent.
 
 ---
 
-### Day 156 Puzzle — Coding  
+## 🕹️ How to Play  
 
-The network has begun transmitting a simple numeric pattern, perhaps a test of our computational abilities. Write a program that:
+1. **Read the transmission.** Every day a new puzzle is embedded in the README.  
+2. **Solve the puzzle.** Submit your answer by opening a Pull Request that adds a file under `solutions/` (use `solutions/TEMPLATE.md` as a guide).  
+3. **Suggest lore.** Have an idea for how the network’s story should evolve? Open an Issue with your twist.  
+4. **Tomorrow’s log** will credit today’s solvers and lore contributors by GitHub username.
 
-- Reads a single integer **N** from standard input (1 ≤ N ≤ 10).  
-- Computes the **N‑th term** of the sequence defined by:  
-  - a₁ = 1  
-  - aₙ = aₙ₋₁ × 2 + 1  for n > 1  
-- Prints the resulting integer **alone** to standard output.  
-
-*The program must run without external libraries and terminate after printing the answer.*
+*All submissions must be made through the repository; no external channels are recognized.*
 
 ---
 
-## Hall of Fame  
+### Day 157 Puzzle — **cipher**
+
+The relays have transmitted a garbled fragment. It appears to be a simple shift, but the exact offset is hidden within the surrounding noise.
+
+```
+Uifsf jt b tfdsfu dpef
+```
+
+Decode the fragment and reveal the hidden phrase. The answer is a short, English sentence.
+
+---
+
+## 🏆 Hall of Fame  
 
 *No solvers have been recorded yet.*  
 
+(When the first correct solution is merged, the contributor’s GitHub username will appear here.)
+
 ---
 
-## Credits  
+## 💬 Credits  
 
-**Today's Solvers:** *None*  
-**Lore Suggesters:** *None*  
+- **New solvers today:** *(none)*  
+- **Lore suggestions today:** *(none)*  
 
----  
+Stay vigilant. The network is listening.  
 
-*The relays wait. Their silence is a promise of what comes next.*
+---
