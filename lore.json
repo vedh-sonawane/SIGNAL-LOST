@@ -1,8 +1,8 @@
 {
-  "day": 159,
+  "day": 160,
   "story_summary": "The orbital relay network flickers, its power surges erratically and hostile signals intensify after yesterday's unsolved cipher.",
-  "last_challenge": "Write a function that, given a space‑separated list of relay statuses (e.g. \"ON OFF ON\"), returns the number of relays currently ON.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Caesar‑shifted string \"YMJ WJQFD NX IJFI\" and report the plaintext warning the relays are broadcasting.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
