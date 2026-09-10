@@ -1,8 +1,8 @@
 {
-  "day": 161,
+  "day": 162,
   "story_summary": "The orbital relay network flickers, power surges erratically, and hostile signals intensify after yesterday's unsolved cipher.",
-  "last_challenge": "Write a program that reads a single line containing the relay’s broadcast string (uppercase letters, digits, and spaces) and outputs the number of distinct alphabetic characters present, ignoring spaces, digits, and case.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the transmission YMJ WJQFD NX KFZQYD which is a Caesar cipher emitted by the relay.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
