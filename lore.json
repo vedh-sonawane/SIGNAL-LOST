@@ -1,8 +1,8 @@
 {
-  "day": 162,
+  "day": 163,
   "story_summary": "The orbital relay network flickers, power surges erratically, and hostile signals intensify after yesterday's unsolved cipher.",
-  "last_challenge": "Decode the transmission YMJ WJQFD NX KFZQYD which is a Caesar cipher emitted by the relay.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads an uppercase word from stdin and outputs it shifted forward by 5 positions in the alphabet, wrapping around at Z.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
