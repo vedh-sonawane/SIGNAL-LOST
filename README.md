@@ -1,47 +1,50 @@
-# 📡 Day 162 of ∞  
+# 📡 Transmission Log – Day 163 of ∞  
 
-**Transmission Log – Orbital Relay Network**  
-
-The relay lattice shudders under an unseen strain. Power surges ripple across the array, and hostile signals bleed into the frequencies we thought secure. Yesterday’s cipher went unanswered, and the silence that followed has only deepened the darkness.  
-
----
-
-## How to Play  
-
-1. **Read** the transmission (this README).  
-2. **Solve** the daily puzzle described below.  
-3. **Submit** your answer by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest** new lore twists by opening an Issue.  
-5. Tomorrow’s README will credit today’s solvers and lore contributors by GitHub username.  
+**Status:** The orbital relay network flickers, power surges erratically, and hostile signals intensify after yesterday's unsolved coding shift.  
+The silence is growing; every unanswered transmission feeds the unknown.
 
 ---
 
-## Day 162 Puzzle — Coding Challenge  
+## 🕹️ How to Play  
 
-The relay has begun to emit a systematic offset on every outbound packet. Your task is to replicate that offset.
-
-**Challenge:**  
-Write a program that reads a single line of input containing **only uppercase English letters** (A‑Z) and outputs the same string shifted **forward by 5 positions** in the alphabet, wrapping around at Z.  
-
-*Example*  
-- Input: `RELAY`  
-- Output: `WJPFD`  
-
-Your solution must be self‑contained; no external data files are required. The language is up to you, but the program must read from standard input and write to standard output.
+1. **Read the README.** All clues, story beats, and puzzles are contained here.  
+2. **Solve the daily puzzle.**  
+   - Submit your solution by opening a Pull Request that **adds** a file under `solutions/` using the template `solutions/TEMPLATE.md`.  
+   - The PR description should include the puzzle answer and a brief explanation.  
+3. **Suggest lore twists.** Open an Issue titled `Lore: <your idea>` to add new narrative possibilities.  
+4. **Tomorrow’s README** will credit today’s solvers and any lore suggestions that were merged.
 
 ---
 
-## Hall of Fame  
+## 📖 Current Narrative  
 
-*No solvers have been recorded yet.*
+The network’s heartbeat is erratic. Each relay pulse seems to echo a fragmented warning. Yesterday’s attempt to realign the signal by shifting letters failed, leaving the system vulnerable. Somewhere in the static, a faint pattern repeats—perhaps a password, perhaps a plea.
 
 ---
 
-## Credits  
+### Day 163 Puzzle — **Cipher**
 
-**New Solvers (Day 162):** — none —  
-**Lore Suggesters (Day 162):** — none —  
+The relays have transmitted the following encrypted string:
+
+```
+KLPSGXRLLGJAPAI
+```
+
+*Decrypt the message to discover the next directive from the network.*
+
+---
+
+## 🏆 Hall of Fame  
+
+*(No entries yet – be the first to claim a place among the listeners.)*
+
+---
+
+## ✉️ Credits  
+
+- **New solvers today:** — none yet —  
+- **Lore suggesters today:** — none yet —  
 
 ---  
 
-*The network awaits your response. Every unanswered transmission draws the darkness nearer.*
+*The transmission continues. Await further instructions.*
