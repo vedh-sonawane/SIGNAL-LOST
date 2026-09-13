@@ -1,50 +1,52 @@
-# 📡 Transmission Log – Day 163 of ∞  
+# 📡 Transmission Log – Day 164 of ∞
 
-**Status:** The orbital relay network flickers, power surges erratically, and hostile signals intensify after yesterday's unsolved coding shift.  
-The silence is growing; every unanswered transmission feeds the unknown.
+**Status:** The orbital relay network flickers under a storm of hostile signals. Power surges pulse through the lattice, and the silence between bursts grows ever thinner. Our last attempt to decode the Vigenère transmission failed, leaving the enemy’s intent unreadable. The darkness presses in, and every unsolved fragment fuels the growing interference.
+
+---
+
+## 📖 Story Recap  
+The relay array has begun to destabilize after the failed decryption of `KLPSGXRLLGJAPAI`. Without the key, the network cannot re‑synchronize, and the hostile transmissions are growing louder.
 
 ---
 
 ## 🕹️ How to Play  
 
-1. **Read the README.** All clues, story beats, and puzzles are contained here.  
-2. **Solve the daily puzzle.**  
-   - Submit your solution by opening a Pull Request that **adds** a file under `solutions/` using the template `solutions/TEMPLATE.md`.  
-   - The PR description should include the puzzle answer and a brief explanation.  
-3. **Suggest lore twists.** Open an Issue titled `Lore: <your idea>` to add new narrative possibilities.  
-4. **Tomorrow’s README** will credit today’s solvers and any lore suggestions that were merged.
+1. **Read** the entire README – every clue is embedded in the text.  
+2. **Solve** the daily puzzle.  
+   - Submit your solution by opening a **Pull Request** that adds a file under `solutions/` using the template `solutions/TEMPLATE.md`.  
+   - Name your file `DAY-164.md` (or the appropriate day number).  
+3. **Suggest** lore twists, new signal patterns, or background details by opening an **Issue**.  
+4. Tomorrow’s README will credit today’s solvers and any lore contributors by their GitHub usernames.
 
 ---
 
-## 📖 Current Narrative  
+## 🧩 Day 164 Puzzle — **Coding**
 
-The network’s heartbeat is erratic. Each relay pulse seems to echo a fragmented warning. Yesterday’s attempt to realign the signal by shifting letters failed, leaving the system vulnerable. Somewhere in the static, a faint pattern repeats—perhaps a password, perhaps a plea.
+The network’s core processor has been compromised. It now receives a stream of characters from the relays, but it can only act on a single numeric checksum to decide whether to open a secure channel.
 
----
+**Your task:** Write a program (in any language) that reads **exactly one line** from standard input, computes the sum of the ASCII codes of all characters in that line, then outputs the result **modulo 256** as a decimal integer.
 
-### Day 163 Puzzle — **Cipher**
+*Example:*  
+Input: `AB` → ASCII 65 + 66 = 131 → Output `131`  
+Input: `Hello!` → (72+101+108+108+111+33) = 533 → 533 mod 256 = 21 → Output `21`
 
-The relays have transmitted the following encrypted string:
-
-```
-KLPSGXRLLGJAPAI
-```
-
-*Decrypt the message to discover the next directive from the network.*
+Submit the source file (or a script) that performs this calculation.
 
 ---
 
 ## 🏆 Hall of Fame  
 
-*(No entries yet – be the first to claim a place among the listeners.)*
+*No solvers yet – be the first to break the code and claim a place among the awakened.*
 
 ---
 
-## ✉️ Credits  
+## 📡 Current Activity  
 
-- **New solvers today:** — none yet —  
-- **Lore suggesters today:** — none yet —  
+- **Potential solvers:** *(none)*  
+- **Lore suggesters:** *(none)*  
+
+The void awaits your signal.
 
 ---  
 
-*The transmission continues. Await further instructions.*
+*Stay vigilant. The relays watch, and every unsolved fragment fuels the darkness.*

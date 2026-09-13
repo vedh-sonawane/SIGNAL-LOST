@@ -1,8 +1,8 @@
 {
-  "day": 164,
-  "story_summary": "The orbital relay network flickers, power surges erratically, and hostile signals intensify after yesterday's unsolved coding shift.",
-  "last_challenge": "Decrypt the Vigenère‑encrypted string KLPSGXRLLGJAPAI using the key hinted at in the story.",
-  "last_challenge_type": "cipher",
+  "day": 165,
+  "story_summary": "The relay network destabilized after an unsolved Vigenère decryption, leading to increasing hostile signals and power surges.",
+  "last_challenge": "Write a program that reads one line from stdin, sums the ASCII values of its characters, and outputs the sum modulo 256 as a decimal integer.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
