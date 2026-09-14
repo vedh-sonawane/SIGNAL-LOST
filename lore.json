@@ -1,8 +1,8 @@
 {
-  "day": 165,
+  "day": 166,
   "story_summary": "The relay network destabilized after an unsolved Vigenère decryption, leading to increasing hostile signals and power surges.",
-  "last_challenge": "Write a program that reads one line from stdin, sums the ASCII values of its characters, and outputs the sum modulo 256 as a decimal integer.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the ROT13‑encoded transmission fragment 'Gur qvfpbirel vf bhg.' and report the clear‑text message.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
