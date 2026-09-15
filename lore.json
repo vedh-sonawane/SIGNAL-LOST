@@ -1,8 +1,8 @@
 {
-  "day": 166,
-  "story_summary": "The relay network destabilized after an unsolved Vigenère decryption, leading to increasing hostile signals and power surges.",
-  "last_challenge": "Decode the ROT13‑encoded transmission fragment 'Gur qvfpbirel vf bhg.' and report the clear‑text message.",
-  "last_challenge_type": "cipher",
+  "day": 167,
+  "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges.",
+  "last_challenge": "Write a program that reads a single hexadecimal string from stdin and outputs its binary representation without leading zeros.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
