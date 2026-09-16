@@ -1,48 +1,49 @@
-# Day 166 of ∞  
-**Transmission Log – Relay Network**
+# 📡 Transmission Log – Day 167 of ∞  
 
-The relay network destabilized after an unsolved Vigenère decryption, leading to increasing hostile signals and power surges. The silence that follows each burst of static feels like the system is holding its breath, waiting for us to decode the next fragment before the next cascade of overloads.
-
----
-
-## How to Play  
-
-1. **Read the transmission.** Every day a new puzzle is embedded in the README.  
-2. **Submit a solution.** Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-3. **Suggest lore.** Have an idea for a twist? Open an Issue and describe your proposal.  
-4. **Tomorrow’s log.** The next README will credit today’s solvers and lore contributors by GitHub username.
+> **_Alert:_** The orbital relay network continues to pulse with erratic energy. After yesterday's unsolved Vigenère decryption, hostile signals have intensified, and power surges ripple through the array. Every unanswered transmission deepens the darkness.  
 
 ---
 
-### Day 166 Puzzle — coding  
+## 📖 Story So Far  
+The relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. The void between the satellites grows louder, and the silence of the unknown threatens to consume any who listen.
 
-The relays have begun transmitting compact data packets encoded in **hexadecimal**. Your task is to write a program that:
+---
 
-* Reads a single line from standard input containing a **hexadecimal number** (uppercase letters `A–F` are allowed, no prefix like `0x`).  
-* Converts this number to its **binary representation**.  
-* Prints the binary string **without any leading zeros** (except a single `0` if the input itself is `0`).  
+## 🕹️ How to Play  
 
-The program must output **exactly** the binary string followed by a newline.
+1. **Read** the README each day – the puzzle is embedded within.  
+2. **Solve** the puzzle using only the information provided here.  
+3. **Submit** your answer by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+4. **Suggest** new lore twists by opening an Issue.  
+5. Tomorrow’s README will credit today’s solvers and notable lore contributors by GitHub username.
 
-*Example*  
+---
+
+### Day 167 Puzzle — Cipher  
+
+The relay has emitted a garbled transmission. Decode it.
 
 ```
-Input:  1A3F
-Output: 1101000111111
+HP LCP WTD EPYTYR
 ```
 
----
+*What message does the network attempt to convey?*  
 
-## Hall of Fame  
-
-*(no entries yet)*  
+*Hint format is provided below.*
 
 ---
 
-### Credits  
+## 🏆 Hall of Fame  
 
-No solvers or lore suggesters have been recorded for today.  
+*(none yet)*  
+
+---
+
+## 👥 Credits  
+
+**Today's Solvers:** *(none)*  
+**Lore Suggesters:** *(none)*  
 
 ---  
 
----
+*Stay vigilant. The silence is a signal, and the network is listening.*
