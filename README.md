@@ -1,49 +1,49 @@
-# 📡 Transmission Log – Day 167 of ∞  
+# 🔭 Transmission Log – Day 168 of ∞  
 
-> **_Alert:_** The orbital relay network continues to pulse with erratic energy. After yesterday's unsolved Vigenère decryption, hostile signals have intensified, and power surges ripple through the array. Every unanswered transmission deepens the darkness.  
-
----
-
-## 📖 Story So Far  
-The relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. The void between the satellites grows louder, and the silence of the unknown threatens to consume any who listen.
+**Current Situation**  
+The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. Yesterday’s Caesar cipher (“HP LCP WTD EPYTYR”) remains indecipherable, and the network’s intent grows ever more opaque. The darkness between the relays thickens; each unanswered message draws us deeper into the void.
 
 ---
 
-## 🕹️ How to Play  
+## 📡 Day 168 Puzzle — coding  
 
-1. **Read** the README each day – the puzzle is embedded within.  
-2. **Solve** the puzzle using only the information provided here.  
-3. **Submit** your answer by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest** new lore twists by opening an Issue.  
-5. Tomorrow’s README will credit today’s solvers and notable lore contributors by GitHub username.
-
----
-
-### Day 167 Puzzle — Cipher  
-
-The relay has emitted a garbled transmission. Decode it.
+**Objective:**  
+Write a program (or script) that processes the following binary payload and outputs its ASCII translation.
 
 ```
-HP LCP WTD EPYTYR
+01001000 01100101 01101100 01101100 01101111
 ```
 
-*What message does the network attempt to convey?*  
+**Requirements:**  
 
-*Hint format is provided below.*
+* The program must read the binary string exactly as shown (space‑separated 8‑bit groups).  
+* It must convert each 8‑bit group to its corresponding ASCII character.  
+* The final output should be a single line containing the decoded word.
+
+*No external libraries are required; any language that can perform string manipulation and integer conversion is acceptable.*
+
+---
+
+## 📖 How to Play  
+
+1. **Solve the Puzzle** – Figure out the required program and its expected output.  
+2. **Submit Your Solution** – Open a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
+3. **Suggest Lore** – Have an idea for a new twist? Open an Issue with your proposal.  
+4. **Tomorrow’s Log** – The next README will credit today’s solvers and any lore suggestions.
 
 ---
 
 ## 🏆 Hall of Fame  
 
-*(none yet)*  
+*No solvers have been credited yet.*  
 
 ---
 
-## 👥 Credits  
+## 🎖️ Credits  
 
-**Today's Solvers:** *(none)*  
-**Lore Suggesters:** *(none)*  
+*New solvers today:* — none —  
+*Lore suggestions today:* — none —  
 
 ---  
 
-*Stay vigilant. The silence is a signal, and the network is listening.*
+*The network watches. Will you decode its whispers before the silence swallows us all?*

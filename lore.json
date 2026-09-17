@@ -1,8 +1,8 @@
 {
-  "day": 168,
-  "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges.",
-  "last_challenge": "A Caesar cipher message received from the relay: \"HP LCP WTD EPYTYR\". Decipher it to reveal the network's intent.",
-  "last_challenge_type": "cipher",
+  "day": 169,
+  "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. Yesterday's Caesar cipher remained unsolved, deepening the threat.",
+  "last_challenge": "Write a program that reads the binary payload \"01001000 01100101 01101100 01101100 01101111\" and outputs its ASCII translation as a single word.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
