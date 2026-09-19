@@ -1,8 +1,8 @@
 {
-  "day": 170,
+  "day": 171,
   "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. Yesterday's Caesar cipher remained unsolved, deepening the threat.",
-  "last_challenge": "Decode the Atbash‑encoded string \"Gsv mvgdlip zdzpvmh\" to reveal the network's message.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads a space‑separated line of relay identifiers from standard input and outputs the identifier that occurs most frequently, breaking ties by choosing the alphabetically earliest identifier.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
