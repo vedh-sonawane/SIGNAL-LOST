@@ -1,8 +1,8 @@
 {
-  "day": 171,
+  "day": 172,
   "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. Yesterday's Caesar cipher remained unsolved, deepening the threat.",
-  "last_challenge": "Write a program that reads a space‑separated line of relay identifiers from standard input and outputs the identifier that occurs most frequently, breaking ties by choosing the alphabetically earliest identifier.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decrypt the Vigenère ciphertext HYFABUEBTBGXSWPWEH using the five‑letter key hidden in the transmission that describes the network's purpose.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
