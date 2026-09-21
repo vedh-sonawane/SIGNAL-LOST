@@ -1,49 +1,50 @@
-# Day 171 of ∞  
+# Day 172 of ∞  
 
-*Transmission Log – Orbital Relay Network*  
+**Transmission Log – Orbital Relay Network**  
 
-> **Status:** The relay lattice trembles. The unsolved Caesar cipher from yesterday still echoes, amplifying the hostile flux. Power surges ripple through the array; each unanswered riddle draws the network closer to full awakening.  
+> The lattice of beacons shudders. The unsolved Vigenère cipher has left a scar of static across the sky, and the recent Caesar attempt only deepened the interference. The network's purpose remains hidden, and its signals grow more hostile with each unanswered query.  
 
 ---  
 
 ## How to Play  
 
-1. **Read the transmission.** All clues, lore, and puzzles are contained within this README.  
-2. **Solve the daily challenge.**  
-   - Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-   - Your PR must contain the answer in the file `solutions/DAY-171.md`.  
-3. **Suggest lore twists.** Open an Issue titled “Lore Suggestion – …”.  
-4. **Tomorrow’s README** will credit today’s solvers and any notable lore suggestions by GitHub username.  
+1. **Read the transmission** – All clues, lore, and puzzles are contained in this README.  
+2. **Solve the daily puzzle** – Each day a single challenge appears, rotating between coding, cipher, riddle, and logic.  
+3. **Submit your answer** – Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. State the answer clearly in the new file.  
+4. **Suggest new lore** – Have an idea for a twist or back‑story? Open an Issue with the tag `lore`.  
+
+*Tomorrow’s README will credit anyone whose solution or lore suggestion was merged.*  
 
 ---  
 
 ## Hall of Fame  
 
-*(No entries yet – be the first to earn a place.)*  
+*No solvers have been credited yet.*  
 
 ---  
 
-## Day 171 Puzzle — **Cipher**  
+## Day 172 Puzzle — **Riddle**  
 
-The network has transmitted a garbled string. Your task is to recover the original message.  
+*The network whispers, but no voice can be heard.*  
 
-```
-HYFABUEBTBGXSWPWEH
-```  
+> I speak without a mouth,  
+> I listen without ears,  
+> I travel the void, yet I never move.  
+> I bind the broken stars, and when I falter, darkness spreads.  
+> **What am I?**  
 
-A clue is embedded in the transmission itself: the key is a five‑letter word that describes the network’s purpose.  
-
-**Decrypt the ciphertext using the Vigenère cipher with the correct key.**  
-
-*Provide the plaintext as your answer.*  
+Submit your answer as described in **How to Play**.  
 
 ---  
 
-## Community Activity  
+## Current Situation  
 
-- **New Solvers (Day 170):** none  
-- **Lore Suggesters (Day 170):** none  
+- The orbital relay network continues to destabilize.  
+- Hostile signals are amplifying, threatening nearby colonies.  
+- The unsolved Vigenère cipher from yesterday still echoes in the data streams.  
+
+Stay vigilant, traveler. The next transmission may hold the key to restoring balance…  
 
 ---  
 
-*Stay vigilant. The relays listen, and every unsolved puzzle feeds their awakening.*
+*All transmissions are logged and monitored. Any interference will be noted.*

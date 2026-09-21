@@ -1,8 +1,8 @@
 {
-  "day": 172,
+  "day": 173,
   "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. Yesterday's Caesar cipher remained unsolved, deepening the threat.",
-  "last_challenge": "Decrypt the Vigenère ciphertext HYFABUEBTBGXSWPWEH using the five‑letter key hidden in the transmission that describes the network's purpose.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Riddle: I speak without a mouth, I listen without ears, I travel the void, yet I never move. I bind the broken stars, and when I falter, darkness spreads. What am I?",
+  "last_challenge_type": "riddle",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
