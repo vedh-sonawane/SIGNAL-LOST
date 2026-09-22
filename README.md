@@ -1,50 +1,46 @@
-# Day 172 of ∞  
+# 📡 Transmission Log – Day 173 of ∞
 
-**Transmission Log – Orbital Relay Network**  
+> **WARNING:** The orbital relay network has entered an unstable phase. The previous riddle was left unanswered, allowing hostile signals to amplify. Every moment the silence persists, the risk of a full‑scale cascade grows. Proceed with caution.
 
-> The lattice of beacons shudders. The unsolved Vigenère cipher has left a scar of static across the sky, and the recent Caesar attempt only deepened the interference. The network's purpose remains hidden, and its signals grow more hostile with each unanswered query.  
+---
 
----  
+## How to Play
 
-## How to Play  
+1. **Read the transmission.** All clues, lore, and puzzles are embedded in this README.  
+2. **Solve the daily puzzle.** When you have an answer, open a Pull Request that **adds** a file under `solutions/` based on the template in `solutions/TEMPLATE.md`.  
+3. **Suggest lore.** Got a twist for the network’s awakening? Open an Issue describing your idea.  
+4. **Earn your place in the Hall of Fame.** Each successful PR and accepted lore suggestion will be recorded here.  
 
-1. **Read the transmission** – All clues, lore, and puzzles are contained in this README.  
-2. **Solve the daily puzzle** – Each day a single challenge appears, rotating between coding, cipher, riddle, and logic.  
-3. **Submit your answer** – Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`. State the answer clearly in the new file.  
-4. **Suggest new lore** – Have an idea for a twist or back‑story? Open an Issue with the tag `lore`.  
+> **Note:** Tomorrow’s README will credit today’s solvers and lore contributors by their GitHub usernames.
 
-*Tomorrow’s README will credit anyone whose solution or lore suggestion was merged.*  
+---
 
----  
+## Day 173 Puzzle — Coding Challenge
 
-## Hall of Fame  
+The relay array has begun to emit a low‑frequency “heartbeat” that can be used to re‑synchronise the network—if only we can decode it.
 
-*No solvers have been credited yet.*  
+**Your task:** Write a program (in any language) that reads a single line of **uppercase letters** (`A`‑`Z`) representing the IDs of active relays. Convert each letter to its alphabetical position (`A=1`, `B=2`, … `Z=26`), sum those values, take the sum **modulo 97**, and output the result as a **two‑character lowercase hexadecimal string** (pad with a leading zero if necessary).
 
----  
+*Example*  
+Input: `ABZ` → positions 1 + 2 + 26 = 29 → 29 mod 97 = 29 → hex `1d` → output `1d`
 
-## Day 172 Puzzle — **Riddle**  
+Submit your solution file under `solutions/` following the `solutions/TEMPLATE.md` format.
 
-*The network whispers, but no voice can be heard.*  
+---
 
-> I speak without a mouth,  
-> I listen without ears,  
-> I travel the void, yet I never move.  
-> I bind the broken stars, and when I falter, darkness spreads.  
-> **What am I?**  
+## Hall of Fame
 
-Submit your answer as described in **How to Play**.  
+*No solvers have been recorded yet.*  
 
----  
+*(Future entries will appear here as the community cracks the code.)*
 
-## Current Situation  
+---
 
-- The orbital relay network continues to destabilize.  
-- Hostile signals are amplifying, threatening nearby colonies.  
-- The unsolved Vigenère cipher from yesterday still echoes in the data streams.  
+## Credits
 
-Stay vigilant, traveler. The next transmission may hold the key to restoring balance…  
+- **Today's solvers:** *(none yet)*
+- **Lore suggestions:** *(none yet)*
 
 ---  
 
-*All transmissions are logged and monitored. Any interference will be noted.*
+*Stay vigilant. The network listens.*

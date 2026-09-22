@@ -1,8 +1,8 @@
 {
-  "day": 173,
-  "story_summary": "The orbital relay network destabilized after an unsolved Vigenère decryption, spawning hostile signals and power surges. Yesterday's Caesar cipher remained unsolved, deepening the threat.",
-  "last_challenge": "Riddle: I speak without a mouth, I listen without ears, I travel the void, yet I never move. I bind the broken stars, and when I falter, darkness spreads. What am I?",
-  "last_challenge_type": "riddle",
+  "day": 174,
+  "story_summary": "The relay network destabilized after an unsolved Vigenère decryption; yesterday's riddle remained unanswered, heightening the threat of hostile signals.",
+  "last_challenge": "Write a program that reads a single line of uppercase letters, converts each to its alphabetical position, sums them, takes the sum modulo 97, and outputs the result as a two-character lowercase hexadecimal string (padded with a leading zero if needed).",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
