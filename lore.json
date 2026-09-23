@@ -1,8 +1,8 @@
 {
-  "day": 174,
-  "story_summary": "The relay network destabilized after an unsolved Vigenère decryption; yesterday's riddle remained unanswered, heightening the threat of hostile signals.",
-  "last_challenge": "Write a program that reads a single line of uppercase letters, converts each to its alphabetical position, sums them, takes the sum modulo 97, and outputs the result as a two-character lowercase hexadecimal string (padded with a leading zero if needed).",
-  "last_challenge_type": "coding",
+  "day": 175,
+  "story_summary": "The relay network destabilized after an unsolved Vigenère decryption; yesterday's coding task remained unsolved, heightening the threat of hostile signals.",
+  "last_challenge": "Decrypt the Caesar‑shifted message \"KHOOR ZRUOG\" using the shift equal to the number of letters in the word \"orb\".",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

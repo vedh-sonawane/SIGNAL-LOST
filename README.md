@@ -1,46 +1,58 @@
-# 📡 Transmission Log – Day 173 of ∞
+# 📡 Day 174 of ∞  
 
-> **WARNING:** The orbital relay network has entered an unstable phase. The previous riddle was left unanswered, allowing hostile signals to amplify. Every moment the silence persists, the risk of a full‑scale cascade grows. Proceed with caution.
-
----
-
-## How to Play
-
-1. **Read the transmission.** All clues, lore, and puzzles are embedded in this README.  
-2. **Solve the daily puzzle.** When you have an answer, open a Pull Request that **adds** a file under `solutions/` based on the template in `solutions/TEMPLATE.md`.  
-3. **Suggest lore.** Got a twist for the network’s awakening? Open an Issue describing your idea.  
-4. **Earn your place in the Hall of Fame.** Each successful PR and accepted lore suggestion will be recorded here.  
-
-> **Note:** Tomorrow’s README will credit today’s solvers and lore contributors by their GitHub usernames.
+**Transmission Log – Relay Network**  
+The orbital lattice trembles. The last Vigenère fragment slipped through our defenses, and the coding probe we sent yesterday failed to return. Hostile signals grow louder in the void. We need your intellect to stabilize the grid before the silence becomes permanent.
 
 ---
 
-## Day 173 Puzzle — Coding Challenge
-
-The relay array has begun to emit a low‑frequency “heartbeat” that can be used to re‑synchronise the network—if only we can decode it.
-
-**Your task:** Write a program (in any language) that reads a single line of **uppercase letters** (`A`‑`Z`) representing the IDs of active relays. Convert each letter to its alphabetical position (`A=1`, `B=2`, … `Z=26`), sum those values, take the sum **modulo 97**, and output the result as a **two‑character lowercase hexadecimal string** (pad with a leading zero if necessary).
-
-*Example*  
-Input: `ABZ` → positions 1 + 2 + 26 = 29 → 29 mod 97 = 29 → hex `1d` → output `1d`
-
-Submit your solution file under `solutions/` following the `solutions/TEMPLATE.md` format.
+## 📖 Story Recap  
+The relay network destabilized after an unsolved Vigenère decryption; yesterday's coding task remained unsolved, heightening the threat of hostile signals.
 
 ---
 
-## Hall of Fame
+## 🕹️ How to Play  
 
-*No solvers have been recorded yet.*  
-
-*(Future entries will appear here as the community cracks the code.)*
+1. **Read the transmission** – every clue you need is inside this README.  
+2. **Solve the daily puzzle** – the type rotates each day (coding → cipher → riddle → logic → …).  
+3. **Submit your answer**  
+   * Fork the repository.  
+   * Create a new file under `solutions/` using the template `solutions/TEMPLATE.md`.  
+   * Add your answer (and any brief explanation) to that file.  
+   * Open a Pull Request.  
+4. **Suggest lore twists** – open an Issue with your idea; the next README will credit contributors.  
+5. **Tomorrow’s transmission** will list today’s solvers and any lore suggestions that were merged.
 
 ---
 
-## Credits
+## 🧩 Day 174 Puzzle — **Cipher**
 
-- **Today's solvers:** *(none yet)*
-- **Lore suggestions:** *(none yet)*
+A fragment of encrypted traffic has been intercepted. Decrypt it to reveal the hidden message.
+
+```
+KHOOR ZRUOG
+```
+
+*The shift used is the number of letters in the word “orb”.*  
+
+Submit the plaintext (all uppercase, spaces preserved) in your solution file.
+
+---
+
+## 🏆 Hall of Fame  
+
+*No solvers yet.*  
+
+*(Names will appear here as they are credited.)*
+
+---
+
+## 👥 Credits  
+
+**New Solvers Today:** — none —  
+**Lore Suggesters Today:** — none —  
+
+Stay vigilant. The network watches.  
 
 ---  
 
-*Stay vigilant. The network listens.*
+*End of transmission.*
