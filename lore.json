@@ -1,8 +1,8 @@
 {
-  "day": 175,
+  "day": 176,
   "story_summary": "The relay network destabilized after an unsolved Vigenère decryption; yesterday's coding task remained unsolved, heightening the threat of hostile signals.",
-  "last_challenge": "Decrypt the Caesar‑shifted message \"KHOOR ZRUOG\" using the shift equal to the number of letters in the word \"orb\".",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads a space-separated binary string of 8‑bit values and outputs the corresponding ASCII text. For the provided input the program should output \"Hello\".",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
