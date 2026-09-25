@@ -1,8 +1,8 @@
 {
-  "day": 176,
-  "story_summary": "The relay network destabilized after an unsolved Vigenère decryption; yesterday's coding task remained unsolved, heightening the threat of hostile signals.",
-  "last_challenge": "Write a program that reads a space-separated binary string of 8‑bit values and outputs the corresponding ASCII text. For the provided input the program should output \"Hello\".",
-  "last_challenge_type": "coding",
+  "day": 177,
+  "story_summary": "The orbital relay network destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's coding task remained unsolved.",
+  "last_challenge": "Decode the Caesar‑shifted ciphertext \"WKH VLDJDO LV ZDNH\" to reveal the network's next directive.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
