@@ -1,8 +1,8 @@
 {
-  "day": 178,
+  "day": 179,
   "story_summary": "The relay network is destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved.",
-  "last_challenge": "Write a program that reads a file named signal.txt containing space-separated 8-bit binary numbers, converts each to its ASCII character, and outputs the decoded message as a single line.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Caesar shift cipher KHOOR ZRUOG to reveal the hidden phrase.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
