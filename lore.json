@@ -1,8 +1,8 @@
 {
-  "day": 180,
+  "day": 181,
   "story_summary": "The relay network is destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved.",
-  "last_challenge": "Write a program that reads three space‑separated integers representing the last three relay ping timestamps and outputs the median (the middle value when sorted).",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decrypt the Caesar‑shifted message \"KHOOR, ZRUOG\".",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
