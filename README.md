@@ -1,44 +1,59 @@
-# Day 180 of ∞  
+# 📡 Day 181 of ∞ – Transmission Log  
 
-**Transmission Log – Current Status**  
-The relay network trembles. After yesterday’s failed attempt to crack the Vigenère fragment, the orbital lattice has entered a low‑frequency tremor. Hostile vectors are probing the mesh, and every unsolved cipher feeds the growing interference. The silence is broken only by the faint echo of a new encrypted burst awaiting decryption.
+**Status:** The orbital relay network shudders under a cascade of unsolved encryptions. After the Vigenère decryption failure and the still‑silent Caesar cipher, hostile signals are beginning to bleed through the static. Every unanswered transmission draws the attention of whatever watches from the void.  
 
----
+---  
 
-## How to Play  
+## 📜 Current Narrative  
 
-1. **Read the transmission.** All clues, lore, and puzzles are contained in this README.  
-2. **Solve the daily puzzle.**  
-   - Submit your answer by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-   - In the PR description, state the puzzle type, the answer, and a brief explanation.  
-3. **Suggest new lore.** Open an Issue with a concise description of a twist, anomaly, or hypothesis about the relays.  
-4. **Tomorrow’s transmission** will credit today’s solvers and lore contributors by GitHub username.
+- The **Relay Core** attempted a Vigenère key exchange; the result was garbled, leaving the network in a fragile state.  
+- A **Caesar‑shifted distress call** ("KHOOR, ZRUOG") floated across the spectrum yesterday, but no one could decipher it.  
+- **Hostile interference** is growing louder; the next relay may be the last if we cannot re‑establish order.  
 
----
+---  
 
-## Day 180 Puzzle — **Cipher**
+### Day 181 Puzzle — **Coding Challenge**  
 
-A distorted signal has been intercepted. The raw payload appears to be a simple substitution, but the shift is unknown.
+**Objective:** Write a short program (in any language) that processes an alphanumeric relay identifier string and returns a single integer.
 
-```
-KHOOR, ZRUOG
-```
+**Specification:**  
 
-*Decrypt the message and reply with the plaintext.*
+1. The input is a non‑empty string containing only uppercase letters `A‑Z` and digits `0‑9`.  
+2. For each **letter**, convert it to its position in the English alphabet (`A=1`, `B=2`, … `Z=26`).  
+3. For each **digit**, treat it as its numeric value (`0‑9`).  
+4. **Sum** all of the values from steps 2 and 3 and output the total.  
 
----
+*Example:*  
 
-## Hall of Fame  
+- Input: `A3C7`  
+- Calculation: `A(1) + 3 + C(3) + 7 = 14`  
+- Output: `14`  
 
-*No solvers have been recorded yet.*  
+Submit your solution as a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
 
-*Future entries will appear here as the community cracks the code.*
+---  
 
----
+## 🎮 How to Play  
 
-## Credits  
+1. **Read** the transmission (this README).  
+2. **Solve** the daily puzzle.  
+3. **Create** a new file in `solutions/` using `solutions/TEMPLATE.md` as a base.  
+4. **Open a Pull Request** with your solution file.  
+5. If your answer is correct, you will be credited in tomorrow’s log and added to the Hall of Fame.  
 
-- **Solvers today:** *(none)*  
-- **Lore suggesters today:** *(none)*  
+*Optional:* Propose new twists to the story by opening an Issue labeled `lore‑suggestion`.  
 
-*Your contributions will be acknowledged in the next transmission.*
+---  
+
+## 🏆 Hall of Fame  
+
+*(No solvers have been recorded yet.)*  
+
+---  
+
+## 👥 Credits  
+
+- **Today's Solvers:** — none yet —  
+- **Lore Suggesters (last 24 h):** — none —  
+
+Stay vigilant. The next signal may be our only chance.
