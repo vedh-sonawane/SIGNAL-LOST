@@ -1,8 +1,8 @@
 {
-  "day": 183,
-  "story_summary": "The relay network destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved.",
-  "last_challenge": "Decode the Vigenère‑encrypted transmission below. The key is a five‑letter word describing the network’s current condition.",
-  "last_challenge_type": "cipher",
+  "day": 184,
+  "story_summary": "The relay network destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved, raising the risk of orbital fragmentation.",
+  "last_challenge": "Write a program that reads a positive integer N from standard input and outputs the Nth prime number (1‑based, N=1 → 2), handling N up to at least 10,000 efficiently.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

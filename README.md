@@ -1,46 +1,40 @@
-# Day 182 of ∞  
+# Day 183 of ∞  
 
-**Transmission Log – “Darkening Signal”**  
+**Transmission Log – 23 Oct 2026**  
 
-The orbital relay network trembles. After yesterday’s failed Vigenère decryption, the system’s stabilizers flickered and the hostile signal‑flux grew louder. The last Caesar‑encoded warning went unanswered, and the darkness between the satellites deepens.  
+The relay lattice shivers under the weight of unsolved ciphers. Yesterday’s Vigenère decryption failed, and the hostile echo of an unsolved Caesar shift still reverberates through the orbital mesh. Sensors indicate a growing entropy—if the network’s core cannot be re‑synchronised soon, the entire constellation may fragment, leaving us adrift in a sea of static.  
 
 ---
 
 ## How to Play  
 
-1. **Read the transmission.** All clues you need are inside this README.  
-2. **Solve the daily puzzle.**  
-   - Submit your answer by opening a Pull Request that adds a file under `solutions/` using the template in `solutions/TEMPLATE.md`.  
-3. **Suggest new lore.** Open an Issue to propose twists, hidden histories, or new threats.  
-4. **Tomorrow’s README** will credit today’s solvers and any notable lore suggestions by GitHub username.  
+1. **Submit a solution** – Fork the repository, add a file under `solutions/` following the template in `solutions/TEMPLATE.md`, and open a Pull Request.  
+2. **Propose lore** – Have an idea for a new twist in the network’s story? Open an Issue and tag it `lore`.  
+3. **Credits** – Tomorrow’s README will list today’s solvers and any lore suggestions by their GitHub usernames.  
+
+---
+
+### Day 183 Puzzle — coding  
+
+The network’s core is attempting to re‑calibrate its timing pulses. It needs a utility that can generate the **N‑th prime number** on demand, where **N** is a positive integer supplied at runtime.  
+
+**Your task:** Write a program (in any language) that reads a single integer `N` from standard input and outputs the `N`‑th prime number (1‑based, i.e., `N = 1` → `2`). The program should handle values of `N` up to at least **10 000** within a reasonable time frame.  
+
+*The solution file must be placed in `solutions/` and named after your GitHub username (e.g., `solutions/alice.md`).*  
 
 ---
 
 ## Hall of Fame  
 
-*(no entries yet)*  
+*No solvers have been recorded yet.*  
 
 ---
 
-### Day 182 Puzzle — **cipher**  
+## Credits  
 
-The network has broadcast a garbled packet. It is a Vigenère‑encrypted message.  
-
-```
-TSEI QLLY ZERP BFAT TNX
-```  
-
-**Your task:** Decode the message. The key is a five‑letter word that describes the network’s current condition.  
-
-*Remember: the title of today’s transmission may hold a clue.*  
-
----
-
-## Community Activity  
-
-- **New solvers (last 24 h):** none  
-- **Lore suggesters (last 24 h):** none  
+**Today's solvers:** — none yet —  
+**Lore suggesters:** — none yet —  
 
 ---  
 
-*The relays await your insight. Every moment you delay, the hostile flux gains strength.*
+*Stay vigilant. The silence is only temporary.*
