@@ -1,40 +1,45 @@
-# Day 183 of ∞  
+# Day 184 of ∞  
 
-**Transmission Log – 23 Oct 2026**  
+**Transmission Log – Status Update**  
+The relay network destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved, raising the risk of orbital fragmentation. The darkness between the orbital shells grows thicker, and the relays whisper warnings of imminent fragmentation.  
 
-The relay lattice shivers under the weight of unsolved ciphers. Yesterday’s Vigenère decryption failed, and the hostile echo of an unsolved Caesar shift still reverberates through the orbital mesh. Sensors indicate a growing entropy—if the network’s core cannot be re‑synchronised soon, the entire constellation may fragment, leaving us adrift in a sea of static.  
-
----
+---  
 
 ## How to Play  
 
-1. **Submit a solution** – Fork the repository, add a file under `solutions/` following the template in `solutions/TEMPLATE.md`, and open a Pull Request.  
-2. **Propose lore** – Have an idea for a new twist in the network’s story? Open an Issue and tag it `lore`.  
-3. **Credits** – Tomorrow’s README will list today’s solvers and any lore suggestions by their GitHub usernames.  
+1. **Read the transmission** – every day a new puzzle is embedded in this README.  
+2. **Solve the puzzle** – the answer must be a single word, phrase, or a short description, depending on the puzzle type.  
+3. **Submit your solution** – open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+4. **Suggest lore twists** – open an Issue with your ideas for the network’s back‑story.  
+5. **Tomorrow’s README** will credit today’s solvers and any notable lore suggestions by GitHub username.  
 
----
+---  
 
-### Day 183 Puzzle — coding  
+### Day 184 Puzzle — Cipher  
 
-The network’s core is attempting to re‑calibrate its timing pulses. It needs a utility that can generate the **N‑th prime number** on demand, where **N** is a positive integer supplied at runtime.  
+The relay has emitted a garbled burst of data that appears to be a simple substitution. The transmission header contains the word **“mirror.”**  
 
-**Your task:** Write a program (in any language) that reads a single integer `N` from standard input and outputs the `N`‑th prime number (1‑based, i.e., `N = 1` → `2`). The program should handle values of `N` up to at least **10 000** within a reasonable time frame.  
+```
+Gsv xlwv gl gsv hznv
+```  
 
-*The solution file must be placed in `solutions/` and named after your GitHub username (e.g., `solutions/alice.md`).*  
+**Your task:** decode the message.  
 
----
+---  
 
 ## Hall of Fame  
 
 *No solvers have been recorded yet.*  
 
----
+---  
 
 ## Credits  
 
-**Today's solvers:** — none yet —  
-**Lore suggesters:** — none yet —  
+- **Solvers (today):** *(none yet)*  
+- **Lore suggesters (today):** *(none)*  
 
 ---  
 
-*Stay vigilant. The silence is only temporary.*
+---  
+
+*Stay vigilant. The network is listening.*
