@@ -1,45 +1,51 @@
-# Day 184 of ∞  
+# Day 185 of ∞  
 
-**Transmission Log – Status Update**  
-The relay network destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved, raising the risk of orbital fragmentation. The darkness between the orbital shells grows thicker, and the relays whisper warnings of imminent fragmentation.  
+**Transmission Log – Orbital Relay Network**  
+The relay lattice shudders. Yesterday’s Caesar cipher went unanswered, and the silent void threatens to cascade into orbital fragmentation. Every unanswered pulse weakens the lattice; the network is listening, waiting, and perhaps… retaliating.
 
----  
+---
 
 ## How to Play  
 
-1. **Read the transmission** – every day a new puzzle is embedded in this README.  
-2. **Solve the puzzle** – the answer must be a single word, phrase, or a short description, depending on the puzzle type.  
-3. **Submit your solution** – open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest lore twists** – open an Issue with your ideas for the network’s back‑story.  
-5. **Tomorrow’s README** will credit today’s solvers and any notable lore suggestions by GitHub username.  
+1. **Read** the entire README – every line may contain clues.  
+2. **Solve** today’s puzzle.  
+3. **Submit** your solution by opening a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
+4. **Suggest** new lore twists by opening an Issue.  
+5. **Tomorrow’s README** will credit today’s solvers and lore suggesters by GitHub username.
 
----  
-
-### Day 184 Puzzle — Cipher  
-
-The relay has emitted a garbled burst of data that appears to be a simple substitution. The transmission header contains the word **“mirror.”**  
-
-```
-Gsv xlwv gl gsv hznv
-```  
-
-**Your task:** decode the message.  
-
----  
+---
 
 ## Hall of Fame  
 
-*No solvers have been recorded yet.*  
+*No credited solvers yet.*  
 
----  
+*(Names will appear here as they earn their place in the network’s memory.)*
 
-## Credits  
+---
 
-- **Solvers (today):** *(none yet)*  
-- **Lore suggesters (today):** *(none)*  
+## Day 185 Puzzle — Coding Challenge  
 
----  
+The network has intercepted a corrupted telemetry packet. Your task is to write a small program (in any language) that processes a single line of input – a string of ASCII characters – and outputs **the count of distinct characters that appear more than once** in that string.
 
----  
+**Example:**  
+Input: `abracadabra`  
+- `a` appears 5 times, `b` appears 2 times, `r` appears 2 times, `c` and `d` appear once.  
+- Distinct characters with >1 occurrence: `a`, `b`, `r` → **3**  
 
-*Stay vigilant. The network is listening.*
+Output: `3`
+
+Your program should read from standard input and write the integer result to standard output.
+
+*Hint: consider using a frequency table.*
+
+---
+
+## Community Rules  
+
+- **Solutions** – Add a file under `solutions/` named `day185_<your‑github‑username>.md` based on the provided template.  
+- **Lore Suggestions** – Open an Issue titled “Lore: …” to propose narrative twists.  
+- **Credit** – Tomorrow’s transmission will list the usernames of anyone who solved today’s challenge or contributed lore.
+
+---
+
+*Stay vigilant. The silence is growing louder.*
