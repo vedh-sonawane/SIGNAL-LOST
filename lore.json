@@ -1,8 +1,8 @@
 {
-  "day": 186,
-  "story_summary": "The relay network destabilized after a failed Vigenère decryption; hostile signals loom as yesterday's Caesar cipher remained unsolved, raising the risk of orbital fragmentation.",
-  "last_challenge": "Write a program that reads a single line of ASCII text and outputs the count of distinct characters that appear more than once.",
-  "last_challenge_type": "coding",
+  "day": 187,
+  "story_summary": "The orbital relay network destabilized after a failed Vigenère decryption, and an unsolved Caesar cipher threatens fragmentation.",
+  "last_challenge": "Decode the Atbash‑encoded transmission \"Gsv xlwv gl gsv dliow\" to reveal the warning the relays are sending.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
