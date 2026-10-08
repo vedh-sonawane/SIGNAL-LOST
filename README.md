@@ -1,56 +1,62 @@
-# Transmission Log – Day 186 of ∞  
+# Day 187 of ∞  
 
-**Status:** The relay network trembles. After a botched Vigenère decryption the orbital array has entered a feedback loop. Yesterday’s Caesar cipher went unanswered, and the silence is now a signal of looming fragmentation. Every tick of the clock brings the hostile swarm closer to breaking the lattice.  
+**Transmission Log – Orbital Relay Network**  
 
----  
-
-## Yesterday’s Challenge — Coding (Unsolved)  
-*Write a program that reads a single line of ASCII text and outputs the count of distinct characters that appear more than once.*  
-
-No solution has been received. The network’s latency grows with each unanswered query.  
-
----  
-
-### Day 186 Puzzle — Cipher  
-
-The following transmission arrived garbled. Decode it to learn what the relays are trying to warn us about.  
-
-```
-Gsv xlwv gl gsv dliow
-```  
-
-*Your answer must be submitted exactly as the decoded plaintext, in all caps, without extra punctuation.*  
+The silent hum of the relay lattice has grown restless. After the Vigenère fracture and the lingering Caesar echo, the network’s core is flickering, threatening a cascade of signal loss. Every unsolved cipher draws the lattice tighter; every delay fuels its awakening.  
 
 ---  
 
 ## How to Play  
 
-1. **Read** the daily transmission (the README).  
-2. **Solve** the puzzle labelled for the current day.  
-3. **Submit** your answer by opening a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
-4. **Suggest** new lore twists by opening an Issue.  
-5. **Tomorrow** the README will credit today’s solvers and any lore suggestions.  
-
----  
-
-## Community Rules  
-
-- Solutions are accepted only when they follow the repository’s contribution guidelines and pass any automated checks.  
-- Lore suggestions should be clear, concise, and written as a short description of a possible twist in the network’s awakening.  
-- Cheating, plagiarism, or any form of harassment will result in immediate removal from the Hall of Fame.  
+1. **Read the transmission.** All clues, lore, and puzzles are embedded in this README.  
+2. **Solve the daily puzzle.**  
+   - Submit your answer by opening a Pull Request that adds a file under `solutions/` using the provided `solutions/TEMPLATE.md`.  
+   - Your PR must include the exact answer and a brief explanation of how you arrived at it.  
+3. **Shape the story.** Propose new twists, hidden messages, or background lore by opening an Issue.  
+4. **Tomorrow’s transmission will credit today’s solvers and lore contributors.**  
 
 ---  
 
 ## Hall of Fame  
 
-*No entries yet.*  
+*No solvers have been recorded yet.*  
+
+---  
+
+## Yesterday’s Puzzle — Cipher  
+
+**Challenge:** Decode the Atbash‑encoded transmission `"Gsv xlwv gl gsv dliow"`  
+
+**Status:** Unsolved  
+
+The unsolved warning still reverberates through the lattice, amplifying the risk of fragmentation.  
+
+---  
+
+## Day 187 Puzzle — Coding  
+
+**Challenge:**  
+
+The relay network periodically broadcasts a status dump containing the IDs of active nodes, separated by commas, e.g.:
+
+```
+ALPHA,BETA,GAMMA,ALPHA,DELTA,BETA,ALPHA
+```
+
+Write a program (in any language) that reads a single line of such a comma‑separated list from **standard input** and outputs the **ID that appears most frequently**. If multiple IDs share the highest count, output the one that is **alphabetically first**.
+
+*The program should print only the resulting ID, followed by a newline.*  
+
+**Note:** The solution file you submit should contain the code and a brief description of its operation.  
 
 ---  
 
 ## Credits  
 
-No new solvers or lore suggesters have been recorded in the last 24 hours.  
+*No new solvers or lore suggesters have been recorded in the last 24 hours.*  
 
 ---  
 
-*Stay vigilant. The silence may be the most dangerous signal of all.*
+---  
+
+*Transmission ends. Awaiting your response…*

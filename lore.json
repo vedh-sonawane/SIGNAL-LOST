@@ -1,8 +1,8 @@
 {
-  "day": 187,
-  "story_summary": "The orbital relay network destabilized after a failed Vigenère decryption, and an unsolved Caesar cipher threatens fragmentation.",
-  "last_challenge": "Decode the Atbash‑encoded transmission \"Gsv xlwv gl gsv dliow\" to reveal the warning the relays are sending.",
-  "last_challenge_type": "cipher",
+  "day": 188,
+  "story_summary": "The orbital relay network destabilized after a failed Vigenère decryption, and an unsolved Caesar cipher threatens fragmentation; yesterday's Atbash puzzle remains unsolved, raising the stakes.",
+  "last_challenge": "Write a program that reads a comma‑separated list of relay IDs from standard input and outputs the ID occurring most frequently, breaking ties by alphabetical order.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
