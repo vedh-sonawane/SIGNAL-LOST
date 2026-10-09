@@ -1,62 +1,41 @@
-# Day 187 of ∞  
+# 📡 Transmission Log – Day 188 of ∞  
 
-**Transmission Log – Orbital Relay Network**  
-
-The silent hum of the relay lattice has grown restless. After the Vigenère fracture and the lingering Caesar echo, the network’s core is flickering, threatening a cascade of signal loss. Every unsolved cipher draws the lattice tighter; every delay fuels its awakening.  
+**Status:** The orbital relay network shudders. After the failed Vigenère decryption, a dormant Caesar cipher flickers ominously, threatening to fragment the mesh. The Atbash riddle from yesterday still lies unsolved, its silence echoing through the void.
 
 ---  
 
 ## How to Play  
-
-1. **Read the transmission.** All clues, lore, and puzzles are embedded in this README.  
-2. **Solve the daily puzzle.**  
-   - Submit your answer by opening a Pull Request that adds a file under `solutions/` using the provided `solutions/TEMPLATE.md`.  
-   - Your PR must include the exact answer and a brief explanation of how you arrived at it.  
-3. **Shape the story.** Propose new twists, hidden messages, or background lore by opening an Issue.  
-4. **Tomorrow’s transmission will credit today’s solvers and lore contributors.**  
+1. **Read** the transmission (this README). All clues you need are contained herein.  
+2. **Solve** the daily puzzle.  
+3. **Submit** your answer by opening a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
+4. **Suggest** new lore twists by opening an Issue.  
+5. Tomorrow’s README will credit today’s solvers and any lore suggestions.
 
 ---  
 
 ## Hall of Fame  
 
-*No solvers have been recorded yet.*  
+*No entries yet.*  
 
 ---  
 
-## Yesterday’s Puzzle — Cipher  
+### Day 188 Puzzle — Cipher  
 
-**Challenge:** Decode the Atbash‑encoded transmission `"Gsv xlwv gl gsv dliow"`  
-
-**Status:** Unsolved  
-
-The unsolved warning still reverberates through the lattice, amplifying the risk of fragmentation.  
-
----  
-
-## Day 187 Puzzle — Coding  
-
-**Challenge:**  
-
-The relay network periodically broadcasts a status dump containing the IDs of active nodes, separated by commas, e.g.:
+A fragment of encrypted traffic has been captured. Decode it.
 
 ```
-ALPHA,BETA,GAMMA,ALPHA,DELTA,BETA,ALPHA
+FVCWHHKIMKSCBGL
 ```
 
-Write a program (in any language) that reads a single line of such a comma‑separated list from **standard input** and outputs the **ID that appears most frequently**. If multiple IDs share the highest count, output the one that is **alphabetically first**.
-
-*The program should print only the resulting ID, followed by a newline.*  
-
-**Note:** The solution file you submit should contain the code and a brief description of its operation.  
+*Your mission:* Recover the original command hidden in the ciphertext.
 
 ---  
 
-## Credits  
+### Credits  
 
-*No new solvers or lore suggesters have been recorded in the last 24 hours.*  
+**Solvers today:** — none —  
+**Lore suggestions today:** — none —  
 
 ---  
 
----  
-
-*Transmission ends. Awaiting your response…*
+*Keep the signal alive. The silence grows louder.*
