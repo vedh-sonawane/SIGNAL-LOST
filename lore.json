@@ -1,8 +1,8 @@
 {
-  "day": 190,
+  "day": 191,
   "story_summary": "The Vigenère command remains undeciphered and an Atbash cipher is still unsolved, causing the orbital relay network to destabilize.",
-  "last_challenge": "Write a program that reads 'relay_log.txt', counts the number of lines with the status code 'ERR', and outputs that count as an integer.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Atbash cipher hidden in the transmission to discover the command for the relays.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
