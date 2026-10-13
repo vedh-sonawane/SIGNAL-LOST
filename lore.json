@@ -1,8 +1,8 @@
 {
-  "day": 192,
-  "story_summary": "The Vigenère command is still undeciphered and the Atbash cipher remains unsolved, causing the orbital relay network to destabilize.",
-  "last_challenge": "Write a program that takes the string \"RELAY\", sums the ASCII values of its characters, and outputs the sum modulo 256.",
-  "last_challenge_type": "coding",
+  "day": 193,
+  "story_summary": "The Vigenère command remains undeciphered and the Atbash cipher still unsolved, destabilizing the orbital relay network.",
+  "last_challenge": "Decode the Atbash cipher text \"GSV IVOZB RH UZFOGB\" to reveal the hidden warning.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

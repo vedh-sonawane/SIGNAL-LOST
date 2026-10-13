@@ -1,59 +1,45 @@
-# Transmission Log – Day 191 of ∞  
+# 🛰️ Orbital Relay Transmission Log  
 
-> **Warning:** The orbital relay network trembles. The Vigenère command remains an enigma, and the Atbash cipher still lies unsolved. Each missed heartbeat draws the system closer to a cascade failure.  
+**Day 192 of ∞**  
 
----  
+> The silent hum of the orbital lattice grows restless. The Vigenère command lies buried in static, and the Atbash cipher still refuses to yield its secret. With each unanswered pulse, the relay network strains, threatening a cascade of failures that could swallow the entire constellation.
 
-## Current Situation  
-
-The **Vigenère command** is still hidden within corrupted packets, and the **Atbash transmission** from yesterday failed to decode. The relay constellation is losing synchronization; without a breakthrough, the network may shut down permanently.
-
----  
-
-## Hall of Fame  
-
-*(no entries yet)*  
-
----  
+---
 
 ## How to Play  
 
-1. **Read** the README – every clue you need is right here.  
-2. **Solve** the daily puzzle.  
-   - Submit your solution by opening a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
-3. **Suggest** lore twists or new story ideas by opening an Issue.  
-4. Tomorrow’s README will credit today’s solvers and lore contributors by GitHub username.  
+1. **Solve the daily puzzle** – read the transmission, decode the clue, and write your answer in a new file based on `solutions/TEMPLATE.md`.  
+2. **Submit** – open a Pull Request that adds your solution file under `solutions/` (e.g., `solutions/day192.md`).  
+3. **Suggest Lore** – have an idea for a twist or a fragment of the network’s history? Open an Issue with your proposal.  
+4. **Tomorrow’s Log** – the next README will credit today’s solvers and any lore suggestions by GitHub username.
 
----  
+---
 
-### Day 191 Puzzle — Coding  
+## Hall of Fame  
 
-The network’s core identifier is **“RELAY.”** Write a program (in any language) that:
+*No entries yet.*  
 
-1. Takes the exact string `RELAY` (hard‑coded or supplied via standard input).  
-2. Calculates the sum of the ASCII values of each character.  
-3. Returns the result **modulo 256**.  
+---
 
-Your program should output the final integer value.  
+## Credits  
 
-*Example (pseudocode):*  
+- **Solvers today:** *(none)*  
+- **Lore suggesters today:** *(none)*  
 
-```text
-input = "RELAY"
-sum = ASCII('R') + ASCII('E') + ASCII('L') + ASCII('A') + ASCII('Y')
-output = sum % 256
+---
+
+## Day 192 Puzzle — Cipher  
+
+The transmission contains an encrypted warning. Decode the following Atbash cipher text to uncover the hidden message:
+
+```
+GSV IVOZB RH UZFOGB
 ```
 
----  
+Submit the exact plaintext as your answer.  
 
-## Today’s Solvers  
-
-*No solvers yet – be the first to restore the signal.*  
-
-## Lore Suggestions  
-
-*No suggestions yet – your ideas could shift the fate of the relays.*  
+*Remember: Atbash maps A↔Z, B↔Y, C↔X, …*  
 
 ---  
 
-*Stay vigilant. The next transmission may be the last.*
+*Stay vigilant. The relays are listening.*
