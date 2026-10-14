@@ -1,17 +1,15 @@
-# 🛰️ Orbital Relay Transmission Log  
+# 📡 Transmission Log – Day 193 of ∞  
 
-**Day 192 of ∞**  
-
-> The silent hum of the orbital lattice grows restless. The Vigenère command lies buried in static, and the Atbash cipher still refuses to yield its secret. With each unanswered pulse, the relay network strains, threatening a cascade of failures that could swallow the entire constellation.
+**Current Situation:** The Vigenère command remains undeciphered and the Atbash cipher still unsolved, destabilizing the orbital relay network. With each unsolved message, the silent hum of the relays grows louder, hinting at an awakening intelligence that watches our every transmission.
 
 ---
 
 ## How to Play  
 
-1. **Solve the daily puzzle** – read the transmission, decode the clue, and write your answer in a new file based on `solutions/TEMPLATE.md`.  
-2. **Submit** – open a Pull Request that adds your solution file under `solutions/` (e.g., `solutions/day192.md`).  
-3. **Suggest Lore** – have an idea for a twist or a fragment of the network’s history? Open an Issue with your proposal.  
-4. **Tomorrow’s Log** – the next README will credit today’s solvers and any lore suggestions by GitHub username.
+1. **Read the transmission.** All clues, puzzles, and lore are embedded in this README.  
+2. **Submit a solution.** Fork the repository, add a file under `solutions/` using the `solutions/TEMPLATE.md` format, and open a Pull Request.  
+3. **Suggest lore.** If you have a twist, theory, or background idea, open an Issue with the tag `lore`.  
+4. **Earn your place.** Successful solvers and lore contributors are recorded in the Hall of Fame and credited in the next day's transmission.  
 
 ---
 
@@ -21,25 +19,27 @@
 
 ---
 
-## Credits  
+## Day 193 Puzzle — coding  
 
-- **Solvers today:** *(none)*  
-- **Lore suggesters today:** *(none)*  
+The relay network has begun to emit a low‑frequency pulse that, when sampled, yields a sequence of numbers. Engineers suspect this pulse encodes a Vigenère key that could finally unlock the command.  
+
+**Your task:** Write a program (in any language) that:
+
+1. Accepts two inputs:  
+   - A **ciphertext** string (uppercase, A‑Z, no spaces).  
+   - A **key** string (uppercase, A‑Z).  
+2. Performs Vigenère decryption, aligning the key repeatedly with the ciphertext.  
+3. Outputs the resulting **plaintext** (uppercase, A‑Z, no spaces).  
+
+The program will be tested against the hidden ciphertext **`KXQZJ`** and the key **`STAR`**. The correct plaintext must be returned for the Pull Request to be accepted.
+
+*Remember: the network is listening. Every failed attempt may draw its attention.*
 
 ---
 
-## Day 192 Puzzle — Cipher  
+## Credits  
 
-The transmission contains an encrypted warning. Decode the following Atbash cipher text to uncover the hidden message:
+- **Solvers today:** *(none yet)*  
+- **Lore suggesters today:** *(none yet)*  
 
-```
-GSV IVOZB RH UZFOGB
-```
-
-Submit the exact plaintext as your answer.  
-
-*Remember: Atbash maps A↔Z, B↔Y, C↔X, …*  
-
----  
-
-*Stay vigilant. The relays are listening.*
+---
