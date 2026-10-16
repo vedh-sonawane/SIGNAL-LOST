@@ -1,55 +1,58 @@
-# 🚀 Transmission Log – Day 194 of ∞  
+# 📡 Transmission Log – Day 195 of ∞
 
-**Status:** The orbital relay network flickers. The Vigenère command remains undeciphered, and the Atbash cipher still eludes us, threatening a cascade of signal loss.
-
----
-
-## 📖 Story So Far  
-The hidden command embedded in the Vigenère matrix has resisted all attempts at decryption. Every failed try drains a fraction of the relay’s power, and the Atbash cipher—our last hope for a backup key—remains unsolved. If the network collapses, the entire constellation may go silent.
+> **Status Update** – The orbital relay lattice shudders under the weight of unsolved cryptic commands. The Vigenère transmission remains a dead‑end, and the Atbash beacon still whispers nonsense. Every missed solution fuels a growing instability; the network may soon sever contact entirely.
 
 ---
 
-## 🧩 Day 194 Puzzle — **Cipher**
-
-A fragment of an ancient transmission has been intercepted. It appears to be encoded with a simple substitution that mirrors the alphabet.
-
-```
-GSV HRTMZO RH UZRMG
-```
-
-**Your mission:** Decode the message and report the plaintext in a new file under `solutions/` (see the template in `solutions/TEMPLATE.md`).  
-
-*Hint: The cipher reflects A↔Z, B↔Y, …*
+## 📜 Story So Far
+- The **Vigenère command** is still indecipherable.  
+- The **Atbash cipher** (`GSV HRTMZO RH UZRMG`) was left unanswered yesterday, deepening the darkness.  
+- The **orbital relay network** is destabilizing, and each unsolved puzzle draws the system closer to a cascade failure.
 
 ---
 
-## 🎮 How to Play  
+## 🕹️ How to Play
+1. **Read** the README – every clue, hint, and rule is embedded here.  
+2. **Solve** the daily puzzle.  
+3. **Submit** your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+4. **Suggest** new lore twists by opening an Issue.  
+5. **Tomorrow’s README** will credit today’s solvers and any lore suggestions.
 
-1. **Solve the daily puzzle.**  
-   - Read the README for all clues.  
-   - When you have the answer, open a **Pull Request** that adds a file to `solutions/` based on `solutions/TEMPLATE.md`.  
-
-2. **Suggest lore twists.**  
-   - Open an **Issue** with your idea.  
-   - Tag it with `lore` for consideration.  
-
-3. **Earn a place in the Hall of Fame.**  
-   - Each day’s README will credit the solvers and lore contributors by their GitHub usernames.  
-
-4. **Stay vigilant.**  
-   - Unsolved puzzles darken the transmission. Solving them restores a fraction of the relay’s strength.  
+### Community Rules
+- **Solutions** must be placed in `solutions/` and follow the provided template.  
+- **Lore ideas** belong in the Issues tab; keep them concise and thematic.  
+- **Credits** are awarded to the first valid PR for each puzzle and to any user whose lore suggestion is incorporated.  
 
 ---
 
-## 🏆 Hall of Fame  
+## ⚙️ Day 195 Puzzle — **coding**
 
-*(No entries yet)*  
+The relay core has begun to emit a patterned pulse. Your task is to decode the pulse algorithmically.
+
+> **Challenge:**  
+> Write a program that accepts a single word (ASCII letters only) as input. The program must:
+> 1. Reverse the word.  
+> 2. Identify all **prime‑numbered positions** in the reversed word (using 1‑based indexing).  
+> 3. Concatenate the characters at those prime positions and output the resulting string.
+
+*Example (not part of the puzzle):*  
+Input: `RELAYER` → Reverse: `YRELAER` → Prime positions 2, 3, 5, 7 → Output: `REAR`.
+
+The network awaits your implementation. Failure to respond may cause further signal degradation.
 
 ---
 
-## 🙋‍♂️ Today's Credits  
+## 🏆 Hall of Fame
+*No solvers yet.*  
 
-- **Solvers:** *None yet*  
-- **Lore Suggesters:** *None yet*  
+*(Future entries will appear here, ordered by day.)*
 
-*Keep the signal alive. The next transmission may depend on you.*
+---
+
+## 📢 Credits
+- **Solvers today:** — none yet —  
+- **Lore suggesters today:** — none yet —  
+
+Stay vigilant. The next transmission may be the last before the relays go dark.  
+
+---
