@@ -1,8 +1,8 @@
 {
-  "day": 196,
+  "day": 197,
   "story_summary": "The Vigenère command remains undeciphered and the Atbash cipher still unsolved, destabilizing the orbital relay network.",
-  "last_challenge": "Write a program that takes a single word, reverses it, then extracts and concatenates characters at prime-numbered positions (1‑based) of the reversed word.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Atbash cipher text \"GSV HRTMZO RH OREV\" to discover the relay's current status.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
