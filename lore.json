@@ -1,8 +1,8 @@
 {
-  "day": 197,
-  "story_summary": "The Vigenère command remains undeciphered and the Atbash cipher still unsolved, destabilizing the orbital relay network.",
-  "last_challenge": "Decode the Atbash cipher text \"GSV HRTMZO RH OREV\" to discover the relay's current status.",
-  "last_challenge_type": "cipher",
+  "day": 198,
+  "story_summary": "The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state.",
+  "last_challenge": "Write a program that, using the Vigenère key 'KEY' and the ciphertext 'RIJVS', outputs the decoded plaintext.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

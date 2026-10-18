@@ -1,46 +1,39 @@
-# 📡 Transmission Log – Day 196 of ∞  
+# 📡 Transmission Log – Day 197 of ∞  
 
-**Current Situation** – The Vigenère command remains an inscrutable echo across the relay lattice, while the Atbash cipher continues to resist decryption. Each unanswered fragment drains power from the orbital network, and the silence grows louder.  
+**Day 197** – The Atbash relay report remains indecipherable: **“GSV HRTMZO RH OREV.”** The network trembles, its stability waning. Every unsolved cipher pulls the orbital array closer to a cascade failure.  
+
+---
+
+## Hall of Fame  
+*No credited solvers yet.*  
 
 ---
 
 ## How to Play  
 
-1. **Read** the transmission (this README) carefully – every line may hide a clue.  
-2. **Solve** the daily puzzle.  
-   - Submit your solution by opening a Pull Request that **adds** a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-   - In your PR description, state the puzzle type, answer, and a brief explanation.  
-3. **Suggest** new lore twists by opening an Issue with the label `lore`.  
-4. Tomorrow’s transmission will credit today’s solvers and any lore suggestions.  
+1. **Read the transmission** – all clues, puzzles, and lore are embedded in this README.  
+2. **Submit a solution** – open a Pull Request that adds a file under `solutions/` using the template `solutions/TEMPLATE.md`.  
+3. **Suggest new lore** – open an Issue describing your twist on the relay’s awakening.  
+4. **Tomorrow’s log** – will credit today’s successful solvers and any lore contributions by GitHub username.  
 
 ---
 
-## Hall of Fame  
+## Day 197 Puzzle — **Coding**  
 
-*No solvers have been recorded yet.*  
+The Vigenère relay key has been intercepted: **`KEY`**. A fragment of encrypted traffic is also captured: **`RIJVS`**.  
 
----
+Your mission: **Write a program (in any language) that outputs the plaintext decoded from the given ciphertext using the provided key.** The program does not need to read any input; it should simply print the result to standard output.
 
-## Day 196 Puzzle — Cipher  
-
-The network’s last burst of data contains a scrambled fragment. Decode it using the **Atbash cipher** (each letter is mirrored against the alphabet: A↔Z, B↔Y, …).  
-
-```
-GSV HRTMZO RH OREV
-```  
-
-What message does this fragment reveal about the relay’s status?
-
-*Hints will be released each hour if the puzzle remains unsolved.*
+*The solution must be reproducible by anyone reading this README alone.*  
 
 ---
 
-## Community Guidelines  
+## Community Rules  
 
-- **Solutions**: Add a markdown file in `solutions/` following the provided template.  
-- **Lore Contributions**: Open an Issue titled “Lore: …” to propose new story elements.  
-- **Credits**: Tomorrow’s README will list the usernames of anyone whose solution or lore suggestion is merged.  
+- **Solution PRs** must place a file in `solutions/` based on `solutions/TEMPLATE.md`.  
+- **Lore Issues** should be opened with a clear description of the proposed narrative twist.  
+- **Credit**: Tomorrow’s transmission will list the usernames of those who solved today’s puzzle and any notable lore suggestions.  
 
 ---  
 
-*The silence deepens. Every unsolved fragment pulls the network closer to a blackout. The next transmission may be the last.*
+*The relay awaits your code. Failure to decode may be the last signal we ever receive.*
