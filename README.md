@@ -1,39 +1,55 @@
-# 📡 Transmission Log – Day 197 of ∞  
+# 📡 Day 198 of ∞  
 
-**Day 197** – The Atbash relay report remains indecipherable: **“GSV HRTMZO RH OREV.”** The network trembles, its stability waning. Every unsolved cipher pulls the orbital array closer to a cascade failure.  
-
----
-
-## Hall of Fame  
-*No credited solvers yet.*  
+**Transmission Log – Orbital Relay Network**  
+The Atbash cipher remains unsolved, and the orbital relay network trembles on the edge of silence. Every unanswered transmission draws the silence closer, and the darkness beyond the void presses against the hull of our fragile connection.
 
 ---
 
-## How to Play  
+## 🛰️ Current Situation  
+Our relay array is still missing the key to re‑synchronize the signal pathways. The missing Atbash decryption leaves the network vulnerable to the cold vacuum that seeks to swallow our messages whole.  
 
-1. **Read the transmission** – all clues, puzzles, and lore are embedded in this README.  
-2. **Submit a solution** – open a Pull Request that adds a file under `solutions/` using the template `solutions/TEMPLATE.md`.  
-3. **Suggest new lore** – open an Issue describing your twist on the relay’s awakening.  
-4. **Tomorrow’s log** – will credit today’s successful solvers and any lore contributions by GitHub username.  
+*If this pattern is not broken, the next relay may go dark…*
 
 ---
 
-## Day 197 Puzzle — **Coding**  
+## 📜 How to Play  
 
-The Vigenère relay key has been intercepted: **`KEY`**. A fragment of encrypted traffic is also captured: **`RIJVS`**.  
-
-Your mission: **Write a program (in any language) that outputs the plaintext decoded from the given ciphertext using the provided key.** The program does not need to read any input; it should simply print the result to standard output.
-
-*The solution must be reproducible by anyone reading this README alone.*  
+1. **Read the transmission.** All clues and puzzles are contained within this README.  
+2. **Solve the daily puzzle.**  
+   - Open a Pull Request that **adds a file** under `solutions/` using the template `solutions/TEMPLATE.md`.  
+   - In the PR description, state the answer clearly.  
+3. **Suggest lore twists.** Open an Issue titled “Lore Suggestion” and describe your idea.  
+4. **Tomorrow’s README** will credit today’s solvers and any lore suggestions that were merged.
 
 ---
 
-## Community Rules  
+## 🧩 Day 198 Puzzle — **Cipher**  
 
-- **Solution PRs** must place a file in `solutions/` based on `solutions/TEMPLATE.md`.  
-- **Lore Issues** should be opened with a clear description of the proposed narrative twist.  
-- **Credit**: Tomorrow’s transmission will list the usernames of those who solved today’s puzzle and any notable lore suggestions.  
+The network has managed to capture a fragment of an ancient transmission. It appears to be encoded with a simple substitution that mirrors the alphabet.
+
+```
+GSV XLWV RH Z GVHG
+```
+
+*Decode the message and restore a piece of the lost protocol.*
+
+---
+
+## 🏆 Hall of Fame  
+
+| Day | Solver(s) | Contribution |
+|-----|-----------|--------------|
+| —   | *(none yet)* | — |
+
+*No new solvers have been recorded in the last 24 hours.*  
+
+*No lore suggestions have been submitted in the last 24 hours.*
+
+---
+
+## 📡 Transmission Footer  
+Stay vigilant. Every unsolved cipher is a crack in the shield that protects us from the void. The next signal may be our last chance.
 
 ---  
 
-*The relay awaits your code. Failure to decode may be the last signal we ever receive.*
+*(End of transmission)*
