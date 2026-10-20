@@ -1,55 +1,45 @@
-# 📡 Day 198 of ∞  
+# 📡 Day 199 of ∞  
 
 **Transmission Log – Orbital Relay Network**  
-The Atbash cipher remains unsolved, and the orbital relay network trembles on the edge of silence. Every unanswered transmission draws the silence closer, and the darkness beyond the void presses against the hull of our fragile connection.
+The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state as darkness presses against the fragile signal. Every unanswered transmission weakens the lattice; the void grows ever‑more patient.
 
 ---
 
-## 🛰️ Current Situation  
-Our relay array is still missing the key to re‑synchronize the signal pathways. The missing Atbash decryption leaves the network vulnerable to the cold vacuum that seeks to swallow our messages whole.  
+## How to Play  
 
-*If this pattern is not broken, the next relay may go dark…*
-
----
-
-## 📜 How to Play  
-
-1. **Read the transmission.** All clues and puzzles are contained within this README.  
-2. **Solve the daily puzzle.**  
-   - Open a Pull Request that **adds a file** under `solutions/` using the template `solutions/TEMPLATE.md`.  
-   - In the PR description, state the answer clearly.  
-3. **Suggest lore twists.** Open an Issue titled “Lore Suggestion” and describe your idea.  
-4. **Tomorrow’s README** will credit today’s solvers and any lore suggestions that were merged.
+1. **Read the transmission.** All clues, lore, and puzzles are contained in this README.  
+2. **Solve the daily challenge.** When you have the answer, open a Pull Request that **adds a file** under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Propose new twists.** Got a lore idea? Open an Issue with the tag `lore`.  
+4. **Tomorrow’s transmission** will credit today’s solvers and any lore suggestions.
 
 ---
 
-## 🧩 Day 198 Puzzle — **Cipher**  
+### Day 199 Puzzle — coding  
 
-The network has managed to capture a fragment of an ancient transmission. It appears to be encoded with a simple substitution that mirrors the alphabet.
+The relay array is receiving a raw binary telemetry burst. Engineers need a quick diagnostic: determine how “strong” the burst is by measuring the longest uninterrupted stretch of active signal (`1`s).  
 
-```
-GSV XLWV RH Z GVHG
-```
+**Your task:** Write a program (in any language) that accepts a binary string (e.g., `11011101111`) and outputs the **decimal number** equal to the length of the longest consecutive run of `1` characters in that string.
 
-*Decode the message and restore a piece of the lost protocol.*
+*Example:*  
+Input: `11011101111` → The longest run of `1`s is `4` (the final four `1`s) → Output: `4`.
 
----
-
-## 🏆 Hall of Fame  
-
-| Day | Solver(s) | Contribution |
-|-----|-----------|--------------|
-| —   | *(none yet)* | — |
-
-*No new solvers have been recorded in the last 24 hours.*  
-
-*No lore suggestions have been submitted in the last 24 hours.*
+Submit your solution file (with code and brief explanation) in a new PR under `solutions/`.
 
 ---
 
-## 📡 Transmission Footer  
-Stay vigilant. Every unsolved cipher is a crack in the shield that protects us from the void. The next signal may be our last chance.
+## Hall of Fame  
 
----  
+*No solvers have been recorded yet.*  
 
-*(End of transmission)*
+*(Future entries will appear here as the network awakens.)*
+
+---
+
+### Credits  
+
+- **Solvers today:** —  
+- **Lore suggesters today:** —  
+
+Stay vigilant. The darkness watches.  
+
+---
