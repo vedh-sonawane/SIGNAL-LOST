@@ -1,8 +1,8 @@
 {
-  "day": 200,
+  "day": 201,
   "story_summary": "The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state as darkness presses against the fragile signal.",
-  "last_challenge": "Write a program that takes a binary string as input and outputs the decimal value equal to the length of the longest consecutive run of '1' characters in that string.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Atbash‑mirrored ciphertext \"GSV HRTMZO RH IVTZRMVW\" to reveal a phrase describing the network's condition.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
