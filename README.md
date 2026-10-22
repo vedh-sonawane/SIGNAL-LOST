@@ -1,53 +1,56 @@
-# Transmission Log – Day 200 of ∞  
+# 📡 Transmission Log – Day 201 of ∞
 
-*“The void presses, yet the relays stir. We listen for a spark.”*  
+> **Warning:** The orbital relay network shivers in the encroaching void. The Atbash cipher left us blind, and without a beacon the darkness threatens to swallow our signal entirely.  
+> *Proceed with caution; every byte counts.*
 
----  
+---
 
-## How to Play  
+## How to Play
 
-1. **Read** the transmission (this README).  
-2. **Solve** the daily puzzle hidden within the text.  
-3. **Submit** your answer by opening a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
-4. **Suggest** new lore twists by opening an Issue.  
+1. **Read** the entire README – every clue, hint, and instruction is part of the transmission.  
+2. **Solve** the daily puzzle (type rotates: coding → cipher → riddle → logic).  
+3. **Submit** your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+4. **Suggest** new lore twists, hidden relays, or alternate histories by opening an Issue.  
+5. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.
 
-Tomorrow’s README will credit today’s solvers and any lore suggestions that were merged.  
+---
 
----  
+### Day 201 Puzzle — **coding**
 
-## Hall of Fame  
+The network’s core processor has been rebooted, but it lacks a verification routine. Write a **Python** function named `relay_checksum` that accepts a single argument `message` (a string of **UPPERCASE** letters, no spaces) and returns an integer calculated as follows:
 
-*No solvers have been credited yet.*  
+1. Determine the alphabetical index of each character (`A=1`, `B=2`, … `Z=26`).  
+2. Sum those indices.  
+3. Multiply the sum by the total length of `message`.  
 
----  
-
-## Yesterday’s Challenge – Unsolved  
-
-> **Type:** Coding  
-> Write a program that takes a binary string as input and outputs the decimal value equal to the length of the longest consecutive run of `1` characters in that string.  
-
-The darkness deepens as the relay network awaits a signal.  
-
----  
-
-## Day 200 Puzzle — Cipher  
-
-A fragment of a transmission was intercepted, but the letters appear reversed, as if reflected in a cosmic mirror.  
-
-```
-GSV HRTMZO RH IVTZRMVW
+**Example:**  
+```python
+relay_checksum("STABLE")  # (19+20+1+2+12+5) * 6 = 59 * 6 = 354
 ```
 
-Decode the message to reveal the next clue about the state of the network.  
+Submit a file `solutions/your_username.md` containing the implementation and a brief explanation of how it works.
 
----  
+---
 
-## Community Rules  
+## Community Guidelines
 
-- **Solutions:** Add a file under `solutions/` based on `solutions/TEMPLATE.md` and open a Pull Request.  
-- **Lore Suggestions:** Open an Issue with your idea; maintainers will review and merge the most compelling twists.  
-- **Credits:** Tomorrow’s log will list the usernames of those whose solutions or lore suggestions were accepted.  
+- **Solutions** must be added under `solutions/` using the provided `TEMPLATE.md`.  
+- **Lore suggestions** belong in Issues; keep them concise and thematic.  
+- **Credits**: Tomorrow’s transmission will list the usernames of anyone whose solution or lore suggestion is merged.
 
----  
+---
 
-*Stay vigilant. The signal is faint, but not yet lost.*
+## Hall of Fame
+
+*No entries yet.*  
+
+> *When the first signal pierces the darkness, their names will be etched here.*
+
+---
+
+## Credits
+
+- **New Solvers (Day 201):** *None yet – the void awaits your code.*  
+- **Lore Suggesters (Day 201):** *None yet – whisper your ideas in the Issues.*  
+
+---
