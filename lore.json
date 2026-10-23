@@ -1,8 +1,8 @@
 {
-  "day": 202,
+  "day": 203,
   "story_summary": "The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state as darkness presses against the fragile signal.",
-  "last_challenge": "Write a Python function `relay_checksum(message)` that sums the alphabetical positions of each uppercase letter in the input string and multiplies the sum by the string's length, returning the resulting integer.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Atbash‑encoded transmission \"IVOZB IVZXGREZGVW\" to learn the relay's status.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

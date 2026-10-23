@@ -1,56 +1,52 @@
-# 📡 Transmission Log – Day 201 of ∞
+# 📡 Transmission Log – Day 202 of ∞  
 
-> **Warning:** The orbital relay network shivers in the encroaching void. The Atbash cipher left us blind, and without a beacon the darkness threatens to swallow our signal entirely.  
-> *Proceed with caution; every byte counts.*
-
----
-
-## How to Play
-
-1. **Read** the entire README – every clue, hint, and instruction is part of the transmission.  
-2. **Solve** the daily puzzle (type rotates: coding → cipher → riddle → logic).  
-3. **Submit** your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest** new lore twists, hidden relays, or alternate histories by opening an Issue.  
-5. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.
+**Current Status:** The orbital relay network trembles in the gathering gloom. The Atbash cipher that should restore the main uplink remains unsolved, and darkness presses ever closer to the fragile signal.
 
 ---
 
-### Day 201 Puzzle — **coding**
+## 📖 Story So Far  
+The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state as darkness presses against the fragile signal.
 
-The network’s core processor has been rebooted, but it lacks a verification routine. Write a **Python** function named `relay_checksum` that accepts a single argument `message` (a string of **UPPERCASE** letters, no spaces) and returns an integer calculated as follows:
+---
 
-1. Determine the alphabetical index of each character (`A=1`, `B=2`, … `Z=26`).  
-2. Sum those indices.  
-3. Multiply the sum by the total length of `message`.  
+## 🕹️ How to Play  
 
-**Example:**  
-```python
-relay_checksum("STABLE")  # (19+20+1+2+12+5) * 6 = 59 * 6 = 354
+1. **Read the transmission.** All clues and puzzles are contained in this README.  
+2. **Solve the daily puzzle.** Each day a new challenge appears (coding, cipher, riddle, or logic – rotating in that order).  
+3. **Submit your solution.** Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+4. **Suggest lore twists.** Open an Issue to propose new story elements, hidden stations, or strange phenomena.  
+5. **Earn recognition.** Tomorrow’s README will credit anyone who solved today’s puzzle or contributed notable lore suggestions.
+
+---
+
+### Day 202 Puzzle — Cipher  
+
+The signal flickers, a garbled string of letters that may hold the key to re‑energising the relays:
+
+```
+IVOZB IVZXGREZGVW
 ```
 
-Submit a file `solutions/your_username.md` containing the implementation and a brief explanation of how it works.
+**Your task:** Decode the message using the cipher hinted at in the previous transmissions.  
+
+*Hint 1:* The cipher is a simple substitution where the first letter of the alphabet swaps with the last.  
+*Hint 2:* Think of a mirror placed across the alphabet.  
+*Hint 3:* Decoding reveals a phrase about the relay’s status.
+
+Submit the plaintext answer in a new file under `solutions/` (e.g., `solutions/202_atbash.md`).  
 
 ---
 
-## Community Guidelines
+## 🏆 Hall of Fame  
 
-- **Solutions** must be added under `solutions/` using the provided `TEMPLATE.md`.  
-- **Lore suggestions** belong in Issues; keep them concise and thematic.  
-- **Credits**: Tomorrow’s transmission will list the usernames of anyone whose solution or lore suggestion is merged.
+*No solvers have been credited yet.*  
 
 ---
 
-## Hall of Fame
+## 📣 Credits  
 
-*No entries yet.*  
-
-> *When the first signal pierces the darkness, their names will be etched here.*
+*No new solvers or lore suggesters in the last 24 hours.*  
 
 ---
 
-## Credits
-
-- **New Solvers (Day 201):** *None yet – the void awaits your code.*  
-- **Lore Suggesters (Day 201):** *None yet – whisper your ideas in the Issues.*  
-
----
+*The darkness grows. Will the next transmission bring light?*
