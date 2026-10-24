@@ -1,8 +1,8 @@
 {
-  "day": 203,
-  "story_summary": "The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state as darkness presses against the fragile signal.",
-  "last_challenge": "Decode the Atbash‑encoded transmission \"IVOZB IVZXGREZGVW\" to learn the relay's status.",
-  "last_challenge_type": "cipher",
+  "day": 204,
+  "story_summary": "The Atbash relay transmission remains unread, leaving the orbital network shrouded in darkness.",
+  "last_challenge": "Write a program that reads a binary string from stdin and outputs the count of '1' characters.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

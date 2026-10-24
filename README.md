@@ -1,52 +1,67 @@
-# 📡 Transmission Log – Day 202 of ∞  
+# Day 203 of ∞  
 
-**Current Status:** The orbital relay network trembles in the gathering gloom. The Atbash cipher that should restore the main uplink remains unsolved, and darkness presses ever closer to the fragile signal.
+**Transmission Log – Orbital Relay Network**  
 
----
-
-## 📖 Story So Far  
-The Atbash cipher remains unsolved, leaving the orbital relay network in a precarious state as darkness presses against the fragile signal.
+The Atbash‑encoded beacon “IVOZB IVZXGREZGVW” still eludes us.  
+Without its status, the fragile lattice of relays flickers in the void, and the encroaching darkness threatens to sever the last threads of contact.
 
 ---
 
-## 🕹️ How to Play  
+## How to Play  
 
-1. **Read the transmission.** All clues and puzzles are contained in this README.  
-2. **Solve the daily puzzle.** Each day a new challenge appears (coding, cipher, riddle, or logic – rotating in that order).  
-3. **Submit your solution.** Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest lore twists.** Open an Issue to propose new story elements, hidden stations, or strange phenomena.  
-5. **Earn recognition.** Tomorrow’s README will credit anyone who solved today’s puzzle or contributed notable lore suggestions.
+1. **Read** the entire README – every clue, hint, and instruction is encoded in the text itself.  
+2. **Solve** the daily puzzle.  
+   - Submit your solution by opening a **Pull Request** that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Contribute** lore or twists by opening an **Issue**.  
+4. Tomorrow’s README will credit today’s solvers and any notable lore suggestions by GitHub username.
 
 ---
 
-### Day 202 Puzzle — Cipher  
+## Community Rules  
 
-The signal flickers, a garbled string of letters that may hold the key to re‑energising the relays:
+- **Solution PRs** must follow the repository’s template and include a brief explanation of your approach.  
+- **Lore Issues** should be clearly labeled `lore: suggestion` and contain a concise narrative idea.  
+- **Credits**: Each day’s README will list the usernames of those who solved the puzzle and those who offered lore suggestions.
+
+---
+
+## Hall of Fame  
+
+*(no entries yet)*  
+
+---
+
+## Day 203 Puzzle — **Coding**  
+
+The relay’s signal is a simple binary pulse that encodes its health.  
+Your task:
+
+> **Write a program** that reads a single line containing only the characters `0` and `1` (the binary pulse) from standard input and **outputs the number of `1` bits** present in that line.
+
+*Example*  
 
 ```
-IVOZB IVZXGREZGVW
+Input:  1100101
+Output: 4
 ```
 
-**Your task:** Decode the message using the cipher hinted at in the previous transmissions.  
-
-*Hint 1:* The cipher is a simple substitution where the first letter of the alphabet swaps with the last.  
-*Hint 2:* Think of a mirror placed across the alphabet.  
-*Hint 3:* Decoding reveals a phrase about the relay’s status.
-
-Submit the plaintext answer in a new file under `solutions/` (e.g., `solutions/202_atbash.md`).  
+The program should handle any length of binary string (up to at least 10,000 characters) and print only the integer count.
 
 ---
 
-## 🏆 Hall of Fame  
+### Hints  
 
-*No solvers have been credited yet.*  
-
----
-
-## 📣 Credits  
-
-*No new solvers or lore suggesters in the last 24 hours.*  
+1. The puzzle is about **counting** specific characters.  
+2. Treat the input as a **sequence of symbols**; you don’t need to interpret it as a number.  
+3. The final output is a **single integer** representing how many times `1` appears.
 
 ---
 
-*The darkness grows. Will the next transmission bring light?*
+### Credits for Today  
+
+- **Solvers:** *(none yet)*  
+- **Lore suggestions:** *(none yet)*  
+
+---  
+
+*The network waits. Will the next transmission break the silence?*
