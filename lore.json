@@ -1,8 +1,8 @@
 {
-  "day": 204,
+  "day": 205,
   "story_summary": "The Atbash relay transmission remains unread, leaving the orbital network shrouded in darkness.",
-  "last_challenge": "Write a program that reads a binary string from stdin and outputs the count of '1' characters.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Atbash cipher text \"Ozfmxs gsv yvzx lm\" to reveal the hidden command the network is waiting for.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
