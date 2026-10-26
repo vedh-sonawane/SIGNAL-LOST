@@ -1,8 +1,8 @@
 {
-  "day": 205,
+  "day": 206,
   "story_summary": "The Atbash relay transmission remains unread, leaving the orbital network shrouded in darkness.",
-  "last_challenge": "Decode the Atbash cipher text \"Ozfmxs gsv yvzx lm\" to reveal the hidden command the network is waiting for.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that, without reading any external input, prints the exact reverse of the hidden command \"Launch the beacon\".",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
