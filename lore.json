@@ -1,8 +1,8 @@
 {
-  "day": 206,
-  "story_summary": "The Atbash relay transmission remains unread, leaving the orbital network shrouded in darkness.",
-  "last_challenge": "Write a program that, without reading any external input, prints the exact reverse of the hidden command \"Launch the beacon\".",
-  "last_challenge_type": "coding",
+  "day": 207,
+  "story_summary": "The Atbash relay transmission remains unread, deepening the darkness over the orbital network.",
+  "last_challenge": "Decode the Atbash‑encoded message \"VMTZTV GSV IVOZB\" and submit the plaintext.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

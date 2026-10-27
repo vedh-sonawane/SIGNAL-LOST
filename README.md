@@ -1,59 +1,47 @@
-# Day 205 of ∞  
+# Day 206 of ∞  
 
 **Transmission Log – Orbital Relay Network**  
+The Atbash relay transmission remains unread, leaving the orbital network shrouded in darkness. Each unanswered pulse deepens the void, and the silence grows louder with every missed heartbeat.
 
-The Atbash relay transmission remains unread, leaving the orbital network shrouded in darkness. Yesterday’s attempt to decode the Atbash cipher failed, and the silence deepens. The network awaits the command that will awaken its dormant relays.
-
----  
+---
 
 ## How to Play  
 
-1. **Read the README** – All clues, story beats, and puzzle instructions are contained here.  
-2. **Solve the daily puzzle** – Each day a new challenge (coding, cipher, riddle, or logic) is posted.  
-3. **Submit your solution** – Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest lore twists** – Open an Issue to propose new story elements or twists.  
-5. **Tomorrow’s README** will credit today’s solvers and any lore suggestions.  
+1. **Read the transmission** – All clues, story beats, and puzzles are contained within this README.  
+2. **Solve the daily puzzle** – The type rotates each day (coding → cipher → riddle → logic → …).  
+3. **Submit your solution** – Open a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
+4. **Suggest lore** – Propose twists, new characters, or hidden histories by opening an Issue.  
+5. **Tomorrow’s README** will credit today’s solvers and lore contributors by their GitHub usernames.
 
----  
+---
 
-## Day 205 Puzzle — Coding  
+## Day 206 Puzzle — Cipher  
 
-The hidden command the network is waiting for was the phrase you were asked to decode yesterday: **“Launch the beacon.”**  
-
-Your task: **Write a program (in any language) that, without reading any external input, prints the exact reverse of that phrase.**  
-
-The program must output a single line containing the reversed string and nothing else.  
-
-*Example (pseudocode)*  
-
-```text
-print(reverse("Launch the beacon"))
-```  
-
-When executed, the program should display:
+The network has begun to pulse a garbled message. It appears to be a simple substitution, but the pattern is hidden within the very name of the relay protocol we’re trying to decode.
 
 ```
-nocaeb eht hcnuaL
-```  
+VMTZTV GSV IVOZB
+```
 
-Submit your solution as a file in `solutions/` following the provided template.  
+**Your task:** Decode the message and provide the exact plaintext phrase.  
 
----  
-
-## Community Rules  
-
-- **Solutions** – Add a file under `solutions/` using `solutions/TEMPLATE.md`.  
-- **Lore Suggestions** – Open an Issue to propose story developments.  
-- **Credit** – Tomorrow’s README will list today’s successful solvers and notable lore contributors by their GitHub usernames.  
+*Remember: the relay’s name hints at the method.*  
 
 ---  
 
 ## Hall of Fame  
 
-*No solvers have been credited yet.*  
+*No solvers have been recorded yet.*  
 
 ---  
 
 ## Credits  
 
-*No new solvers or lore suggesters to report for Day 205.*
+- **Solvers today:** _none_  
+- **Lore suggestions today:** _none_  
+
+---  
+
+*The darkness waits. Every moment the relays stay silent, the network drifts further from awakening. Will you be the one to break the cipher and restore the signal?*  
+
+---
