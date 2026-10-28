@@ -1,8 +1,8 @@
 {
-  "day": 207,
+  "day": 208,
   "story_summary": "The Atbash relay transmission remains unread, deepening the darkness over the orbital network.",
-  "last_challenge": "Decode the Atbash‑encoded message \"VMTZTV GSV IVOZB\" and submit the plaintext.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads the file 'signal.txt' containing space‑separated two‑character hexadecimal values, converts each valid hex token to its ASCII character, concatenates them, and prints the resulting plaintext, ignoring any invalid tokens.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
