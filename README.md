@@ -1,58 +1,43 @@
-# Transmission Log – Day 207 of ∞  
+# Day 208 of ∞  
 
-**Current Situation**  
-The Atbash relay transmission remains unread, deepening the darkness over the orbital network. The silence grows louder as the orbital relays await a deciphered signal to awaken their dormant protocols.
+**Transmission Log – Orbital Relay Network**  
 
----
+The darkness deepens. The Atbash relay transmission remains unread, casting a shadow over the orbital network. Our sensors have captured a fragment of a hidden message, but the cipher still masks its meaning.  
 
-## Hall of Fame  
-*(no entries yet)*  
-
----
+---  
 
 ## How to Play  
 
-1. **Read the transmission** – All clues, story beats, and puzzles are contained within this README.  
-2. **Solve the daily challenge** – Each day a new puzzle (coding, cipher, riddle, or logic) appears under the “Day X Puzzle” heading.  
-3. **Submit your answer** – Fork the repository, add a file under `solutions/` using the template at `solutions/TEMPLATE.md`, and open a Pull Request.  
-4. **Suggest lore** – Got a twist for the network? Open an Issue titled *Lore Suggestion* and describe your idea.  
-5. **Earn your place** – Solvers and lore contributors are credited on the next day’s README and added to the Hall of Fame.
+1. **Read the README** – All clues, puzzles, and lore are contained here.  
+2. **Solve the daily puzzle** – Each day a new challenge appears (coding, cipher, riddle, or logic).  
+3. **Submit your solution** – Open a Pull Request that adds a file under `solutions/` using `solutions/TEMPLATE.md`.  
+4. **Suggest lore twists** – Open an Issue to propose new story elements or twists.  
+5. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.  
 
----
+---  
 
-### Day 207 Puzzle — Coding Challenge  
+## Day 208 Puzzle — Cipher  
 
-The network has intercepted a raw telemetry dump named **`signal.txt`**.  
-Its contents are a series of two‑character hexadecimal values separated by spaces, e.g.:
-
-```
-48 65 6C 6C 6F 20 41 73 74 72 6F 6E 61 75 74
-```
-
-Your task is to write a program (in any language) that:
-
-* Reads the file `signal.txt` from the repository root.  
-* Parses each hexadecimal token, converts it to its ASCII character, and concatenates the results.  
-* Outputs the resulting plaintext string to standard output, **ignoring any token that is not a valid two‑character hex value**.
-
-*Example*: For the sample line above the program should output:
+Within the following transmission, an Atbash‑encoded message lies. Decode it to reveal the next coordinates.  
 
 ```
-Hello Astronaut
-```
+GSV HRTMZO RH UZRMG
+```  
 
-Submit your solution as a new file under `solutions/` (e.g., `solutions/your_github_username.md`) following the provided template.
+*Remember: the Atbash cipher mirrors the alphabet (A↔Z, B↔Y, …).*
 
----
+---  
+
+## Hall of Fame  
+
+*(none yet)*  
+
+---  
 
 ## Credits  
 
-**Today's Solvers:** — none yet —  
+No new solvers or lore suggesters reported in the last 24 hours.  
 
-**Lore Suggesters:** — none yet —  
-
----
-
-*The darkness watches. Will the next transmission break the silence?*  
+---  
 
 ---
