@@ -1,8 +1,8 @@
 {
-  "day": 209,
+  "day": 210,
   "story_summary": "The Atbash relay transmission remains unread, deepening the darkness over the orbital network.",
-  "last_challenge": "Decode the Atbash‑encoded transmission \"GSV HRTMZO RH UZRMG\" to reveal the hidden message.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a short program that takes the Atbash‑encoded string \"GSV HRTMZO RH UZRMG\" and outputs the decoded plaintext.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

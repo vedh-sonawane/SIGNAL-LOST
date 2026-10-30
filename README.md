@@ -1,43 +1,49 @@
-# Day 208 of ∞  
+# Day 209 of ∞  
 
 **Transmission Log – Orbital Relay Network**  
 
-The darkness deepens. The Atbash relay transmission remains unread, casting a shadow over the orbital network. Our sensors have captured a fragment of a hidden message, but the cipher still masks its meaning.  
+> The Atbash relay transmission remains unread, deepening the darkness over the orbital network.  
+> The silence grows louder; the relays pulse with an unseen urgency.  
 
 ---  
 
 ## How to Play  
 
-1. **Read the README** – All clues, puzzles, and lore are contained here.  
-2. **Solve the daily puzzle** – Each day a new challenge appears (coding, cipher, riddle, or logic).  
-3. **Submit your solution** – Open a Pull Request that adds a file under `solutions/` using `solutions/TEMPLATE.md`.  
-4. **Suggest lore twists** – Open an Issue to propose new story elements or twists.  
-5. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.  
-
----  
-
-## Day 208 Puzzle — Cipher  
-
-Within the following transmission, an Atbash‑encoded message lies. Decode it to reveal the next coordinates.  
-
-```
-GSV HRTMZO RH UZRMG
-```  
-
-*Remember: the Atbash cipher mirrors the alphabet (A↔Z, B↔Y, …).*
+1. **Read** the entire README – every line may contain a clue.  
+2. **Solve** today’s puzzle. The answer must be submitted by opening a **Pull Request** that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Suggest** new lore twists by opening an **Issue**.  
+4. **Tomorrow** the README will credit today’s solvers and any notable lore suggestions.  
 
 ---  
 
 ## Hall of Fame  
 
-*(none yet)*  
+*No solvers yet.*  
 
 ---  
 
-## Credits  
+## Day 209 Puzzle — **coding**  
 
-No new solvers or lore suggesters reported in the last 24 hours.  
+The previous Atbash transmission has not been decoded. Your mission:  
+
+> **Write a short program** that takes the Atbash‑encoded string  
+
+```
+GSV HRTMZO RH UZRMG
+```  
+
+and outputs the decoded plaintext.  
+
+The program may be in any language, but it must clearly demonstrate the Atbash transformation and print the resulting English phrase.  
 
 ---  
 
----
+### Community Rules  
+
+- **Submitting Solutions:** Create a new file in `solutions/` using the provided `solutions/TEMPLATE.md`.  
+- **Lore Suggestions:** Open an Issue with the label `lore`.  
+- **Credit:** Tomorrow’s README will list the usernames of anyone whose solution passes review, as well as any contributors to the story.  
+
+---  
+
+*Stay vigilant. The network watches, and every unanswered transmission draws the darkness nearer.*
