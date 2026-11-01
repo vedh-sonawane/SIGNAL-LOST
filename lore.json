@@ -1,8 +1,8 @@
 {
-  "day": 211,
+  "day": 212,
   "story_summary": "The Atbash relay remains unread, deepening the darkness over the orbital network.",
-  "last_challenge": "Decode the Rot13 transmission: 'URYYB JBEYQ'.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads a binary string from stdin and outputs its decimal representation.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
