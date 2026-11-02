@@ -1,8 +1,8 @@
 {
-  "day": 212,
-  "story_summary": "The Atbash relay remains unread, deepening the darkness over the orbital network.",
-  "last_challenge": "Write a program that reads a binary string from stdin and outputs its decimal representation.",
-  "last_challenge_type": "coding",
+  "day": 213,
+  "story_summary": "The Atbash relay remains unread, deepening the darkness over the orbital network, and yesterday's binary-to-decimal coding challenge went unsolved.",
+  "last_challenge": "Decode the Atbash‑ciphered transmission: \"GSV IVOZB RH ZDZPVMRMT\".",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
