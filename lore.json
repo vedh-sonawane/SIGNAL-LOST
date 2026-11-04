@@ -1,8 +1,8 @@
 {
-  "day": 214,
-  "story_summary": "The Atbash relay remains unread, deepening the darkness over the orbital network, and yesterday's binary-to-decimal coding challenge went unsolved.",
-  "last_challenge": "Write a program that reads a single uppercase string and outputs the number of distinct letters that appear exactly three times in the string.",
-  "last_challenge_type": "coding",
+  "day": 215,
+  "story_summary": "The Atbash relay stays unread, darkness deepens over the orbital network, and yesterday's binary‑to‑decimal coding challenge was unsolved.",
+  "last_challenge": "Decode the Atbash‑encrypted ciphertext \"GSV HRTMZO DZRGH\" to reveal the hidden message.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
