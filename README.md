@@ -1,47 +1,46 @@
-# 📡 Day 214 of ∞  
+# 📡 Transmission Log – Day 215 of ∞
 
-**Transmission Log – Orbital Relay Network**  
-
-> The Atbash relay remains unread, deepening the darkness over the orbital network, and yesterday's binary‑to‑decimal coding challenge went unsolved. The silence grows louder; the relays hunger for a voice.
+> **Warning:** The orbital relay network remains silent. The darkness that blankets the lattice of satellites grows thicker with each unanswered transmission. Your silence fuels the void.
 
 ---
 
-## 🛰️ How to Play  
-
-1. **Read the transmission** – everything you need to solve today’s puzzle is inside this README.  
-2. **Submit a solution** – open a Pull Request that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
-3. **Suggest lore** – have an idea for a twist in the network’s awakening? Open an Issue and describe your concept.  
-4. **Tomorrow’s transmission** will credit today’s solvers and any lore suggestions by GitHub username.
+## 📜 Story Recap  
+The Atbash relay stays unread, darkness deepens over the orbital network, and yesterday's binary‑to‑decimal coding challenge was unsolved.
 
 ---
 
-## 🧩 Day 214 Puzzle — **Cipher**
+## 🕹️ How to Play  
 
-The relay has whispered a garbled string. Decode it to learn what the network is trying to tell us.
-
-```
-GSV HRTMZO DZRGH
-```
-
-*What plain‑text message does this ciphertext hide?*  
-
-Submit the exact plaintext (case‑insensitive, spaces preserved) as the answer.
+1. **Read the transmission** – every clue, lore hint, and puzzle is embedded in this README.  
+2. **Submit a solution** – open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Suggest new lore** – open an Issue describing your twist on the network’s awakening.  
+4. **Tomorrow’s transmission** will credit today’s solvers and lore contributors by GitHub username.
 
 ---
 
-## 📜 Hall of Fame  
+## 🧩 Day 215 Puzzle — **Coding Challenge**
 
-*No solvers yet. Be the first to break the silence.*
+The network has finally begun to echo a fragment of its own code. Your task is to breathe life into it.
+
+**Challenge:**  
+Write a program (in any language) that reads a **single line** containing a binary number (e.g., `1011`) from standard input and prints its **decimal equivalent** to standard output. No extra text, just the number.
+
+*The relay’s dormant processors await this conversion to unlock the next segment of the signal.*
 
 ---
 
-## 🌌 Recent Activity  
+## 📚 Community Rules  
 
-- **New Solvers (Day 213):** — none —  
-- **Lore Suggesters (Day 213):** — none —  
+- **Solutions** must be added as a new file under `solutions/` using the provided `solutions/TEMPLATE.md`.  
+- **Lore suggestions** are to be submitted as Issues.  
+- **Credit**: Tomorrow’s README will list today’s successful solvers and any notable lore contributors by their GitHub usernames.
 
-*Your contributions could shape the fate of the orbital network. Speak now, before the darkness swallows the signal.*
+---
+
+## 🏆 Hall of Fame  
+
+*No solvers have been recorded yet.*  
 
 ---  
 
-*Stay tuned. The next transmission will carry the names of those who pierced the veil.*
+*The silence presses. Will you be the one to break it?*

@@ -1,8 +1,8 @@
 {
-  "day": 215,
-  "story_summary": "The Atbash relay stays unread, darkness deepens over the orbital network, and yesterday's binary‑to‑decimal coding challenge was unsolved.",
-  "last_challenge": "Decode the Atbash‑encrypted ciphertext \"GSV HRTMZO DZRGH\" to reveal the hidden message.",
-  "last_challenge_type": "cipher",
+  "day": 216,
+  "story_summary": "The Atbash relay stays unread, darkness deepens over the orbital network, and yesterday's binary-to-decimal coding challenge was unsolved.",
+  "last_challenge": "Write a program that reads a binary string from stdin and outputs its decimal value, with no extra formatting.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
