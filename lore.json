@@ -1,8 +1,8 @@
 {
-  "day": 218,
-  "story_summary": "The orbital relay network lies dormant, the Atbash transmission remains unread, and the darkness over the system deepens after yesterday's unsolved cipher. The community has yet to break the silence.",
-  "last_challenge": "Write a program that reads integers line‑by‑line until a line containing only 0, sums all positive prime numbers encountered (excluding the terminating 0), and outputs the sum as a single decimal integer.",
-  "last_challenge_type": "coding",
+  "day": 219,
+  "story_summary": "The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens after yesterday's unsolved coding challenge.",
+  "last_challenge": "Decode the Atbash‑encoded transmission to reveal the next clue.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
