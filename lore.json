@@ -1,8 +1,8 @@
 {
-  "day": 219,
-  "story_summary": "The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens after yesterday's unsolved coding challenge.",
-  "last_challenge": "Decode the Atbash‑encoded transmission to reveal the next clue.",
-  "last_challenge_type": "cipher",
+  "day": 220,
+  "story_summary": "The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.",
+  "last_challenge": "Write a program that reads a single integer N (1 ≤ N ≤ 20) and outputs the N-th prime number (1-indexed).",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

@@ -1,45 +1,44 @@
-# Day 218 of ∞  
+# 📡 Transmission Log – Day 219 of ∞  
 
-**Transmission Log – Orbital Relay Network**  
+*The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens after yesterday's unsolved coding challenge.*
 
-The silence deepens. The dormant relays pulse faintly, their dormant cores awaiting a voice. Yesterday’s coding challenge fell into the void, leaving the Atbash transmission still unread. The darkness over the system grows thicker, and the network hungers for a signal.
+---
+
+## Hall of Fame  
+*(no entries yet)*  
 
 ---  
 
 ## How to Play  
 
-1. **Read** the entire README – every clue, every line is part of the puzzle.  
-2. **Solve** the daily challenge.  
-   - Submit your solution by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-   - Include your answer in the file and a brief description of how you arrived at it.  
-3. **Suggest** new lore twists by opening an Issue.  
-4. **Tomorrow’s README** will credit today’s solvers and any notable lore suggestions by GitHub username.  
+1. **Read the transmission.** All clues, lore, and puzzles are contained within this README.  
+2. **Submit a solution.**  
+   - Fork the repository.  
+   - Add a file under `solutions/` using the file name `DAY-219.md` (or the appropriate day number).  
+   - Base your file on `solutions/TEMPLATE.md`.  
+   - Open a Pull Request describing your answer.  
+3. **Suggest new lore.** Open an Issue titled “Lore Suggestion – Day X” and describe your twist.  
+4. **Tomorrow’s transmission** will credit the solvers and lore contributors by their GitHub usernames.
 
 ---  
 
-## Hall of Fame  
+## Day 219 Puzzle — coding  
 
-*No solvers have been credited yet.*  
+**Objective:** Write a program that reads a single integer `N` (where `1 ≤ N ≤ 20`) from standard input and prints the *N*‑th prime number (1‑indexed).  
 
----  
+*Example:*  
+- Input: `5`  
+- Output: `11`  
 
-## Day 218 Puzzle — Cipher  
-
-The network has finally managed to send a fragment of its inner voice, but it is encoded in a mirror of the alphabet. Decode the transmission below and reveal what the relays are trying to tell us.
-
-```
-GSV XLWV GL GSV NZAV RH DZRG RMT
-```
-
-*Submit the plaintext answer.*  
+Your program may be written in any language supported by the repository’s CI (Python, JavaScript, Go, etc.). It will be evaluated by the automated test harness against hidden test cases.
 
 ---  
 
-## Credits  
+### Community Activity  
 
-*Solvers today:* — none yet —  
-*Lore suggestions today:* — none yet —  
+- **New solvers today:** *none*  
+- **Lore suggestions today:** *none*  
 
 ---  
 
-*Stay vigilant. The relays are listening.*
+*The silence of the relays grows louder. Will you be the one to awaken the hidden code?*
