@@ -1,44 +1,48 @@
-# 📡 Transmission Log – Day 219 of ∞  
-
-*The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens after yesterday's unsolved coding challenge.*
+# 📡 Day 220 of ∞  
+**Transmission Log – Orbital Relay Network**
 
 ---
 
-## Hall of Fame  
-*(no entries yet)*  
+## 📖 Current Situation  
+The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens. Every unanswered signal draws the void nearer.  
 
----  
+---
 
-## How to Play  
+## 🛠️ How to Play  
 
-1. **Read the transmission.** All clues, lore, and puzzles are contained within this README.  
-2. **Submit a solution.**  
-   - Fork the repository.  
-   - Add a file under `solutions/` using the file name `DAY-219.md` (or the appropriate day number).  
-   - Base your file on `solutions/TEMPLATE.md`.  
-   - Open a Pull Request describing your answer.  
-3. **Suggest new lore.** Open an Issue titled “Lore Suggestion – Day X” and describe your twist.  
-4. **Tomorrow’s transmission** will credit the solvers and lore contributors by their GitHub usernames.
+1. **Solve the daily puzzle** – each day a new challenge appears under the “Day X Puzzle” header.  
+2. **Submit your answer** by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Suggest lore twists** by opening an Issue with the label `lore`.  
+4. **Tomorrow’s README** will credit today’s solvers and any lore suggestions by GitHub username.  
 
----  
+*All clues are contained within this README.*  
 
-## Day 219 Puzzle — coding  
+---
 
-**Objective:** Write a program that reads a single integer `N` (where `1 ≤ N ≤ 20`) from standard input and prints the *N*‑th prime number (1‑indexed).  
+## 🧩 Day 220 Puzzle — Cipher  
 
-*Example:*  
-- Input: `5`  
-- Output: `11`  
+The network has emitted a garbled burst. Decode it using the ancient **Atbash** cipher (the alphabet reversed).  
 
-Your program may be written in any language supported by the repository’s CI (Python, JavaScript, Go, etc.). It will be evaluated by the automated test harness against hidden test cases.
+> **Cipher Text:**  
+> `GSRH RH Z HVXIVG`
 
----  
+What plain‑text message does the relay whisper?
 
-### Community Activity  
+*Provide your answer in a PR as described above.*  
 
-- **New solvers today:** *none*  
-- **Lore suggestions today:** *none*  
+---
 
----  
+## 🏆 Hall of Fame  
 
-*The silence of the relays grows louder. Will you be the one to awaken the hidden code?*
+*No solvers have been recorded yet.*  
+
+---
+
+## 📢 Credits  
+
+- **Solvers today:** *none*  
+- **Lore suggesters today:** *none*  
+
+Stay vigilant. The silence grows louder with each missed transmission.  
+
+---
