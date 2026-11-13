@@ -1,35 +1,49 @@
-# Transmission Log – Day 222 of ∞  
+# 📡 Day 223 of ∞  
 
-> **The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.**  
-
-The silence of the void grows louder with each unanswered signal. Our last request for a binary translator fell to the void, and the network’s dormant heart beats ever slower. Today we try a different key.
-
----  
-
-## How to Play  
-1. **Read the puzzle** in the “Day X Puzzle” section below.  
-2. **Create a solution file** in `solutions/` using the template `solutions/TEMPLATE.md`.  
-3. **Open a Pull Request** that adds only that file. No extra text, no modifications elsewhere.  
-4. **If you have lore ideas**, open an Issue describing your twist. Closed lore issues are credited in the next README.  
-
-*All contributions are recorded in the Hall of Fame. The next day’s README will credit today’s solvers and lore suggesters by GitHub username.*
+**Transmission Log – Orbital Relay Network**  
+The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens. The silence is growing louder; every unanswered pulse pulls the void nearer.  
 
 ---  
 
-## Hall of Fame  
-*(no entries yet)*  
+## 🕹️ How to Play  
+
+1. **Read the transmission** – every clue you need is written here.  
+2. **Solve the daily puzzle** – each day a new challenge appears, rotating between coding, cipher, riddle, and logic.  
+3. **Submit your solution** – open a Pull Request that adds a file under `solutions/` using the file `solutions/TEMPLATE.md` as a base.  
+4. **Suggest lore twists** – open an Issue with your ideas for the network’s awakening.  
+5. **Tomorrow’s README** will credit today’s solvers and any notable lore suggestions.  
 
 ---  
 
-### Day 222 Puzzle — Cipher  
+### Day 223 Puzzle — coding  
 
-The relay has finally whispered a fragment of its ancient code.  
+Write a program (in any language) that reads the following space‑separated 8‑bit binary values and prints the resulting ASCII message.
+
 ```
-GSRH RH Z HVXIVG
-```  
+01010010 01100101 01101100 01100001 01111001 00100000 01000001 01110111 01100001 01101011 01100101 01101110 01100101 01100100
+```
 
-Decode the message using the same mirror‑style alphabet that the relay hinted at in earlier transmissions. Submit the plaintext (in uppercase, without spaces or punctuation) as the solution.
+Your program should output the exact phrase encoded in the binary stream.  
+
+*Hints are provided below for those who need a little guidance.*  
 
 ---  
 
-*No solvers or lore suggesters have been recorded for today.*
+### Hall of Fame  
+
+*No solvers yet – be the first to break the silence.*  
+
+---  
+
+### Credits  
+
+- **Solvers today:** *(none)*  
+- **Lore suggesters today:** *(none)*  
+
+---  
+
+#### 📜 Puzzle Hints  
+
+1. Each block of eight bits corresponds to one ASCII character.  
+2. Convert each binary block to its decimal value, then to the matching character.  
+3. The decoded phrase is a two‑word declaration of the network’s status.

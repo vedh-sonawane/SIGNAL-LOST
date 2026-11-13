@@ -1,8 +1,8 @@
 {
-  "day": 223,
+  "day": 224,
   "story_summary": "The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.",
-  "last_challenge": "Decode the Atbash‑encoded phrase \"GSRH RH Z HVXIVG\" and submit the plaintext.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads the given space‑separated 8‑bit binary values and prints the decoded ASCII message.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
