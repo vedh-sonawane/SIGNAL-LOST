@@ -1,8 +1,8 @@
 {
-  "day": 225,
-  "story_summary": "The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.",
-  "last_challenge": "Decode the Atbash‑encoded string \"GSV NVHHZTV RH Z HVXIVG\" and submit the plaintext.",
-  "last_challenge_type": "cipher",
+  "day": 226,
+  "story_summary": "The relay array remains silent; the Atbash message is still unread, and darkness deepens.",
+  "last_challenge": "Write a function count_active that takes a binary string and returns the number of '1' characters.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

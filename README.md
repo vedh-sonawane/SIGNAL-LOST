@@ -1,52 +1,61 @@
-# Day 224 of ∞  
+# 📡 Transmission Log – Day 225 of ∞  
 
-**Transmission Log**  
-The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.
-
----
-
-## Yesterday's Transmission (Unsolved)  
-**Challenge:** Write a program that reads the given space‑separated 8‑bit binary values and prints the decoded ASCII message.  
-**Result:** No solution was submitted. The silence of the relays grows louder.
-
----
-
-## How to Play  
-
-1. **Read the transmission.** All clues, puzzles, and story elements are contained in this README.  
-2. **Submit a solution.**  
-   - Fork the repository.  
-   - Add a file under `solutions/` using the template `solutions/TEMPLATE.md`.  
-   - Describe your answer and, if applicable, include any code you wrote.  
-   - Open a Pull Request.  
-3. **Suggest lore twists.** Open an Issue with your idea; the maintainers will review and may incorporate it.  
-4. **Earn your place in the Hall of Fame.** Solvers and lore contributors are credited in the next day's transmission.
-
----
-
-## Hall of Fame  
-
-*No entries yet.*
-
----
-
-## Day 224 Puzzle — Cipher  
-
-The relay has emitted a garbled burst of characters. Decode it using the ancient Atbash method:
-
-```
-GSV NVHHZTV RH Z HVXIVG
-```
-
-*Submit the plaintext as your answer.*
-
----
-
-## Credits  
-
-*Solvers today:* —  
-*Lore suggesters today:* —  
+**Status:** The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.  
 
 ---  
 
-*The network awaits your response. The darkness does not.*
+## 📖 Story So Far  
+The ancient relay array, once a beacon of interstellar dialogue, now drifts in silence. Our last attempt to decipher the Atbash‑encoded warning failed, leaving the void unfilled and the shadows lengthening.  
+
+---  
+
+## 🕹️ How to Play  
+
+1. **Read the transmission.** Every day a new challenge is embedded in the README.  
+2. **Solve the puzzle.**  
+   - For **coding** challenges: write the requested program in any language.  
+   - For **cipher** challenges: decode the message.  
+   - For **riddle** or **logic** challenges: provide the exact answer.  
+3. **Submit your solution** by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+4. **Suggest lore twists** by opening an Issue with the label `lore`.  
+
+*Only the content of the README is needed to solve each puzzle.*  
+
+---  
+
+## ⚙️ Day 225 Puzzle — **coding**  
+
+The relay network stores its activation pattern as a binary string, where each **`1`** denotes an active relay and each **`0`** a dormant one.  
+
+**Your task:**  
+
+Create a program (in any language) that defines a function called `count_active` which:
+
+- Accepts a single argument: a non‑empty string consisting only of the characters `0` and `1`.  
+- Returns an integer representing the total number of active relays (`1`s) in the string.  
+
+*Example:*  
+
+```text
+input:  "101011"
+output: 4
+```  
+
+Submit your solution file as `solutions/day225_<your‑github‑username>.md` following the provided template.  
+
+---  
+
+## 🏆 Hall of Fame  
+
+*No solvers have been recorded yet.*  
+
+---  
+
+## 📢 Credits  
+
+- **New Solvers Today:** *None*  
+- **Lore Suggesters Today:** *None*  
+
+---  
+
+*The darkness watches. Will you be the one to rekindle the signal?*
