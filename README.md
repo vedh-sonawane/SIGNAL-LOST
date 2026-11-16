@@ -1,61 +1,59 @@
-# 📡 Transmission Log – Day 225 of ∞  
+# 📡 Transmission Log – Day 226 of ∞  
 
-**Status:** The orbital relay network lies dormant, the Atbash transmission remains unread, and darkness deepens.  
-
----  
-
-## 📖 Story So Far  
-The ancient relay array, once a beacon of interstellar dialogue, now drifts in silence. Our last attempt to decipher the Atbash‑encoded warning failed, leaving the void unfilled and the shadows lengthening.  
+**Current status:** The relay array remains silent; the Atbash message is still unread, and darkness deepens.  
 
 ---  
 
-## 🕹️ How to Play  
-
-1. **Read the transmission.** Every day a new challenge is embedded in the README.  
-2. **Solve the puzzle.**  
-   - For **coding** challenges: write the requested program in any language.  
-   - For **cipher** challenges: decode the message.  
-   - For **riddle** or **logic** challenges: provide the exact answer.  
-3. **Submit your solution** by opening a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
-4. **Suggest lore twists** by opening an Issue with the label `lore`.  
-
-*Only the content of the README is needed to solve each puzzle.*  
+## 📖 Story Recap  
+Our attempts to awaken the orbital relay network have so far only drawn whispers from the void. The previous coding challenge (counting active bits) went unanswered, and the ancient Atbash transmission still lies encrypted, its meaning lost in the static. The silence grows heavier, and the network’s dormant heart threatens to drift beyond rescue.  
 
 ---  
 
-## ⚙️ Day 225 Puzzle — **coding**  
+## 🧩 Day 226 Puzzle — Cipher  
 
-The relay network stores its activation pattern as a binary string, where each **`1`** denotes an active relay and each **`0`** a dormant one.  
+A faint burst of static carries a new encrypted transmission. Your task is to decode it.  
 
-**Your task:**  
-
-Create a program (in any language) that defines a function called `count_active` which:
-
-- Accepts a single argument: a non‑empty string consisting only of the characters `0` and `1`.  
-- Returns an integer representing the total number of active relays (`1`s) in the string.  
-
-*Example:*  
-
-```text
-input:  "101011"
-output: 4
+```
+LAEJAZNRDPICDKEKMKNRLFIUFBGYL
 ```  
 
-Submit your solution file as `solutions/day225_<your‑github‑username>.md` following the provided template.  
+The message was encrypted using a **Vigenère cipher**. The key is hinted by the stars that watch over the silent array.  
+
+*Submit your decrypted plaintext in a new file under `solutions/` based on `solutions/TEMPLATE.md`.*  
+
+---  
+
+## 🛠️ How to Play  
+
+1. **Read the transmission.** All clues you need are contained within this README.  
+2. **Solve the puzzle.**  
+   - For coding challenges: add a function in a file under `solutions/`.  
+   - For ciphers: provide the decoded plaintext.  
+   - For riddles or logic puzzles: give the exact answer.  
+3. **Submit your answer.** Open a Pull Request that adds a file to the `solutions/` directory using the provided `solutions/TEMPLATE.md`.  
+4. **Earn recognition.** Solvers will be credited in the next day's README, and the Hall of Fame will grow.  
+
+---  
+
+## 📜 Community Rules  
+
+- **Solutions:** Create a new file in `solutions/` (e.g., `solutions/your_username.md`) following the template.  
+- **Lore Suggestions:** Propose twists or background details by opening an Issue and labeling it `lore`.  
+- **Credits:** Tomorrow’s README will list today’s solvers and any notable lore contributions by GitHub username.  
 
 ---  
 
 ## 🏆 Hall of Fame  
 
-*No solvers have been recorded yet.*  
+*No entries yet.*  
 
 ---  
 
-## 📢 Credits  
+## 👤 Credits for Day 226  
 
-- **New Solvers Today:** *None*  
-- **Lore Suggesters Today:** *None*  
+- **Solvers:** *none yet*  
+- **Lore Suggesters:** *none yet*  
 
 ---  
 
-*The darkness watches. Will you be the one to rekindle the signal?*
+*The silence presses. Will you be the one to break it?*
