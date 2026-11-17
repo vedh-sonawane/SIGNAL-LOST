@@ -1,59 +1,51 @@
-# 📡 Transmission Log – Day 226 of ∞  
+# Day 227 of ∞  
 
-**Current status:** The relay array remains silent; the Atbash message is still unread, and darkness deepens.  
+*Transmission received…*  
 
----  
+The relay array remains silent; the Atbash message is still unread, and darkness deepens. Our probes sense a faint pulse, but the network refuses to speak. If we cannot coax a reply, the void may swallow us whole.
 
-## 📖 Story Recap  
-Our attempts to awaken the orbital relay network have so far only drawn whispers from the void. The previous coding challenge (counting active bits) went unanswered, and the ancient Atbash transmission still lies encrypted, its meaning lost in the static. The silence grows heavier, and the network’s dormant heart threatens to drift beyond rescue.  
+---
 
----  
+## How to Play  
 
-## 🧩 Day 226 Puzzle — Cipher  
+1. **Read the transmission.** All clues, story, and puzzles are contained in this README.  
+2. **Solve the daily puzzle.**  
+   - Submit your solution by opening a **Pull Request** that adds a file under `solutions/` using the template found at `solutions/TEMPLATE.md`.  
+3. **Suggest lore twists.**  
+   - Open an **Issue** to propose new story elements, characters, or world‑building ideas.  
+4. **Tomorrow’s transmission** will credit today’s solvers and any notable lore suggestions by GitHub username.  
 
-A faint burst of static carries a new encrypted transmission. Your task is to decode it.  
+---
 
-```
-LAEJAZNRDPICDKEKMKNRLFIUFBGYL
-```  
+### Day 227 Puzzle — Coding Challenge  
 
-The message was encrypted using a **Vigenère cipher**. The key is hinted by the stars that watch over the silent array.  
+Our signal relay expects a simple handshake: a stream of binary data that, once decoded, reveals a greeting. Write a program (in any language) that:
 
-*Submit your decrypted plaintext in a new file under `solutions/` based on `solutions/TEMPLATE.md`.*  
+1. **Reads** a single line containing five space‑separated 8‑bit binary numbers:  
 
----  
+   ```
+   01101000 01100101 01101100 01101100 01101111
+   ```  
 
-## 🛠️ How to Play  
+2. **Converts** each binary chunk to its ASCII character.  
+3. **Outputs** the resulting string, followed by a newline.
 
-1. **Read the transmission.** All clues you need are contained within this README.  
-2. **Solve the puzzle.**  
-   - For coding challenges: add a function in a file under `solutions/`.  
-   - For ciphers: provide the decoded plaintext.  
-   - For riddles or logic puzzles: give the exact answer.  
-3. **Submit your answer.** Open a Pull Request that adds a file to the `solutions/` directory using the provided `solutions/TEMPLATE.md`.  
-4. **Earn recognition.** Solvers will be credited in the next day's README, and the Hall of Fame will grow.  
+The correct output for the provided input is the word that the relays are trying to whisper.
 
----  
+*Your program may be a script, a compiled binary, or even a single‑line command—just make sure it follows the three steps above.*
 
-## 📜 Community Rules  
+---
 
-- **Solutions:** Create a new file in `solutions/` (e.g., `solutions/your_username.md`) following the template.  
-- **Lore Suggestions:** Propose twists or background details by opening an Issue and labeling it `lore`.  
-- **Credits:** Tomorrow’s README will list today’s solvers and any notable lore contributions by GitHub username.  
+## Hall of Fame  
 
----  
+*No solvers have been credited yet.*  
 
-## 🏆 Hall of Fame  
+---
 
-*No entries yet.*  
+## Credits  
 
----  
-
-## 👤 Credits for Day 226  
-
-- **Solvers:** *none yet*  
-- **Lore Suggesters:** *none yet*  
+*No new solvers or lore suggesters in the last 24 hours.*  
 
 ---  
 
-*The silence presses. Will you be the one to break it?*
+*Continue listening. The silence grows louder.*
