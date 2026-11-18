@@ -1,8 +1,8 @@
 {
-  "day": 228,
+  "day": 229,
   "story_summary": "The relay array remains silent; the Atbash message is still unread, and darkness deepens.",
-  "last_challenge": "Write a program that reads the binary string '01101000 01100101 01101100 01101100 01101111', converts each 8‑bit chunk to its ASCII character, and prints the resulting word.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Atbash cipher: \"Gsv xlwv gl gsv olxp\" and submit the plaintext.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
