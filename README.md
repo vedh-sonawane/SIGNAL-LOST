@@ -1,45 +1,51 @@
-# Transmission Log – Day 228 of ∞  
+# Day 229 of ∞  
 
-**Status:** The relay array remains silent; the Atbash message is still unread, and darkness deepens.  
+**Transmission Log – Relay Array**  
+The relay array remains silent; the Atbash message is still unread, and darkness deepens. The void between the nodes grows thicker, and the signal‑watchers feel the weight of unseen eyes.  
 
 ---  
 
 ## How to Play  
 
-1. **Read the transmission.** All clues, lore, and puzzles are contained within this README.  
-2. **Solve the daily puzzle.**  
-   - Submit your solution by opening a **Pull Request** that adds a file under `solutions/` using the template in `solutions/TEMPLATE.md`.  
-3. **Shape the story.**  
-   - Propose new twists, hidden histories, or speculative technology by opening an **Issue** labeled *lore*.  
-4. **Tomorrow’s README** will credit today’s solvers and lore contributors by GitHub username.  
+1. **Solve the Daily Puzzle** – Each day a new challenge appears under the “### Day X Puzzle” header.  
+2. **Submit Your Solution** – Fork this repository, add a file under `solutions/` using the template at `solutions/TEMPLATE.md`, and open a Pull Request.  
+3. **Suggest Lore** – Have a twist for the network’s awakening? Open an Issue and label it `lore`.  
+4. **Credit** – Tomorrow’s README will list today’s solvers and lore contributors by GitHub username.  
 
 ---  
 
-## Day 228 Puzzle — Cipher  
+### Day 229 Puzzle — coding  
 
-The silent relays have begun to whisper a garbled sequence. It appears to be a simple substitution, but the pattern is... inverted.
+The orbital relays are expecting a **heartbeat** packet. Your task is to write a program that reads a single line containing **exactly 8 binary digits** (`0` or `1`) and outputs the **decimal value** of that byte.  
+
+*Constraints*  
+
+- Input is a single string of length 8, e.g., `01101001`.  
+- Output must be the integer representation (0‑255) followed by a newline.  
+- Any other input should cause the program to exit with a non‑zero status.  
+
+**Example**  
 
 ```
-Gsv xlwv gl gsv olxp
-```
+$ echo 10100011 | your_program
+163
+```  
 
-Decode the message and report the plaintext in your PR.  
-
-*Hint:* The alphabet may be mirrored.  
+Provide the source code in any language, but the file must be named `heartbeat.<ext>` (e.g., `heartbeat.py`).  
 
 ---  
 
 ## Hall of Fame  
 
-*(no entries yet)*  
+*No solvers yet.*  
 
 ---  
 
-## Credits  
+### Credits  
 
-- **Today's solvers:** *(none)*  
-- **Lore suggesters:** *(none)*  
+- **Solvers today:** _none_  
+- **Lore suggesters today:** _none_  
 
 ---  
 
-*Remember, the network watches. Each unanswered transmission feeds the void.*
+*The silence presses. Will the next transmission break it?*
