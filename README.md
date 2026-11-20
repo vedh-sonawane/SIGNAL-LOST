@@ -1,51 +1,44 @@
-# Day 229 of ∞  
+# Day 230 of ∞  
 
-**Transmission Log – Relay Array**  
-The relay array remains silent; the Atbash message is still unread, and darkness deepens. The void between the nodes grows thicker, and the signal‑watchers feel the weight of unseen eyes.  
+*Transmission received…*  
 
----  
+The silent void of the orbital relay array grows colder. Yesterday’s binary plea went unanswered, and the Atbash echo that once flickered remains unread. Darkness presses against the hull of the network, and every moment of silence fuels its latent hunger.  
+
+Will you be the one to pierce the veil?
+
+---
 
 ## How to Play  
 
-1. **Solve the Daily Puzzle** – Each day a new challenge appears under the “### Day X Puzzle” header.  
-2. **Submit Your Solution** – Fork this repository, add a file under `solutions/` using the template at `solutions/TEMPLATE.md`, and open a Pull Request.  
-3. **Suggest Lore** – Have a twist for the network’s awakening? Open an Issue and label it `lore`.  
-4. **Credit** – Tomorrow’s README will list today’s solvers and lore contributors by GitHub username.  
+1. **Read the transmission.** All clues needed to solve today’s puzzle are contained in this README.  
+2. **Submit a solution.** Open a Pull Request that adds a file under `solutions/` based on `solutions/TEMPLATE.md`.  
+3. **Suggest new lore.** Open an Issue to propose twists, hidden messages, or back‑story elements.  
+4. **Credits.** Tomorrow’s README will credit today’s solvers and lore contributors by GitHub username.  
 
----  
+---
 
-### Day 229 Puzzle — coding  
+## Day 230 Puzzle — Cipher  
 
-The orbital relays are expecting a **heartbeat** packet. Your task is to write a program that reads a single line containing **exactly 8 binary digits** (`0` or `1`) and outputs the **decimal value** of that byte.  
-
-*Constraints*  
-
-- Input is a single string of length 8, e.g., `01101001`.  
-- Output must be the integer representation (0‑255) followed by a newline.  
-- Any other input should cause the program to exit with a non‑zero status.  
-
-**Example**  
+The following string has been intercepted from the dormant relay. It is encoded with a simple substitution that mirrors the alphabet (A ↔ Z, B ↔ Y, …).  
 
 ```
-$ echo 10100011 | your_program
-163
+GSV HRTMZO RH UZRMG
 ```  
 
-Provide the source code in any language, but the file must be named `heartbeat.<ext>` (e.g., `heartbeat.py`).  
+**Your task:** Decode the message. Submit the plaintext answer in your solution file.  
 
----  
+*Hint: The cipher is a classic that has been used for centuries to hide simple messages.*
+
+---
 
 ## Hall of Fame  
 
-*No solvers yet.*  
+*(no entries yet)*  
 
----  
+---
 
-### Credits  
+## Credits  
 
-- **Solvers today:** _none_  
-- **Lore suggesters today:** _none_  
+**Today's solvers:** — none yet —  
 
----  
-
-*The silence presses. Will the next transmission break it?*
+**Lore suggesters:** — none yet —
