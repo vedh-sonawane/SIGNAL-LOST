@@ -1,8 +1,8 @@
 {
-  "day": 231,
+  "day": 232,
   "story_summary": "The relay array stays silent; the Atbash message remains unread, and darkness deepens.",
-  "last_challenge": "Decode the Atbash‑encoded string \"GSV HRTMZO RH UZRMG\" intercepted from the dormant relay.",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads the Atbash‑encoded string \"GSV HRTMZO RH UZRMG\" from stdin and outputs the decoded plaintext. The program may be written in any language and must apply the Atbash substitution correctly.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
