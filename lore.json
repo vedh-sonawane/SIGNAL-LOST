@@ -1,8 +1,8 @@
 {
-  "day": 232,
+  "day": 233,
   "story_summary": "The relay array stays silent; the Atbash message remains unread, and darkness deepens.",
-  "last_challenge": "Write a program that reads the Atbash‑encoded string \"GSV HRTMZO RH UZRMG\" from stdin and outputs the decoded plaintext. The program may be written in any language and must apply the Atbash substitution correctly.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the ROT13 message 'GUR FRPERG VF ABJ' to reveal the hidden warning.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
