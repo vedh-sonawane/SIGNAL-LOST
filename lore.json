@@ -1,8 +1,8 @@
 {
-  "day": 234,
+  "day": 235,
   "story_summary": "The relay array stays silent; the Atbash message remains unread, and darkness deepens.",
-  "last_challenge": "Write a program that reads a space‑separated list of 8‑bit binary numbers from stdin and outputs the corresponding ASCII string. For example, input '01001000 01100101 01101100 01101100 01101111' should produce 'Hello'.",
-  "last_challenge_type": "coding",
+  "last_challenge": "Decode the Caesar‑shifted ciphertext 'Wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj' to reveal the hidden sentence.",
+  "last_challenge_type": "cipher",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []

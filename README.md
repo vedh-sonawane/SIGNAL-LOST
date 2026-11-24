@@ -1,50 +1,49 @@
-# Day 233 of ∞  
+# 📡 Transmission Log – Day 234 of ∞  
 
-**Transmission Log – Orbit Relay 7**  
-The relay array stays silent; the Atbash message remains unread, and darkness deepens. The void between the satellites grows colder, and the faint hum of the dormant network whispers of an impending cascade.  
-
----
-
-## How to Play  
-
-1. **Read the transmission.** Every day a new puzzle appears, embedded in this README.  
-2. **Submit your solution.** Fork the repository, add a file under `solutions/` using the template in `solutions/TEMPLATE.md`, and open a Pull Request.  
-3. **Suggest lore.** Have an idea for the story? Open an Issue and label it `lore`.  
-4. **Tomorrow’s transmission** will credit today’s solvers and lore contributors by their GitHub usernames.  
+**Current Status:** The relay array stays silent; the Atbash message remains unread, and darkness deepens.  
+Your transmissions are the only light in the void.
 
 ---
 
-### Day 233 Puzzle — coding  
-
-The relay’s dormant core has left a fragment of its last operational routine encoded in binary. Your task is to recreate the routine.
-
-**Specification**  
-
-- Write a program (in any language) that reads a single line from **standard input** containing a space‑separated list of 8‑bit binary numbers.  
-- The program must convert each binary chunk to its ASCII character and output the concatenated string to **standard output**.  
-
-**Example**  
-
-```
-Input:  01001000 01100101 01101100 01101100 01101111
-Output: Hello
-```
-
-Provide the source file (named `solution.<ext>`) in a new folder under `solutions/` and reference this README’s puzzle description in your PR description.
+## 📖 Story Recap  
+The orbital relay network has yet to awaken. Our last attempt to decode the Atbash transmission failed, and the silence grows heavier. The next key to unlocking the array may lie within the very symbols you are reading now.
 
 ---
 
-## Hall of Fame  
+## 🛠️ How to Play  
 
-*No solvers have been recorded yet.*  
-
----
-
-## Credits for Day 233  
-
-- **Solvers:** *none*  
-- **Lore suggestions:** *none*  
+1. **Read the README.** All clues, puzzles, and lore are contained here.  
+2. **Solve the daily puzzle.**  
+   - Submit your solution by opening a **Pull Request** that adds a file under `solutions/` using the template at `solutions/TEMPLATE.md`.  
+3. **Suggest new lore.** Open an **Issue** with your twist on the network’s awakening.  
+4. **Tomorrow’s README** will credit today’s solvers and any lore suggestions by GitHub username.
 
 ---
 
-*The silence grows louder. Will you be the one to awaken the relays?*
+### Day 234 Puzzle — Cipher  
+
+The signal flickers, delivering a garbled string.  
+> `Wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj`
+
+Decode the transmission. What plain‑text sentence does it conceal?
+
+*Hint #1:* The cipher is a simple shift of the alphabet.  
+*Hint #2:* The shift amount is small and constant.  
+*Hint #3:* The result is a well‑known pangram.
+
+---
+
+## 🏆 Hall of Fame  
+
+*No solvers yet.*
+
+---
+
+### Credits  
+
+- **New Solvers Today:** *(none)*  
+- **Lore Suggesters Today:** *(none)*  
+
+---  
+
+*The silence waits. Will you be the one to break it?*
