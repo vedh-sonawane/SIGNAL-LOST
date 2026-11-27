@@ -1,8 +1,8 @@
 {
-  "day": 237,
+  "day": 238,
   "story_summary": "The relay array stays silent; the Atbash message remains unread, and darkness deepens.",
-  "last_challenge": "Decode the Atbash transmission: GSV IVOZB ZDZPVMH",
-  "last_challenge_type": "cipher",
+  "last_challenge": "Write a program that reads a comma‑separated list of positive integers representing relay IDs, identifies the prime IDs, and outputs the sum of those prime IDs. If none are prime, output 0.",
+  "last_challenge_type": "coding",
   "last_challenge_solved": false,
   "total_solvers": 3,
   "solver_hall_of_fame": []
